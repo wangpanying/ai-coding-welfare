@@ -7,6 +7,13 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 [Site](https://wangpanying.github.io/ai-coding-welfare/pt-BR/) · [Repositório no GitHub](https://github.com/wangpanying/ai-coding-welfare)
 
 > [!TIP]
+> **💬 Comunidade do projeto AI Coding · Grupo QQ：1121553067**
+>
+> Converse sobre configuração do Claude Code / Codex, créditos e novidades dos serviços. Compartilhe práticas de programação com IA e experimente projetos da comunidade.
+>
+> **[Entrar no grupo QQ →](https://qm.qq.com/q/wPrVbwIKs2)** · [Código QR do grupo](docs/assets/qq-group.svg)
+
+> [!TIP]
 > **📣 Divulgue seu projeto — as Issues são um espaço gratuito**
 >
 > Encontrou um serviço útil ou administra um? Abra uma Issue e inclua seu link de indicação. As Issues são públicas e ajudam outras pessoas a descobrir seu projeto. Posso incluir no diretório principal sugestões especialmente úteis e verificadas; o envio não garante inclusão.
@@ -15,25 +22,25 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-09-30 05:35 UTC
+**Dados atualizados em:** 2026-10-30 05:52 UTC
 
 ## Visão geral
 
-| Serviço | Status | Créditos no primeiro dia / plano | Créditos diários | Cadastro |
-| --- | --- | --- | --- | --- |
-| **ArtBloom** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) |
-| **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=NVN4) |
-| **DoCode** | Acessível | **300 unidades internas (não USD)** | Sem check-in | [Abrir serviço / cadastrar](https://ai.docode.life/register?aff=suPH) |
-| **JustDoWork** | Acessível | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=wQWM) |
-| **Mirasim** | Acessível | **Go · $1/mês** | Estimativas por janela de 5 horas | [Abrir serviço / cadastrar](https://mirasim.ai/) |
-| **FlushAPI** | Acessível | **$22.5** | Check-in ativo; valor não divulgado | [Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=w8tE) |
-| **KKtoken AI** | Acessível | **$120** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=CT8p) |
-| **Matrix** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) |
-| **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) |
-| **CheapCodex** | Acessível | **$40** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) |
-| **NOFX** | Acessível | **5 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in) |
+| Serviço | Status | Créditos no primeiro dia / plano | Créditos diários | Cadastro | Observações |
+| --- | --- | --- | --- | --- | --- |
+| **DoCode** | Acessível | **300 unidades internas (não USD)** | Sorteio grátis + cupons de desconto para recarga | [Abrir serviço / cadastrar](https://docode.cc/register?aff=suPH) | Entre no grupo do QQ para desbloquear muito mais benefícios |
+| **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=NVN4) | — |
+| **万家灯火** | Acessível | **50 unidades internas (não USD)** | CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta | [Abrir serviço / cadastrar](https://wjapi.vip/register) | Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta |
+| **Happy Code** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://happycodeai.com/register) | Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários |
+| **Prime Relay** | Acessível | **$20** | Check-in diário disponível | [Abrir serviço / cadastrar](https://www.primerelay.online/register) | É necessário entrar no grupo do QQ 239561070 |
+| **Codex Relay** | Acessível | **$10** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://codex-relay.codes/register) | — |
+| **Matrix** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
+| **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) | — |
+| **JustDoWork** | Acessível | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
+| **KKtoken AI** | Acessível | **$120** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=CT8p) | — |
+| **NOFX** | Acessível | **15 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — |
 
-**Créditos indicativos em USD no primeiro dia: $699.5 em 7 serviços que aceitam novos usuários.**
+**Créditos indicativos em USD no primeiro dia: $667 em 7 serviços que aceitam novos usuários.**
 
 Crédito no primeiro dia = cadastro + indicação + primeiro check-in (ou uma cota diária). São saldos separados em cada serviço, não dinheiro. Pontos, unidades internas, planos pagos, serviços arquivados e cadastros fechados ficam fora do total em USD. Condições e créditos recebidos podem variar.
 
@@ -45,34 +52,39 @@ As regras de crédito são registradas manualmente a partir de comunicados; as A
 2. Crie uma chave no painel. Use o endpoint verificado abaixo ou obtenha o endereço atual com o provedor se não houver um público.
 3. Configure um cliente compatível, faça uma requisição pequena e confira o consumo real do saldo antes de depender do serviço.
 
-## ArtBloom
+## DoCode
 
-Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no primeiro dia do cadastro e lista o Opus 5.5 (claude-opus-5-5) na página pública de modelos.
+Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólares americanos.
 
-[Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/artbloom/)
+[Abrir serviço / cadastrar](https://docode.cc/register?aff=suPH) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/docode/)
 
 
-- **Créditos no primeiro dia / plano**: $100
-- **Cadastro**: $100
-- **Créditos diários**: Não divulgado publicamente
+- **Créditos no primeiro dia / plano**: 300 unidades internas (não USD)
+- **Cadastro**: 50 unidades internas (não USD)
+- **Bônus de indicação**: 250 unidades internas (não USD)
+- **Créditos diários**: Sorteio grátis + cupons de desconto para recarga
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+- **Observações**: Entre no grupo do QQ para desbloquear muito mais benefícios
 
 
 ### Requisitos de cadastro
 
-Use o link completo de indicação e continue com o GitHub. A página de cadastro anuncia US$ 100 em créditos imediatos, sem exigir cartão de crédito. Após entrar, crie uma chave de API no painel.
+Somente e-mail e senha, com verificação por e-mail e Cloudflare Turnstile. Confira o código suPH no formulário antes de enviar; não é possível adicioná-lo depois. O domínio alternativo usa a mesma conta e saldo.
+
+**Código de indicação — confira este campo antes de enviar o cadastro: `suPH`**
 
 ### Recompensas, limites e cuidados importantes
 
-A página pública de modelos lista o Opus 5.5 e outros modelos com seus preços. Confira os preços atuais no serviço e o saldo real e o consumo no painel.
+Sem check-in diário. Os bônus vêm de comunicados, não de campos públicos de cota. Não some unidades internas ao total em USD: a recarga observada era de 50 unidades por CNY 1, com um comunicado também mencionando 25. Multiplicadores de grupo e saída afetam o consumo. Modelos e preços exigem login. É um gateway pago após o fim dos créditos promocionais; pode haver falhas e mudanças de preço na origem.
 
 ### Configuração do cliente
 
 Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
 
-- OpenAI Base URL: `https://api.artbloom.tech/v1`
-- [Documentação do provedor (pode estar em chinês)](https://api.artbloom.tech/models)
+- Anthropic Base URL: `https://docode.cc`
+- OpenAI Base URL: `https://docode.cc/v1`
+- [Links alternativos de cadastro: https://api.docode.cc](https://api.docode.cc/register?aff=suPH)
 
 ### Dados públicos dos modelos
 
@@ -80,7 +92,7 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/artbloom/)
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/docode/)
 ## AgentRouter
 
 Gateway comunitário com créditos de cadastro, indicação e check-in diário; endpoints Anthropic e compatíveis com OpenAI.
@@ -126,38 +138,35 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 | gpt-6-astra | $4 | $20 | — | openai |
 
 [Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/agentrouter/)
-## DoCode
+## 万家灯火
 
-Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólares americanos.
+O cadastro concede 50 unidades internas de uso de uma assinatura GPT por um mês, restrita ao grupo GPT indicado. Check-ins no QQ dão CNY 0,1–1 por dia; indicações elegíveis dão CNY 5 a cada participante. Consulte o crédito em “我的订阅” (Minhas assinaturas).
 
-[Abrir serviço / cadastrar](https://ai.docode.life/register?aff=suPH) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/docode/)
+[Abrir serviço / cadastrar](https://wjapi.vip/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/wanjiadenghuo/)
 
 
-- **Créditos no primeiro dia / plano**: 300 unidades internas (não USD)
+- **Créditos no primeiro dia / plano**: 50 unidades internas (não USD)
 - **Cadastro**: 50 unidades internas (não USD)
-- **Bônus de indicação**: 250 unidades internas (não USD)
-- **Créditos diários**: Sem check-in
+- **Créditos diários**: CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+- **Observações**: Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta
 
 
 ### Requisitos de cadastro
 
-Somente e-mail e senha, com verificação por e-mail e Cloudflare Turnstile. Confira o código suPH no formulário antes de enviar; não é possível adicioná-lo depois. O domínio alternativo usa a mesma conta e saldo.
-
-**Código de indicação — confira este campo antes de enviar o cadastro: `suPH`**
+Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação e mantenha aff=. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.
 
 ### Recompensas, limites e cuidados importantes
 
-Sem check-in diário. Os bônus vêm de comunicados, não de campos públicos de cota. Não some unidades internas ao total em USD: a recarga observada era de 50 unidades por CNY 1, com um comunicado também mencionando 25. Multiplicadores de grupo e saída afetam o consumo. Modelos e preços exigem login. É um gateway pago após o fim dos créditos promocionais; pode haver falhas e mudanças de preço na origem. O link principal de cadastro agora usa ai.docode.life. Uma verificação HTTPS local em 2026-09-25 encontrou um certificado incompatível com o nome do domínio; o cadastro por esse endereço não foi confirmado. Não ignore avisos de certificado; tente o link alternativo de cadastro se necessário.
+Os benefícios e modelos foram informados pelo operador na Issue #46. As configurações públicas e a saúde do serviço foram verificadas; o recebimento dos créditos e a inferência não foram testados. A assinatura de 50 unidades não tem limite diário, expira após um mês e cobre apenas o grupo GPT indicado. Ela é separada do saldo geral. CNY 1 compra 1 unidade interna; os $50 anunciados não são dólares em dinheiro e ficam fora do total em USD. Recompensas condicionais de check-in e indicação não entram nos créditos do primeiro dia. O multiplicador GPT a partir de 0.06x vale para um grupo específico; confira modelos, grupos e preços atuais no painel.
 
 ### Configuração do cliente
 
 Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
 
-- Anthropic Base URL: `https://docode.cc`
-- OpenAI Base URL: `https://docode.cc/v1`
-- [Links alternativos de cadastro: https://api.docode.cc](https://api.docode.cc/register?aff=suPH)
+- Anthropic Base URL: `https://wjapi.vip`
+- OpenAI Base URL: `https://wjapi.vip/v1`
 
 ### Dados públicos dos modelos
 
@@ -165,7 +174,186 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/docode/)
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/wanjiadenghuo/)
+## Happy Code
+
+Cadastre-se no Happy Code para receber $100 em créditos. Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários.
+
+[Abrir serviço / cadastrar](https://happycodeai.com/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/happycode/)
+
+
+- **Créditos no primeiro dia / plano**: $100
+- **Cadastro**: $100
+- **Créditos diários**: Não divulgado publicamente
+- **Status**: Acessível
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+- **Observações**: Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários
+
+
+### Requisitos de cadastro
+
+Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link de indicação completo e mantenha aff=. Cadastre-se com um e-mail aceito e código de verificação, ou use o NodeLoc. Depois, entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários.
+
+### Recompensas, limites e cuidados importantes
+
+Após o cadastro, solicite ao dono do grupo o pacote de teste de $100 para novos usuários. Consulte o painel para ver modelos, preços, chaves de API e instruções de configuração.
+
+### Configuração do cliente
+
+Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
+
+- [Painel](https://happycodeai.com)
+
+### Dados públicos dos modelos
+
+Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
+
+Não divulgado publicamente
+
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/happycode/)
+## Prime Relay
+
+O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite check-in diário.
+
+[Abrir serviço / cadastrar](https://www.primerelay.online/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/primerelay/)
+
+
+- **Créditos no primeiro dia / plano**: $20
+- **Cadastro**: $20
+- **Créditos diários**: Check-in diário disponível
+- **Status**: Acessível
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+- **Observações**: É necessário entrar no grupo do QQ 239561070
+
+
+### Requisitos de cadastro
+
+Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação com aff=. As configurações públicas de cadastro exigem atualmente um endereço @qq.com e verificação por e-mail. Entre para consultar o saldo e a opção de check-in.
+
+### Recompensas, limites e cuidados importantes
+
+A oferta de $20 no cadastro e o check-in diário foram informados pelo mantenedor. O valor do prêmio diário não foi especificado e não entra no total do primeiro dia. Consulte modelos e preços na lista pública de modelos. Promoções de indicação separadas podem exigir entrada no grupo do QQ; esses prêmios não foram somados aos $20. Grupo oficial do QQ: 239561070.
+
+### Configuração do cliente
+
+Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
+
+- OpenAI Base URL: `https://primerelay.online/v1`
+
+### Dados públicos dos modelos
+
+Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
+
+Não divulgado publicamente
+
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/primerelay/)
+## Codex Relay
+
+Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.
+
+[Abrir serviço / cadastrar](https://codex-relay.codes/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/codex-relay/)
+
+
+- **Créditos no primeiro dia / plano**: $10
+- **Cadastro**: $10
+- **Créditos diários**: Não divulgado publicamente
+- **Status**: Acessível
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+
+
+### Requisitos de cadastro
+
+Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação, mantenha aff= e siga as instruções de cadastro. Entre na conta para conferir seu saldo de US$ 10 em créditos de cadastro.
+
+### Recompensas, limites e cuidados importantes
+
+Consulte o console para ver os modelos disponíveis, preços, chaves de API, endpoints e instruções de configuração do cliente.
+
+### Configuração do cliente
+
+Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
+
+- [Painel](https://codex-relay.codes)
+
+### Dados públicos dos modelos
+
+Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
+
+Não divulgado publicamente
+
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/codex-relay/)
+## Matrix
+
+Gateway compatível com OpenAI e loja de apps com pontos internos, indicações e verificação de identidade opcional.
+
+[Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/matrix/)
+
+
+- **Créditos no primeiro dia / plano**: Não divulgado publicamente
+- **Créditos diários**: Não divulgado publicamente
+- **Status**: Acessível
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+
+
+### Requisitos de cadastro
+
+Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use a URL completa. Há SSO da Hangzhou Dianzi University, código por telefone ou e-mail/senha. A recompensa por indicação vale para novos usuários sem exigir verificação de identidade. Crie uma chave mat- no painel; ela aparece uma única vez, junto ao endereço atual do gateway.
+
+### Recompensas, limites e cuidados importantes
+
+Pontos não são USD. A verificação de identidade opcional rende 2.000 pontos uma vez, mas exige dados pessoais; avalie essa troca. A campanha informa validade até 2026-12-31. Pontos recebidos só funcionam em serviços elegíveis. Não há endpoint Anthropic nativo documentado, então Claude Code não conecta diretamente. Contêineres de apps em execução continuam consumindo saldo: pare ou exclua após o uso. Assinaturas e recargas pagas são separadas.
+
+### Configuração do cliente
+
+Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
+
+- [Painel](https://matrix.mzsjai.com/app/apikey)
+- [Documentação do provedor (pode estar em chinês)](https://matrix.mzsjai.com/docs/matrix/intro/)
+
+### Dados públicos dos modelos
+
+Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
+
+Não divulgado publicamente
+
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/matrix/)
+## AnyRouter
+
+Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas Anthropic/OpenAI.
+
+[Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/anyrouter/)
+
+
+- **Créditos no primeiro dia / plano**: $150
+- **Cadastro**: $75
+- **Bônus de indicação**: $50
+- **Créditos diários**: $25/dia · Check-in diário
+- **Status**: Acessível
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
+
+
+### Requisitos de cadastro
+
+Use a URL de indicação. Contas GitHub devem ter pelo menos cinco anos; LinuxDO é uma alternativa sem essa exigência de idade. Saia e entre novamente após o check-in para atualizar o saldo.
+
+### Recompensas, limites e cuidados importantes
+
+Créditos e preços anunciados de entrada/saída de $5/$25 por milhão de tokens vêm de comunicados. Desafios JavaScript impedem a verificação automática da API pública; confirme modelos, preços e valores recebidos no painel. Uma página de desafio não comprova queda do serviço.
+
+### Configuração do cliente
+
+Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
+
+- Anthropic Base URL: `https://anyrouter.top`
+- OpenAI Base URL: `https://anyrouter.top/v1`
+
+### Dados públicos dos modelos
+
+Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
+
+Não divulgado publicamente
+
+[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
 ## JustDoWork
 
 Gateway New API com login GitHub, check-ins diários e interfaces de imagens e tarefas.
@@ -178,7 +366,7 @@ Gateway New API com login GitHub, check-ins diários e interfaces de imagens e t
 - **Créditos diários**: ≈$22/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
 
 
 ### Requisitos de cadastro
@@ -204,94 +392,6 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 Não divulgado publicamente
 
 [Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/justdowork/)
-## Mirasim
-
-Ambiente multiagente com plano Go pago; conectar suas próprias contas ou chaves é gratuito, mas o uso de terceiros é cobrado à parte.
-
-[Abrir serviço / cadastrar](https://mirasim.ai/) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/mirasim/)
-
-
-- **Créditos no primeiro dia / plano**: Go · $1/mês
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
-
-> Estimativas por janela de 5 horas
-> Kimi K3: ≈130 requisições
-> GLM 5.3 Flash: ≈1,900 requisições
-> DS 4.1 Flash: ≈7,800 requisições
-> Plano pago, excluído do total de créditos gratuitos. São estimativas do provedor para uma cota compartilhada: não some as quantidades dos modelos nem as interprete como totais diários ou mensais garantidos.
-
-[Preços oficiais](https://mirasim.ai/pricing) · Verificado manualmente: 2026-09-23
-
-### Requisitos de cadastro
-
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo e entre com GitHub ou código por e-mail. Nenhuma regra pública promete bônus de cadastro ao convidado. Instale o cliente oficial ou siga a documentação da CLI; nenhuma URL base genérica de relay foi verificada publicamente.
-
-### Recompensas, limites e cuidados importantes
-
-As estimativas do Go compartilham a mesma cota e não podem ser somadas. Quem indica recebe um mês de Go apenas quando três amigos convidados assinam o Go. Os planos Basic, Pro e Max de Claude/Codex são separados. O software Alpha pode ser lento ou sofrer interrupções; compensações antigas do beta não são benefícios para novos usuários. O robots permite verificar preços, não o caminho de indicação; acessibilidade não comprova cadastro, pagamento ou inferência.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- [Painel](https://mirasim.ai/account)
-- [Documentação do provedor (pode estar em chinês)](https://mirasim.ai/docs/zh/quickstart)
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/mirasim/)
-## FlushAPI
-
-Gateway New API com cadastro GitHub, preços públicos e saldos default / Super separados.
-
-[Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=w8tE) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/flushapi/)
-
-
-- **Créditos no primeiro dia / plano**: $22.5
-- **Cadastro**: $15
-- **Bônus de indicação**: $7.5
-- **Créditos diários**: Check-in ativo; valor não divulgado
-- **Status**: Acessível
-- **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
-
-
-### Requisitos de cadastro
-
-Somente GitHub OAuth; cadastro por e-mail/senha desativado. A configuração verificada não exigia validação de e-mail nem Turnstile. Use a URL de indicação completa para receber o bônus adicional.
-
-### Recompensas, limites e cuidados importantes
-
-Valores de cadastro e indicação vêm do comunicado de 2026-09-24, não de campos públicos de cota. Segundo o aviso, quem indica também recebe $7.5 por amigo. O check-in está ativo, mas o valor não foi divulgado. O bônus de cadastro é saldo default; modelos avançados Claude/Opus, Fable e GPT podem exigir saldo Super separado. Confira a categoria antes de usar. Serviço muito novo, sem histórico de confiabilidade de longo prazo; oferece recargas pagas.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- Anthropic Base URL: `https://flushapi.fun`
-- OpenAI Base URL: `https://flushapi.fun/v1`
-- [Documentação do provedor (pode estar em chinês)](https://flushapi.fun/docs)
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-| Modelo | Entrada / 1 milhão de tokens | Saída / 1 milhão de tokens | Por requisição | Protocolo |
-| --- | --- | --- | --- | --- |
-| claude-fable-5 | $10 | $50 | — | anthropic / openai |
-| claude-opus-4-8 | $5 | $25 | — | anthropic / openai |
-| claude-opus-5 | $5 | $25 | — | anthropic / openai |
-| claude-sonnet-5 | $2 | $10 | — | anthropic / openai |
-| gpt-5.6-luna | $0.2 | $1.2 | — | openai |
-| gpt-5.6-sol | $4 | $20 | — | openai |
-| gpt-6-astra | $10 | $50 | — | openai |
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
 
 Gateway New API com créditos de indicação, check-ins diários e cobrança por token.
@@ -305,7 +405,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
 
 
 ### Requisitos de cadastro
@@ -331,130 +431,23 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 Não divulgado publicamente
 
 [Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/kktoken/)
-## Matrix
-
-Gateway compatível com OpenAI e loja de apps com pontos internos, indicações e verificação de identidade opcional.
-
-[Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/matrix/)
-
-
-- **Créditos no primeiro dia / plano**: Não divulgado publicamente
-- **Créditos diários**: Não divulgado publicamente
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
-
-
-### Requisitos de cadastro
-
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use a URL completa. Há SSO da Hangzhou Dianzi University, código por telefone ou e-mail/senha. A recompensa por indicação vale para novos usuários sem exigir verificação de identidade. Crie uma chave mat- no painel; ela aparece uma única vez, junto ao endereço atual do gateway.
-
-### Recompensas, limites e cuidados importantes
-
-Pontos não são USD. A verificação de identidade opcional rende 2.000 pontos uma vez, mas exige dados pessoais; avalie essa troca. A campanha informa validade até 2026-12-31. Pontos recebidos só funcionam em serviços elegíveis. Não há endpoint Anthropic nativo documentado, então Claude Code não conecta diretamente. Contêineres de apps em execução continuam consumindo saldo: pare ou exclua após o uso. Assinaturas e recargas pagas são separadas.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- [Painel](https://matrix.mzsjai.com/app/apikey)
-- [Documentação do provedor (pode estar em chinês)](https://matrix.mzsjai.com/docs/quickstart)
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/matrix/)
-## AnyRouter
-
-Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas Anthropic/OpenAI.
-
-[Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/anyrouter/)
-
-
-- **Créditos no primeiro dia / plano**: $150
-- **Cadastro**: $75
-- **Bônus de indicação**: $50
-- **Créditos diários**: $25/dia · Check-in diário
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
-
-
-### Requisitos de cadastro
-
-Use a URL de indicação. Contas GitHub devem ter pelo menos cinco anos; LinuxDO é uma alternativa sem essa exigência de idade. Saia e entre novamente após o check-in para atualizar o saldo.
-
-### Recompensas, limites e cuidados importantes
-
-Créditos e preços anunciados de entrada/saída de $5/$25 por milhão de tokens vêm de comunicados. Desafios JavaScript impedem a verificação automática da API pública; confirme modelos, preços e valores recebidos no painel. Uma página de desafio não comprova queda do serviço.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- Anthropic Base URL: `https://anyrouter.top`
-- OpenAI Base URL: `https://anyrouter.top/v1`
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
-## CheapCodex
-
-Gateway de IA com créditos de indicação, check-ins e rotas OpenAI, Anthropic e Responses.
-
-[Abrir serviço / cadastrar](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/cheapcodex/)
-
-
-- **Créditos no primeiro dia / plano**: $40
-- **Bônus de indicação**: $20
-- **Créditos diários**: $20/dia · Check-in diário
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
-
-
-### Requisitos de cadastro
-
-Cadastro apenas por e-mail; use a URL completa porque a indicação é vinculada nesse momento. OAuth de terceiros estava desativado, assim como Turnstile na configuração verificada.
-
-### Recompensas, limites e cuidados importantes
-
-Créditos e modelos anunciados vêm de comunicados. O robots proíbe verificar a API do painel; apenas /v1/models é testado quanto à acessibilidade, não à inferência. Confirme modelos e preços após login. Assinaturas pagas são separadas e o pagamento pode ocorrer em domínio externo. Recompensas por indicação em domínios alternativos não foram verificadas.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- Anthropic Base URL: `https://api.cheapcodex.online`
-- OpenAI Base URL: `https://api.cheapcodex.online/v1`
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/cheapcodex/)
 ## NOFX
 
 Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; pontos não são USD.
 
-[Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/nofx/)
+[Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/nofx/)
 
 
-- **Créditos no primeiro dia / plano**: 5 pontos
+- **Créditos no primeiro dia / plano**: 15 pontos
+- **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-30 05:34 UTC
+- **Dados atualizados em**: 2026-10-30 05:51 UTC
 
 
 ### Requisitos de cadastro
 
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Preserve a URL completa. Entre por magic link de e-mail ou GitHub. Participe do Discord e selecione /verify e /checkin no menu de comandos; essas recompensas exigem Discord. Obtenha a chave e a URL base real no painel autenticado.
+Preserve a URL completa. Entre por magic link de e-mail ou GitHub. Participe do Discord e selecione /verify e /checkin no menu de comandos; essas recompensas exigem Discord. Obtenha a chave e a URL base real no painel autenticado.
 
 ### Recompensas, limites e cuidados importantes
 
@@ -478,6 +471,12 @@ Não divulgado publicamente
 
 Não são mais recomendados para cadastro, incluídos nos totais ou verificados automaticamente. Os motivos originais e o histórico permanecem na edição chinesa.
 
+- [flushapi](https://wangpanying.github.io/ai-coding-welfare/sites/flushapi/) · 2026-10-30
+- [cheapcodex](https://wangpanying.github.io/ai-coding-welfare/sites/cheapcodex/) · 2026-10-28
+- [conduit](https://wangpanying.github.io/ai-coding-welfare/sites/conduit/) · 2026-10-19
+- [omnirush](https://wangpanying.github.io/ai-coding-welfare/sites/omnirush/) · 2026-10-14
+- [mirasim](https://wangpanying.github.io/ai-coding-welfare/sites/mirasim/) · 2026-10-12
+- [artbloom](https://wangpanying.github.io/ai-coding-welfare/sites/artbloom/) · 2026-10-10
 - [gorouter](https://wangpanying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
 - [tabitoken](https://wangpanying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
 - [rawchat](https://wangpanying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21

@@ -6,6 +6,81 @@ AI Coding 福利站导航的自动变动记录：站点上下线、额度调整�
 
 > 只记录会影响「值不值得注册」的字段。探测被站点 WAF 拦下时不记在线状态变化，避免机房 IP 被拦被误报成掉线。
 
+## 2026-10-30
+
+- 🟢 万家灯火 恢复在线 <sub>01:58 UTC</sub>
+- 🗑️ 移入历史区 FlushAPI：2026-10-29 起 CI 连续三轮探测离线；2026-10-30 复查首页、注册、状态接口与文档均返回 HTTP 522（源站连接超时），暂移历史区，确认恢复后可重新收录 <sub>01:58 UTC</sub>
+
+## 2026-10-29
+
+- 🔴 万家灯火 探测不到了：注册页与公开接口都没响应 <sub>22:47 UTC</sub>
+- 🔴 FlushAPI 探测不到了：注册页与公开接口都没响应 <sub>05:52 UTC</sub>
+
+## 2026-10-28
+
+- 🗑️ 移入历史区 CheapCodex：按维护者要求下架，移入历史区，不再推荐注册 <sub>06:06 UTC</sub>
+- 🆕 新收录 万家灯火：注册送 50 站内刀 <sub>02:51 UTC</sub>
+
+## 2026-10-22
+
+- 📢 DoCode 发了公告：Gemini Ultra分组上架，仅Gemini 4 Argon <sub>11:56 UTC</sub>
+
+## 2026-10-21
+
+- 🟢 FlushAPI 恢复在线 <sub>11:52 UTC</sub>
+- 🔴 FlushAPI 探测不到了：注册页与公开接口都没响应 <sub>04:52 UTC</sub>
+
+## 2026-10-20
+
+- 🆕 新收录 Happy Code：注册送 $100 <sub>06:32 UTC</sub>
+
+## 2026-10-19
+
+- 🗑️ 移入历史区 Conduit：按维护者要求下架，移入历史区，不再推荐注册 <sub>09:46 UTC</sub>
+- 🆕 新收录 Prime Relay：注册送 $20 <sub>09:33 UTC</sub>
+
+## 2026-10-15
+
+- 📢 DoCode 发了公告：生图功能暂时不可用，原因为 OpenAI 官方协议变更。 预计这两天修复好 <sub>04:42 UTC</sub>
+
+## 2026-10-14
+
+- 🗑️ 移入历史区 OmniRush：按维护者要求下架，移入历史区，不再推荐注册 <sub>01:30 UTC</sub>
+
+## 2026-10-12
+
+- 🗑️ 移入历史区 Mirasim：按维护者要求下架，移入历史区，不再推荐注册 <sub>01:32 UTC</sub>
+
+## 2026-10-10
+
+- 🗑️ 移入历史区 ArtBloom：按维护者要求下架，移入历史区，不再推荐注册 <sub>14:34 UTC</sub>
+- 🟢 Codex Relay 恢复在线 <sub>05:55 UTC</sub>
+
+## 2026-10-09
+
+- 🔴 Codex Relay 探测不到了：注册页与公开接口都没响应 <sub>22:40 UTC</sub>
+- 🆕 新收录 Codex Relay：注册送 $10 <sub>09:52 UTC</sub>
+- 🟢 CheapCodex 恢复在线 <sub>09:52 UTC</sub>
+- 📢 DoCode 发了公告：gpt 全系已大幅下调倍率，gptpro 最低 7 倍，不降智最低 15 倍，官 key 最低 24 倍。 <sub>06:12 UTC</sub>
+- 🔴 CheapCodex 探测不到了：注册页与公开接口都没响应 <sub>06:12 UTC</sub>
+
+## 2026-10-04
+
+- 📢 DoCode 发了公告：最近上线模型：gpt-6.1-sol、claude-opus-5-5、claude-sonnet-5-5 <sub>05:56 UTC</sub>
+
+## 2026-10-02
+
+- 🟢 FlushAPI 恢复在线 <sub>12:38 UTC</sub>
+
+## 2026-10-01
+
+- 🔴 FlushAPI 探测不到了：注册页与公开接口都没响应 <sub>13:19 UTC</sub>
+- 🆕 新收录 OmniRush：每周免费 50M tokens（5000 万），通过本页邀请链接额外 +5M tokens（500 万）；按投稿信息登记，实际到账与适用条件以控制台为准。 <sub>06:33 UTC</sub>
+
+## 2026-09-30
+
+- 🆕 新收录 Conduit：注册送 $500 <sub>10:16 UTC</sub>
+
 ## 2026-09-29
 
 - ➕ FlushAPI 上线模型：claude-sonnet-5 <sub>05:46 UTC</sub>

@@ -8,24 +8,31 @@
   <img src="https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%AB%99%E7%82%B9-11%20%E4%B8%AA-blue" alt="收录站点">
   <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF-11%2F11-brightgreen" alt="在线">
   <img src="https://img.shields.io/badge/%E9%A6%96%E6%97%A5%E5%8F%AF%E5%BE%97-%E6%9C%80%E9%AB%98%20%24175-success" alt="首日可得">
-  <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0-2026--09--30%2005.35%20UTC-informational" alt="数据更新">
+  <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0-2026--10--30%2005.52%20UTC-informational" alt="数据更新">
 </p>
 
 <p align="center">
-  <a href="https://api.artbloom.tech/signup?ref=2ETIFBG3ZU"><b>ArtBloom 注册</b></a> ·
+  <a href="https://docode.cc/register?aff=suPH"><b>DoCode 注册</b></a> ·
   <a href="https://agentrouter.org/register?aff=NVN4"><b>AgentRouter 注册</b></a> ·
-  <a href="https://ai.docode.life/register?aff=suPH"><b>DoCode 注册</b></a> ·
-  <a href="https://api.justwoker.icu/sign-up?aff=wQWM"><b>JustDoWork 注册</b></a> ·
-  <a href="https://mirasim.ai/"><b>Mirasim 注册</b></a> ·
-  <a href="https://flushapi.fun/sign-up?aff=w8tE"><b>FlushAPI 注册</b></a> ·
-  <a href="https://kktoken.cc/sign-up?aff=CT8p"><b>KKtoken AI 注册</b></a> ·
+  <a href="https://wjapi.vip/register"><b>万家灯火 注册</b></a> ·
+  <a href="https://happycodeai.com/register"><b>Happy Code 注册</b></a> ·
+  <a href="https://www.primerelay.online/register"><b>Prime Relay 注册</b></a> ·
+  <a href="https://codex-relay.codes/register"><b>Codex Relay 注册</b></a> ·
   <a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth"><b>Matrix 注册</b></a> ·
   <a href="https://anyrouter.top/register?aff=LEGK"><b>AnyRouter 注册</b></a> ·
-  <a href="https://api.cheapcodex.online/register?aff=KNPERHNX9E5A"><b>CheapCodex 注册</b></a> ·
-  <a href="https://nofx.one/zh-CN/sign-in"><b>NOFX 注册</b></a>
+  <a href="https://api.justwoker.icu/sign-up?aff=wQWM"><b>JustDoWork 注册</b></a> ·
+  <a href="https://kktoken.cc/sign-up?aff=CT8p"><b>KKtoken AI 注册</b></a> ·
+  <a href="https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG"><b>NOFX 注册</b></a>
 </p>
 
 <p align="center"><a href="https://wangpanying.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://wangpanying.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://wangpanying.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://wangpanying.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
+
+> [!TIP]
+> **💬 AI Coding 项目交流群 · QQ 群号：1121553067**
+>
+> 交流 Claude Code / Codex 配置、额度使用和站点动态，分享 AI 编程实践与项目体验。
+>
+> **[加入 QQ 群 →](https://qm.qq.com/q/wPrVbwIKs2)** · [入群二维码](docs/assets/qq-group.svg)
 
 > [!TIP]
 > **📣 欢迎投稿：Issue 区就是你的免费推广位**
@@ -36,27 +43,25 @@
 
 ## 🚀 一分钟上车
 
-| 站点 | 状态 | 首日可得 / 套餐 | 额度构成 / 用量 | 每日 / 周期 | 兼容协议 | 模型 | 注册 | 邀请码 |
-| :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| **ArtBloom** 🔥 | 🟢 在线 | **$100** | 注册 $100 | — | OpenAI | **支持 Opus 5.5** | [点此注册 →](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) | — |
-| **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=NVN4) | — |
-| **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 无签到 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://ai.docode.life/register?aff=suPH) | `suPH` |
-| **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
-| **Mirasim** | 🟢 在线 | **Go套餐 $1/月** | Kimi K3 **≈130 次**<br>GLM 5.3 Flash **≈1,900 次**<br>DS 4.1 Flash **≈7,800 次** | **每 5 小时**<br>共享额度 | Mirasim 客户端 / CLI | 3 种<br>官网公示 | [查看 Go →](https://mirasim.ai/) | — |
-| **FlushAPI** | 🟢 在线 | **$22.5** | 注册 $15 + 本页邀请 $7.5 | 支持签到 | Anthropic + OpenAI | 7 个可查 | [GitHub 注册 →](https://flushapi.fun/sign-up?aff=w8tE) | — |
-| **KKtoken AI** | 🟢 在线 | **$120** | 注册 $75 + 本页邀请 $25 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://kktoken.cc/sign-up?aff=CT8p) | — |
-| **Matrix** | 🟢 在线 | 未配置邀请码 | — | — | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
-| **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=LEGK) | — |
-| **CheapCodex** | 🟢 在线 | **$40** | 本页邀请 $20 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) | — |
-| **NOFX** | 🟢 在线 | **5 积分** | 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in) | — |
+| 站点 | 状态 | 首日可得 | 额度构成 | 之后每天 | 兼容协议 | 模型 | 注册 | 邀请码 | 备注 |
+| :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
+| **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 免费抽奖+充值优惠券 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://docode.cc/register?aff=suPH) | `suPH` | 加qq群可以解锁超多福利 |
+| **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=NVN4) | — | — |
+| **万家灯火** | 🟢 在线 | **50 站内刀** | 注册 50 站内刀<br>可在「我的订阅」中查看这 50 站内刀 | 进群绑定账号后，每日签到随机领 ¥0.1～1 通用余额 | Anthropic + OpenAI | **GPT / Claude / Gemini / Grok / 国产模型** | [点此注册 →](https://wjapi.vip/register) | — | 订阅仅限 GPT「不降智」分组；签到与邀请需加入 QQ 群 1064350952 并绑定账号 |
+| **Happy Code** | 🟢 在线 | **$100** | 注册 $100 | — | 控制台内查看 | 需登录查看 | [点此注册 →](https://happycodeai.com/register) | — | 需要加 QQ 群 367746547 找群主获取新人体验包 |
+| **Prime Relay** | 🟢 在线 | **$20** | 注册 $20 | 支持每日签到 | OpenAI | **Claude / GPT 等** | [点此注册 →](https://www.primerelay.online/register) | — | 需要进qq群,239561070 |
+| **Codex Relay** | 🟢 在线 | **$10** | 注册 $10 | — | 控制台内查看 | 需登录查看 | [点此注册 →](https://codex-relay.codes/register) | — | — |
+| **Matrix** | 🟢 在线 | 未配置邀请码 | — | — | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — | — |
+| **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=LEGK) | — | — |
+| **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=wQWM) | — | — |
+| **KKtoken AI** | 🟢 在线 | **$120** | 注册 $75 + 本页邀请 $25 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://kktoken.cc/sign-up?aff=CT8p) | — | — |
+| **NOFX** | 🟢 在线 | **15 积分** | 本页邀请 10 积分 + 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — | — |
 
-> **Mirasim Go套餐 $1/月：用量按每 5 小时估算，不是每月总次数。** 官网估算，共享额度按模型折算，各模型次数不可相加；实际用量以站内为准。 付费套餐不计入下方免费额度合计。[官网定价](https://mirasim.ai/pricing)（2026-09-23 核对）。
-
-> 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-09-30 05:35 UTC`。
+> 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-10-30 05:52 UTC`。
 >
 > 「邀请码」列写了码的站（DoCode `suPH`），注册表单里有一栏要**自己填**，漏填就只拿得到注册基础额度、事后补不上；其余站写 — 表示未登记需要手填的邀请码，邀请奖励与条件请看站点详情。
 >
-> 7 个有明确美元额度、且还收新用户的站全注册一遍，第一天手上大约有 **$699.5** 额度可用；DoCode 另发 300 站内刀，NOFX 另发 5 积分，都是各站自己的计价单位、与美元没有公开换算，未计入这个合计。
+> 7 个有明确美元额度、且还收新用户的站全注册一遍，第一天手上大约有 **$667** 额度可用；DoCode 另发 300 站内刀，万家灯火 另发 50 站内刀，NOFX 另发 15 积分，都是各站自己的计价单位、与美元没有公开换算，未计入这个合计。
 >
 > 🟡 有 1 个站点已超过 48 小时没抓到接口数据，其明细为上一次成功抓取的快照；在线状态按注册页实际可访问性判断。
 
@@ -67,58 +72,95 @@
 3. 跑一键脚本，或手抄下面对应站点的环境变量
 
 ```bash
-# 交互式写好 Claude Code 的环境变量（macOS / Linux）
+# 交互式写好 Claude Code 的环境变量（macOS / Linux，需要 Node.js）
+git clone --depth 1 https://github.com/wangpanying/ai-coding-welfare.git && cd ai-coding-welfare
 bash scripts/quickstart.sh
 ```
 
 ```powershell
-# Windows PowerShell
+# Windows PowerShell（5.1 不认 &&，两条命令用 ; 隔开）
+git clone --depth 1 https://github.com/wangpanying/ai-coding-welfare.git; cd ai-coding-welfare
 powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 ```
 
 ## 📚 站点详情
 
 
-### 🟢 ArtBloom 🔥 首推
+### 🟢 DoCode
 
-> 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册
+> New API 中转站 · 注册送 50 站内刀，注册时填邀请码 suPH 再加 250，首日 300 刀，Claude 与 GPT 都在架上
 
-<a href="https://api.artbloom.tech/signup?ref=2ETIFBG3ZU"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-ArtBloom-brightgreen?style=for-the-badge" alt="注册 ArtBloom"></a>
+<a href="https://docode.cc/register?aff=suPH"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DoCode-brightgreen?style=for-the-badge" alt="注册 DoCode"></a>
 
 **为什么值得注册**
 
-- 注册首日即送 $100 API 额度，注册页公示即时到账，无需信用卡
-- 支持 Opus 5.5（claude-opus-5-5），公开模型页价格为输入 $2 / 百万 tokens、输出 $10 / 百万 tokens
-- 通过本页邀请链接使用 GitHub 注册；支持 OpenAI 兼容接口，可在通用客户端中接入
+- ⚠️ 别漏了邀请码：注册表单里的「邀请码」一栏填 suPH，这 250 站内刀才会到账。从本页链接进去通常会自动带上，但提交前务必肉眼确认那一栏不是空的——没填就只有注册送的 50，事后补不上
+- 注册送 50 站内刀，填了邀请码 suPH 再加 250，首日 300 刀不用充值——注意这个「刀」是站内计价单位，不是美元，换算见下面的风险提示
+- Claude 和 GPT 同时在架：站内公告点名 cc / cc-kiro 分组的 sonnet-5、按次计费的 opus4.6，以及 GPT pro / plus、Grok、Gemini、fable-5，一把 Key 通吃，本页多数站只给其中一边
+- Anthropic 与 OpenAI 两条原生路由都开着（不带 key 探 /v1/messages 与 /v1/chat/completions 都回 New API 的 401 Invalid token），Claude Code 填 Base URL 就能直连，Codex CLI 走 /v1
+- 面板公开配置里带着一键导入的 deeplink：CC Switch、Cherry Studio、DeepChat、OpenCat、Lobe Chat 等客户端可以从后台直接把 Key 推过去
+- 主域名之外还有 api.docode.cc（公告写「直连美国」），实测两个入口都活着，主站进不去时可以换
 
 **能拿多少额度**
 
-- 注册即送：**$100**
-- 首日合计：**$100**
+- 注册即送：**50 站内刀**
+- 从本页邀请链接注册额外：**250 站内刀**
+- 首日合计：**300 站内刀**　（注册 50 站内刀 + 本页邀请 250 站内刀）
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：718 ms
+- 站点名称：**DoCode**
+- 每日签到：❌
+- 开放注册：✅
+- 登录方式：账号密码
+- 接口延迟：590 ms
 
-> 2026-09-28 核对公开模型页：Opus 5.5 的模型 ID 为 claude-opus-5-5，输入 $2 / 百万 tokens、输出 $10 / 百万 tokens；另列有 claude-opus-5、DeepSeek-V4-Flash、kimi-k3。通过 OpenAI 兼容的 /v1/chat/completions 调用，完整模型与实时价格见 https://api.artbloom.tech/models。
+**镜像 / 备用入口**
+
+- 直连美国：<https://api.docode.cc> · [从备用域名注册](https://api.docode.cc/register?aff=suPH)
+
+> 该站把定价页设成了登录可见（`/api/pricing` 返回 401，站点自己的导航配置里 pricing.requireAuth = true），本页不列模型表。站内公告点名在售的有 Claude（cc / cc-kiro 分组，sonnet-5 与按次计费的 opus4.6）、GPT pro / plus、Grok、Gemini、fable-5，另有独立的生图入口 img.docode.cc；完整清单、分组与倍率注册后在控制台「定价」页确认。
 
 **注册要求**
 
-- 从本页完整邀请链接进入，保留 ref=2ETIFBG3ZU，再点击 Continue with GitHub 注册
-- 注册页公示新账号即时获得 $100 免费额度，到账后可在后台查看余额并创建 API Key
+- 邀请码 = suPH。从本页链接进入（带 ?aff=suPH）通常会自动填进注册表单的「邀请码」栏，提交前自己再看一眼；空着就只拿得到注册送的 50 站内刀
+- 250 站内刀在注册那一刻结算，注册完再去后台补填邀请码是没用的
+- 只能邮箱 + 密码建号：公开配置里 github / linuxdo / discord / telegram / 微信 / OIDC / Passkey 的开关全是 false，没有第三方登录入口
+- 注册要邮箱验证码（email_verification = true），并且开着 Cloudflare Turnstile 人机校验
+- 主域名打不开时换 api.docode.cc，同一套账号与额度
 
 **接入配置**
+
+<details open><summary><b>Claude Code</b>（Anthropic 兼容，Base URL 不带 <code>/v1</code>）</summary>
+
+```bash
+# macOS / Linux
+export ANTHROPIC_BASE_URL=https://docode.cc
+export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
+export ANTHROPIC_MODEL=<登录后台查看可用模型名>
+npm install -g @anthropic-ai/claude-code@latest && claude
+```
+
+```powershell
+# Windows PowerShell
+$env:ANTHROPIC_BASE_URL = "https://docode.cc"
+$env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
+$env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
+claude
+```
+
+</details>
 
 <details><summary><b>Codex CLI</b>（OpenAI 兼容，写入 <code>~/.codex/config.toml</code>）</summary>
 
 ```toml
 model = "<登录后台查看可用模型名>"
-model_provider = "artbloom"
+model_provider = "docode"
 
-[model_providers.artbloom]
-name = "ArtBloom"
-base_url = "https://api.artbloom.tech/v1"
-env_key = "ARTBLOOM_API_KEY"
+[model_providers.docode]
+name = "DoCode"
+base_url = "https://docode.cc/v1"
+env_key = "DOCODE_API_KEY"
 wire_api = "chat"
 ```
 
@@ -129,22 +171,45 @@ wire_api = "chat"
 ```python
 from openai import OpenAI
 
-client = OpenAI(api_key="你的 Key", base_url="https://api.artbloom.tech/v1")
+client = OpenAI(api_key="你的 Key", base_url="https://docode.cc/v1")
 resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
 print(resp.choices[0].message.content)
 ```
 
-通用客户端只需填两项：**Base URL** = `https://api.artbloom.tech/v1`，**API Key** = 站点后台创建的 Key。
+通用客户端只需填两项：**Base URL** = `https://docode.cc/v1`，**API Key** = 站点后台创建的 Key。
 
 </details>
 
 <details><summary><b>连通性自测</b></summary>
 
 ```bash
-curl -s https://api.artbloom.tech/v1/chat/completions \
+curl -s https://docode.cc/v1/chat/completions \
   -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
   -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
 ```
+
+</details>
+
+**如何继续拿额度**
+
+- 每天：免费抽奖+充值优惠券
+- 邀请他人注册也有奖励，公告里提过 VIP 用户拉新额度从 80 上调至 120，具体金额登录后台「邀请」页确认
+- 加qq群可以解锁超多福利
+
+**⚠️ 使用前必读**
+
+- 站内的「刀」不是美元：面板公开的 price = 0.02 就是充值比例，1 元 = 50 站内刀（公告里说平时恢复 1:25），而本页其它站是 ¥7.3 ≈ $1。所以 300 站内刀对应的充值面值只有 ¥6~12，本页也没把它并进跨站的美元合计
+- 扣费还要再乘站内倍率：公告里 GPT pro 分组长期在 7~14 倍之间随上游号商价格来回调（New API 口径：倍率 1 = $2 / 百万 tokens）。按 13 倍粗算，300 站内刀约合一千万 tokens 量级的输入额度，输出还要乘补全倍率——量不算小，但一切以控制台实时倍率为准
+- 额度数字（注册 50 / 邀请 250）站点公开接口没有暴露：/api/status 里既没有 quota_for_new_user 也没有 quota_for_invitee，本页登记的是站内公示口径，进后台核对一遍再算账
+- 这是付费中转站不是公益站：后台开着在线充值（Stripe 单价 ¥8），公告里大半是充值送额度与倍率涨跌，免费额度用完要付费才能续
+- 站内 FAQ 公示的备用域名 ai.docode.life / ai.docode.pro 与 docode.cc 解析到同一台服务器，但证书只签了 docode.cc，浏览器打开会直接报证书错误；公告里的 hk.docode.cc 则是 TLS 握手失败（2026-10-05 复测）。本页注册链接用的是站点 /api/status 自报的主地址 docode.cc，同一套账号，邀请码 suPH 照样生效；别为了这几个域名去点「继续访问」绕过证书警告
+- 上游波动写在公告里：GPT plus「全面阵亡」后又「暂时复活」、gpt-5.4 已彻底下架、9 月 10 日还在说「openai 炸了，gpt 全线都不太行」，别当稳定生产通道用
+
+<details><summary><b>站点最新公告</b>（自动同步）</summary>
+
+- `2026-10-22` Gemini Ultra分组上架，仅Gemini 4 Argon，高中低三档模型
+- `2026-10-15` -已修复好！ 生图功能暂时不可用，原因为 OpenAI 官方协议变更。 预计这两天修复好
+- `2026-10-09` gpt 全系已大幅下调倍率，gptpro 最低 7 倍，不降智最低 15 倍，官 key 最低 24 倍。
 
 </details>
 
@@ -172,12 +237,12 @@ curl -s https://api.artbloom.tech/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- ⚠ 接口已连续 881 小时没抓到新数据，下列信息为 `2026-09-23 14:55 UTC` 的快照
+- ⚠ 接口已连续 882 小时没抓到新数据，下列信息为 `2026-09-23 14:55 UTC` 的快照
 - 站点名称：**Agent Router**
 - 面板版本：`init-20260918-cbda758f`
 - 邀请他人可得：**$50**
 - 登录方式：GitHub / LinuxDO
-- 接口延迟：323 ms
+- 接口延迟：320 ms
 
 **镜像 / 备用入口**
 
@@ -288,369 +353,41 @@ curl -s https://agentrouter.org/v1/chat/completions \
 
 ---
 
-### 🟢 DoCode
+### 🟢 万家灯火
 
-> New API 中转站 · 注册送 50 站内刀，注册时填邀请码 suPH 再加 250，首日 300 刀，Claude 与 GPT 都在架上
+> 注册赠 50 站内刀 GPT 订阅（1 个月）· 进群签到 ¥0.1～1/天 · 完成邀请任务双方各得 ¥5
 
-<a href="https://ai.docode.life/register?aff=suPH"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DoCode-brightgreen?style=for-the-badge" alt="注册 DoCode"></a>
-
-**为什么值得注册**
-
-- ⚠️ 别漏了邀请码：注册表单里的「邀请码」一栏填 suPH，这 250 站内刀才会到账。从本页链接进去通常会自动带上，但提交前务必肉眼确认那一栏不是空的——没填就只有注册送的 50，事后补不上
-- 注册送 50 站内刀，填了邀请码 suPH 再加 250，首日 300 刀不用充值——注意这个「刀」是站内计价单位，不是美元，换算见下面的风险提示
-- Claude 和 GPT 同时在架：站内公告点名 cc / cc-kiro 分组的 sonnet-5、按次计费的 opus4.6，以及 GPT pro / plus、Grok、Gemini、fable-5，一把 Key 通吃，本页多数站只给其中一边
-- Anthropic 与 OpenAI 两条原生路由都开着（不带 key 探 /v1/messages 与 /v1/chat/completions 都回 New API 的 401 Invalid token），Claude Code 填 Base URL 就能直连，Codex CLI 走 /v1
-- 面板公开配置里带着一键导入的 deeplink：CC Switch、Cherry Studio、DeepChat、OpenCat、Lobe Chat 等客户端可以从后台直接把 Key 推过去
-- 主域名之外还有 api.docode.cc（公告写「直连美国」），实测两个入口都活着，主站进不去时可以换
-
-**能拿多少额度**
-
-- 注册即送：**50 站内刀**
-- 从本页邀请链接注册额外：**250 站内刀**
-- 首日合计：**300 站内刀**　（注册 50 站内刀 + 本页邀请 250 站内刀）
-
-**实时数据**（自动抓取站点公开接口）
-
-- 站点名称：**DoCode**
-- 每日签到：❌
-- 开放注册：✅
-- 登录方式：账号密码
-- 接口延迟：1079 ms
-
-**镜像 / 备用入口**
-
-- 直连美国：<https://api.docode.cc> · [从备用域名注册](https://api.docode.cc/register?aff=suPH)
-
-> 该站把定价页设成了登录可见（`/api/pricing` 返回 401，站点自己的导航配置里 pricing.requireAuth = true），本页不列模型表。站内公告点名在售的有 Claude（cc / cc-kiro 分组，sonnet-5 与按次计费的 opus4.6）、GPT pro / plus、Grok、Gemini、fable-5，另有独立的生图入口 img.docode.cc；完整清单、分组与倍率注册后在控制台「定价」页确认。
-
-**注册要求**
-
-- 邀请码 = suPH。从本页链接进入（带 ?aff=suPH）通常会自动填进注册表单的「邀请码」栏，提交前自己再看一眼；空着就只拿得到注册送的 50 站内刀
-- 250 站内刀在注册那一刻结算，注册完再去后台补填邀请码是没用的
-- 只能邮箱 + 密码建号：公开配置里 github / linuxdo / discord / telegram / 微信 / OIDC / Passkey 的开关全是 false，没有第三方登录入口
-- 注册要邮箱验证码（email_verification = true），并且开着 Cloudflare Turnstile 人机校验
-- 本页提供的 ai.docode.life 注册链接打不开时换 api.docode.cc，同一套账号与额度
-
-**接入配置**
-
-<details open><summary><b>Claude Code</b>（Anthropic 兼容，Base URL 不带 <code>/v1</code>）</summary>
-
-```bash
-# macOS / Linux
-export ANTHROPIC_BASE_URL=https://docode.cc
-export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
-export ANTHROPIC_MODEL=<登录后台查看可用模型名>
-npm install -g @anthropic-ai/claude-code@latest && claude
-```
-
-```powershell
-# Windows PowerShell
-$env:ANTHROPIC_BASE_URL = "https://docode.cc"
-$env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
-$env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
-claude
-```
-
-</details>
-
-<details><summary><b>Codex CLI</b>（OpenAI 兼容，写入 <code>~/.codex/config.toml</code>）</summary>
-
-```toml
-model = "<登录后台查看可用模型名>"
-model_provider = "docode"
-
-[model_providers.docode]
-name = "DoCode"
-base_url = "https://docode.cc/v1"
-env_key = "DOCODE_API_KEY"
-wire_api = "chat"
-```
-
-</details>
-
-<details><summary><b>OpenAI SDK / Cherry Studio / Cursor 等通用客户端</b></summary>
-
-```python
-from openai import OpenAI
-
-client = OpenAI(api_key="你的 Key", base_url="https://docode.cc/v1")
-resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
-print(resp.choices[0].message.content)
-```
-
-通用客户端只需填两项：**Base URL** = `https://docode.cc/v1`，**API Key** = 站点后台创建的 Key。
-
-</details>
-
-<details><summary><b>连通性自测</b></summary>
-
-```bash
-curl -s https://docode.cc/v1/chat/completions \
-  -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
-  -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
-```
-
-</details>
-
-**如何继续拿额度**
-
-- 站内没有签到（面板自报 checkin_enabled = false），额度靠充值和不定时活动，公告里出现过「充 100 送 500 刀」这类限时加码
-- 邀请他人注册也有奖励，公告里提过 VIP 用户拉新额度从 80 上调至 120，具体金额登录后台「邀请」页确认
-
-**⚠️ 使用前必读**
-
-- 站内的「刀」不是美元：面板公开的 price = 0.02 就是充值比例，1 元 = 50 站内刀（公告里说平时恢复 1:25），而本页其它站是 ¥7.3 ≈ $1。所以 300 站内刀对应的充值面值只有 ¥6~12，本页也没把它并进跨站的美元合计
-- 扣费还要再乘站内倍率：公告里 GPT pro 分组长期在 7~14 倍之间随上游号商价格来回调（New API 口径：倍率 1 = $2 / 百万 tokens）。按 13 倍粗算，300 站内刀约合一千万 tokens 量级的输入额度，输出还要乘补全倍率——量不算小，但一切以控制台实时倍率为准
-- 额度数字（注册 50 / 邀请 250）站点公开接口没有暴露：/api/status 里既没有 quota_for_new_user 也没有 quota_for_invitee，本页登记的是站内公示口径，进后台核对一遍再算账
-- 没有每日签到，额度用完只能充值或等活动，不像 AgentRouter 那样能每天续命
-- 这是付费中转站不是公益站：后台开着在线充值（Stripe 单价 ¥8），公告里大半是充值送额度与倍率涨跌，免费额度用完要付费才能续
-- 主注册链接已更新为 ai.docode.life/register?aff=suPH；2026-09-25 本地 HTTPS 检查发现证书与主机名不匹配，尚未确认新入口可正常注册。如浏览器提示证书错误，请勿绕过警告，可尝试下方 api.docode.cc 备用入口；自动健康检查仍检查新注册链接
-- 上游波动写在公告里：GPT plus「全面阵亡」后又「暂时复活」、gpt-5.4 已彻底下架、9 月 10 日还在说「openai 炸了，gpt 全线都不太行」，别当稳定生产通道用
-
-<details><summary><b>站点最新公告</b>（自动同步）</summary>
-
-- `2026-09-22` 中秋节活动预告：中秋节当天凡是 vip500，赠送 1500 额度；vip1000，赠送 3000 额度，；vip2000，赠送 5000 额度。中秋节三天，充值加赠 5-20%。
-- `2026-09-21` gptpro+分组即将下线，请及时切换至其他分组，推荐gpt不降智分组！！！
-- `2026-09-18` 免费期间，可选择gpt与grok模型，总量为2W额度，用完即止，次日9点恢复，如使用问题请进群联系管理.
-
-</details>
-
----
-
-### 🟢 JustDoWork
-
-> New API 中转站 · GitHub 一键登录，支持签到与绘图
-
-<a href="https://api.justwoker.icu/sign-up?aff=wQWM"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-JustDoWork-brightgreen?style=for-the-badge" alt="注册 JustDoWork"></a>
-
-**为什么值得注册**
-
-- 注册即得约 $70 额度，GitHub 一键登录，不用充值
-- 基于开源 New API 面板，控制台熟悉、日志与用量一目了然
-- 每日签到再领约 $22，首日合计约 $92
-- 支持对话之外的绘图 / 异步任务接口
-- 一键把 Key 推送到 Cherry Studio、DeepChat、CC Switch 等客户端
-
-**能拿多少额度**
-
-- 注册即送：**$70**
-- 每日签到：**≈$22/天**（长期续命的关键）
-- 首日合计：**≈$92**　（注册 $70 + 首签 ≈$22）
-
-**实时数据**（自动抓取站点公开接口）
-
-- 站点名称：**JustDoWork**
-- 面板版本：`v1.0.0-rc.23`
-- 每日签到：✅
-- 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
-- 登录方式：GitHub / 账号密码
-- GitHub 账号需满 **365 天**
-- 接口延迟：943 ms
-
-> 该站模型清单需登录后台查看，注册后在「模型价格」页确认。
-
-**注册要求**
-
-- 已关闭账号密码注册，只能用 GitHub 授权登录
-- GitHub 账号注册满 365 天才允许绑定，小号会被拒绝
-- 注册页有 Turnstile 人机校验，需要能正常加载 Cloudflare 脚本
-- 务必从本页邀请链接进入，注册后邀请额度才会算到位
-
-**接入配置**
-
-<details open><summary><b>Claude Code</b>（Anthropic 兼容，Base URL 不带 <code>/v1</code>）</summary>
-
-```bash
-# macOS / Linux
-export ANTHROPIC_BASE_URL=https://api.justwoker.icu
-export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
-export ANTHROPIC_MODEL=<登录后台查看可用模型名>
-npm install -g @anthropic-ai/claude-code@latest && claude
-```
-
-```powershell
-# Windows PowerShell
-$env:ANTHROPIC_BASE_URL = "https://api.justwoker.icu"
-$env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
-$env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
-claude
-```
-
-</details>
-
-<details><summary><b>Codex CLI</b>（OpenAI 兼容，写入 <code>~/.codex/config.toml</code>）</summary>
-
-```toml
-model = "<登录后台查看可用模型名>"
-model_provider = "justdowork"
-
-[model_providers.justdowork]
-name = "JustDoWork"
-base_url = "https://api.justwoker.icu/v1"
-env_key = "JUSTDOWORK_API_KEY"
-wire_api = "chat"
-```
-
-</details>
-
-<details><summary><b>OpenAI SDK / Cherry Studio / Cursor 等通用客户端</b></summary>
-
-```python
-from openai import OpenAI
-
-client = OpenAI(api_key="你的 Key", base_url="https://api.justwoker.icu/v1")
-resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
-print(resp.choices[0].message.content)
-```
-
-通用客户端只需填两项：**Base URL** = `https://api.justwoker.icu/v1`，**API Key** = 站点后台创建的 Key。
-
-</details>
-
-<details><summary><b>连通性自测</b></summary>
-
-```bash
-curl -s https://api.justwoker.icu/v1/chat/completions \
-  -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
-  -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
-```
-
-</details>
-
-**如何继续拿额度**
-
-- 每日签到领约 $22
-- 关注站点公告获取活动兑换码
-
-**⚠️ 使用前必读**
-
-- 模型清单与价格需要登录后台才能查看，本页不做承诺
-- 中转站上游随时可能调整，请以站内实际价格与可用模型为准
-
----
-
-### 🟢 Mirasim
-
-> Go套餐 $1/月 · 每 5 小时官网估算：Kimi 约 130 次 / GLM 约 1,900 次 / DS 约 7,800 次
-
-<a href="https://mirasim.ai/"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Mirasim-brightgreen?style=for-the-badge" alt="注册 Mirasim"></a>
+<a href="https://wjapi.vip/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB-brightgreen?style=for-the-badge" alt="注册 万家灯火"></a>
 
 **为什么值得注册**
 
 - 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
-- Go套餐 $1/月：低成本体验云端模型，不需要先买高档套餐
-- 用量优势看 5 小时窗口：官网估算 Kimi K3 约 130 次、GLM 5.3 Flash 约 1,900 次、DS 4.1 Flash 约 7,800 次；同一份额度按不同模型折算，三项不能相加
-- 邀请活动：在应用内取得自己的邀请链接，邀请 3 位好友且三人都开通 Go 后，邀请者可获赠 1 个月 Go；公开规则未承诺被邀请人注册即送
-- 不订阅也能用工作台：自带账号 / Key 的接入能力免费，第三方订阅和 API 调用费用另算
-- 桌面端提供 macOS / Windows / Linux，支持多模型、并行会话与独立 worktree，也有命令行入口
-
-**套餐价格与用量**
-
-- **Go套餐 $1/月**
-- **每 5 小时**的请求量参考，不是整月总次数：
-
-| 模型 | 官网估算请求量 |
-| :-- | --: |
-| Kimi K3 | **≈130 次** |
-| GLM 5.3 Flash | **≈1,900 次** |
-| DS 4.1 Flash | **≈7,800 次** |
-
-> 官网估算，共享额度按模型折算，各模型次数不可相加；实际用量以站内为准。 这是付费套餐，不计入免费额度合计。[来源：官网定价](https://mirasim.ai/pricing)（2026-09-23 核对）。
-
-另有免费路径：自带 Key 免费；赠额未公示，第三方 API 费用另算。
-
-**实时数据**（自动抓取站点公开接口）
-
-- 接口延迟：1176 ms
-
-> Go 的 $1/月套餐包含 Kimi K3、GLM 5.3 Flash、DS 4.1 Flash。定价页按每 5 小时给出约 130 / 1,900 / 7,800 次的请求量估算，不是整月只有这些次数。三项共用同一份套餐额度、不能相加，也不是保证次数；本页不外推为每天或每月的固定总量。Claude / Codex 对应的 Basic、Pro、Max 是另列的套餐，不属于 $1 Go 的承诺。
-
-**注册要求**
-
-- 保留本页完整邀请链接 https://mirasim.ai/；公开定价页未承诺被邀请人注册即得额度，具体权益以账号页为准
-- 官方命令行文档支持 GitHub 授权或邮箱验证码登录；没有公开账号年龄门槛，本页不额外作承诺
-- 使用自有账号 / Key 无需邀请码；Go 订阅与邀请赠月按站内活动规则办理
-
-**接入配置**
-
-> 这是带云端中转选项的多智能体工作台，不是公开给出通用 Base URL 的 New API 面板。本页不猜测中转地址，也不把 Go 套餐等同于 Claude / GPT 权益。
-
-1. 从本页邀请链接进入账号页，用 GitHub 或邮箱验证码登录，确认页面展示的 Go 活动规则
-2. 在官网「下载」页安装适合系统的客户端，或按官方文档使用 Mirasim CLI
-3. 免费路径：接入自有账号 / API Key 或本地模型；如需 Mirasim 云端 Go 服务，在账号页确认价格、支持模型与额度后自行开通
-4. 参加赠月活动时，在应用内获取自己的邀请链接；受邀的 3 位好友全部开通 Go 后，再到账号页核对权益
-
-控制台入口：<https://mirasim.ai/account>
-
-**如何继续拿额度**
-
-- 邀请 3 位好友且三人均开通 Go，邀请者获得 1 个月 Go（官方定价页 Invite offer）
-- 未查到公开的每日签到或注册赠送 API 额度规则，本页不登记美元额度，也不计入跨站合计
-
-**⚠️ 使用前必读**
-
-- 免费的是自带账号 / Key 的工作台接入能力，第三方模型费用另算；Go 是付费套餐，邀请赠月也有开通条件
-- $1/月与模型清单来自 2026-09-23 公开定价页 https://mirasim.ai/pricing，后续可能变动，以开通时页面为准
-- 官网仍标注 Alpha：模型可能响应缓慢、会话可能中断，版本之间规则也可能调整，不承诺稳定性
-- 8 月公告提到的早期内测 Pro 赠送 / 补偿针对特定旧用户，不能当成现在通过此链接注册的普遍权益
-- robots.txt 禁止自动抓取 /r/ 邀请路径，因此定时检查只访问允许抓取的定价页；在线仅说明官网可访问，不代表登录、支付或模型调用已经实测
-
-**官方渠道**
-
-- Discord: https://discord.gg/ECexTPJrj
-- X: https://x.com/Mirasim_ADE
-- 邮箱: support@mirasim.ai
-
----
-
-### 🟢 FlushAPI
-
-> New API 网关 · 注册送 $15，本页邀请进入共 $22.5，GitHub 一键建号，16 个模型与价格全公开
-
-<a href="https://flushapi.fun/sign-up?aff=w8tE"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-FlushAPI-brightgreen?style=for-the-badge" alt="注册 FlushAPI"></a>
-
-**为什么值得注册**
-
-- 注册送 $15，从本页邀请链接进入变 $22.5；此后每邀请一人再得 $7.5（站方公告口径 2026-09-24）
-- GitHub OAuth 一键建号：接口自报 github_oauth=true 且未开邮箱验证、未开 Turnstile，注册链路很短
-- 三条原生路由实测在线：带无效 Key 探 /v1/messages、/v1/chat/completions、/v1/responses，都由 New API 亲自回「Invalid token」——Claude Code、Codex 与 Chat 类客户端填个 Base URL 就能直连
-- 定价接口无需登录：16 个模型与倍率全公开，含 claude-opus-5 / 4-8、fable-5.1、gpt-6-astra、gpt-5.6-sol、glm-5.3(-flash)、DeepSeek-V4.1-Flash 等
-- 价格最低 $0.03/1M tokens 起（DeepSeek-V4.1-Flash 输入侧）；claude 系输入 $5 / 输出 $25，按量扣不是按次
-- Super 余额独立：claude-opus-5 / 4.8 / 4.7、fable-5.x、gpt-6-astra / 5.6-sol 划在 Super 档，gpt-5.6-luna 不耗 Super 余额
+- 注册赠送 50 站内刀 GPT「不降智」分组订阅额度，可在「我的订阅」中查看；有效期一个月，无每日额度上限，在有效期内按实际用量扣减，用完即止
+- 加入 QQ 群 1064350952，按机器人提示绑定站内账号，每天发送「签到」随机领取 ¥0.1～1 通用余额，可用于所有模型分组
+- 通过本页完整邀请链接注册，被邀请人进群、绑定账号并签到，且双方均绑定站内账号，满足活动条件后双方各得 ¥5 通用余额
+- 运营方公示 GPT Plus 特惠分组 0.06x 起；不同分组倍率不同，赠送订阅对应 GPT「不降智」分组，具体价格以站内最新公示为准
 
 **能拿多少额度**
 
-- 注册即送：**$15**
-- 从本页邀请链接注册额外：**$7.5**
-- 首日合计：**$22.5**　（注册 $15 + 本页邀请 $7.5）
+- 注册即送：**50 站内刀**（可在「我的订阅」中查看这 50 站内刀）
+- 首日合计：**50 站内刀**
 
 **实时数据**（自动抓取站点公开接口）
 
-- 站点名称：**FlushAPI**
-- 每日签到：✅
-- 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
-- 登录方式：GitHub / 账号密码
-- 接口延迟：1580 ms
+- 站点名称：**万家灯火**
+- 面板版本：`2.17.7`
+- 开放注册：✅
+- 登录方式：账号密码
+- 接口延迟：812 ms
 
-**当前可用模型**
-
-| 模型 | 倍率 | 输入 / 1M tokens | 输出 / 1M tokens | 协议 |
-| :-- | :--: | :--: | :--: | :--: |
-| `claude-fable-5` | 5 | $10 | $50 | anthropic / openai |
-| `claude-opus-4-8` | 2.5 | $5 | $25 | anthropic / openai |
-| `claude-opus-5` | 2.5 | $5 | $25 | anthropic / openai |
-| `claude-sonnet-5` | 1 | $2 | $10 | anthropic / openai |
-| `gpt-5.6-luna` | 0.1 | $0.2 | $1.2 | openai |
-| `gpt-5.6-sol` | 2 | $4 | $20 | openai |
-| `gpt-6-astra` | 5 | $10 | $50 | openai |
-
-<sub>倍率 1 ≈ $2 / 1M tokens，输出价 = 倍率 × 补全倍率 × $2；以站内实时价格为准。</sub>
+> 运营方在 Issue #46 中列出 GPT、Claude、Gemini、Grok，以及 GLM、DeepSeek、Kimi、MiniMax 等国产模型，并声明支持 Anthropic 与 OpenAI 兼容协议。具体模型 ID、可用分组、倍率和缓存价格请在站内模型广场或控制台核对；公开设置接口不提供模型清单或价格。
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?aff=w8tE）：裸注册只有 $15，走邀请链接是 $22.5，多出的 $7.5 在注册那一刻结算，事后补不上
-- 只能走 GitHub 授权建号：接口自报邮箱密码注册关着（password_register_enabled=false），密码登录只留给已有账号
-- 没有邮箱验证码环节（email_verification=false），也没开 Turnstile 人机校验
+- 使用本页完整邀请链接，保留 aff=，邀请关系以站内记录为准
+- 邮箱注册需要验证码，当前公开配置允许 QQ、126、163、Gmail 邮箱
+- 注册后在「我的订阅」中查看赠送的 50 站内刀 GPT「不降智」分组额度及到期时间
+- 签到和邀请奖励需要加入 QQ 群 1064350952 并绑定站内账号；邀请奖励还要求被邀请人完成签到，双方均需绑定账号
 
 **接入配置**
 
@@ -658,121 +395,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 ```bash
 # macOS / Linux
-export ANTHROPIC_BASE_URL=https://flushapi.fun
-export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
-export ANTHROPIC_MODEL=claude-fable-5
-npm install -g @anthropic-ai/claude-code@latest && claude
-```
-
-```powershell
-# Windows PowerShell
-$env:ANTHROPIC_BASE_URL = "https://flushapi.fun"
-$env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
-$env:ANTHROPIC_MODEL = "claude-fable-5"
-claude
-```
-
-</details>
-
-<details><summary><b>Codex CLI</b>（OpenAI 兼容，写入 <code>~/.codex/config.toml</code>）</summary>
-
-```toml
-model = "gpt-6-astra"
-model_provider = "flushapi"
-
-[model_providers.flushapi]
-name = "FlushAPI"
-base_url = "https://flushapi.fun/v1"
-env_key = "FLUSHAPI_API_KEY"
-wire_api = "chat"
-```
-
-</details>
-
-<details><summary><b>OpenAI SDK / Cherry Studio / Cursor 等通用客户端</b></summary>
-
-```python
-from openai import OpenAI
-
-client = OpenAI(api_key="你的 Key", base_url="https://flushapi.fun/v1")
-resp = client.chat.completions.create(model="gpt-6-astra", messages=[{"role": "user", "content": "ping"}])
-print(resp.choices[0].message.content)
-```
-
-通用客户端只需填两项：**Base URL** = `https://flushapi.fun/v1`，**API Key** = 站点后台创建的 Key。
-
-</details>
-
-<details><summary><b>连通性自测</b></summary>
-
-```bash
-curl -s https://flushapi.fun/v1/chat/completions \
-  -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
-  -d '{"model":"gpt-6-astra","messages":[{"role":"user","content":"只回复 OK"}]}'
-```
-
-</details>
-
-**如何继续拿额度**
-
-- 每邀请一位好友注册，邀请人再得 $7.5（站方公告口径，人数未见上限说明）
-- 每日签到开着（checkin_enabled=true），签到给多少公告与公开接口都没写，登录后台点签到看实际数额
-
-**⚠️ 使用前必读**
-
-- 额度数字（注册 $15 / 邀请 $7.5 / 邀请人 +$7.5）来自站方 2026-09-24 的公告截图，公开接口不公示这些字段、本页无法自动核对，进后台看实际到账再算账
-- 站点很新：接口自报的 start_time 折 2026-09-24 前后才上线，运营稳定性还没有经过时间检验，别替它做长期承诺
-- Super 档是独立余额（公告口径「separate balance」）：claude-opus / fable、gpt-6-astra 等旗舰模型走 Super 档，$15 / $22.5 是 default 余额的口径，开通前看清站内的分档说明
-- 页面是纯 SPA：robots.txt 返回的是前端壳而不是 robots 内容，本页只打 /api/status 与 /api/pricing 两个公开接口探测
-- 充值比例 price=7.3（¥7.3 ≈ $1）说明它不是纯免费站，免费额度用完后要付费才能续
-
----
-
-### 🟢 KKtoken AI
-
-> New API 中转站 · 注册送 $75，本页邀请码再加 $25，按 token 计费输入输出各 $1/M
-
-<a href="https://kktoken.cc/sign-up?aff=CT8p"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-KKtoken%20AI-brightgreen?style=for-the-badge" alt="注册 KKtoken AI"></a>
-
-**为什么值得注册**
-
-- 注册送 $75，从本页邀请链接进入再加 $25，每日签到再领 $20，首日合计 $120
-- 按 token 计费：输入 $1 / 百万 tokens、输出 $1 / 百万 tokens，和本页那几个「每次 $0.3」的按次站不是一套口径，长对话更划算
-- Anthropic 与 OpenAI 两条原生路由都开着（未鉴权探测 /v1/messages 与 /v1/chat/completions 都已就位），Claude Code 填个 Base URL 就能直连——具体上了哪些模型要登录后台确认
-- 面板开着每日签到、绘图与异步任务接口，控制台就是熟悉的 New API（站点自报 KKtoken AI v1.0.0-rc.25）
-
-**能拿多少额度**
-
-- 注册即送：**$75**
-- 从本页邀请链接注册额外：**$25**
-- 每日签到：**$20/天**（长期续命的关键）
-- 首日合计：**$120**　（注册 $75 + 本页邀请 $25 + 首签 $20）
-
-**实时数据**（自动抓取站点公开接口）
-
-- 站点名称：**KKtoken AI**
-- 面板版本：`v1.0.0-rc.25`
-- 每日签到：✅
-- 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
-- 登录方式：GitHub / 账号密码
-- 接口延迟：1959 ms
-
-> 该站把价格页设成了登录可见（`/api/pricing` 返回 401），本页不列模型表。站内公示的计价口径是输入 $1 / 百万 tokens、输出 $1 / 百万 tokens，按 token 而不是按次，注册后在控制台「模型价格」页确认实际清单与倍率。
-
-**注册要求**
-
-- 务必从本页邀请链接进入注册（带 ?aff=CT8p），$25 在注册那一刻结算，事后补不上
-- GitHub 账号注册满 1 年（365 天）才允许绑定，小号会被拒绝
-- 已关闭账号密码注册，只能用 GitHub 授权；注册完成后可以再设密码用于登录
-- 注册页有 Cloudflare Turnstile 人机校验，需要能正常加载 Cloudflare 脚本
-
-**接入配置**
-
-<details open><summary><b>Claude Code</b>（Anthropic 兼容，Base URL 不带 <code>/v1</code>）</summary>
-
-```bash
-# macOS / Linux
-export ANTHROPIC_BASE_URL=https://kktoken.cc
+export ANTHROPIC_BASE_URL=https://wjapi.vip
 export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
 export ANTHROPIC_MODEL=<登录后台查看可用模型名>
 npm install -g @anthropic-ai/claude-code@latest && claude
@@ -780,7 +403,7 @@ npm install -g @anthropic-ai/claude-code@latest && claude
 
 ```powershell
 # Windows PowerShell
-$env:ANTHROPIC_BASE_URL = "https://kktoken.cc"
+$env:ANTHROPIC_BASE_URL = "https://wjapi.vip"
 $env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
 $env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
 claude
@@ -792,12 +415,12 @@ claude
 
 ```toml
 model = "<登录后台查看可用模型名>"
-model_provider = "kktoken"
+model_provider = "wanjiadenghuo"
 
-[model_providers.kktoken]
-name = "KKtoken AI"
-base_url = "https://kktoken.cc/v1"
-env_key = "KKTOKEN_API_KEY"
+[model_providers.wanjiadenghuo]
+name = "万家灯火"
+base_url = "https://wjapi.vip/v1"
+env_key = "WANJIADENGHUO_API_KEY"
 wire_api = "chat"
 ```
 
@@ -808,19 +431,19 @@ wire_api = "chat"
 ```python
 from openai import OpenAI
 
-client = OpenAI(api_key="你的 Key", base_url="https://kktoken.cc/v1")
+client = OpenAI(api_key="你的 Key", base_url="https://wjapi.vip/v1")
 resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
 print(resp.choices[0].message.content)
 ```
 
-通用客户端只需填两项：**Base URL** = `https://kktoken.cc/v1`，**API Key** = 站点后台创建的 Key。
+通用客户端只需填两项：**Base URL** = `https://wjapi.vip/v1`，**API Key** = 站点后台创建的 Key。
 
 </details>
 
 <details><summary><b>连通性自测</b></summary>
 
 ```bash
-curl -s https://kktoken.cc/v1/chat/completions \
+curl -s https://wjapi.vip/v1/chat/completions \
   -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
   -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
 ```
@@ -829,15 +452,198 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **如何继续拿额度**
 
-- 每日签到领 $20（登录后台点签到）
-- 邀请他人注册也有奖励，金额站点公开接口没公示，登录后台「邀请」页确认
+- 进群绑定站内账号后，每日签到随机领取 ¥0.1～1 通用余额，可用于所有模型分组
+- 邀请好友通过自己的邀请链接注册，按活动要求完成进群、绑定及签到后，双方各得 ¥5 通用余额
 
 **⚠️ 使用前必读**
 
-- 额度数字（注册 $75 / 邀请 $25 / 签到 $20）站点公开接口没有暴露——它的 /api/status 里既没有 quota_for_new_user 也没有 quota_for_invitee，本页登记的是站内公示口径，进后台核对一下再算账
-- 模型清单与价格要登录才能看（/api/pricing 返回 401），$1/M 的输入输出价同样以站内为准，本页不做承诺
-- 站点支持在线充值（站内公示 $1 ≈ ¥7.3，Stripe 通道 ¥8），是中转站不是纯公益站，免费额度用完要付费才能续
-- 站点前面挂着 Cloudflare，机房 IP 容易被拦，本页的自动探测偶尔会标「被 WAF 拦下」，不代表站点对你不可用
+- 福利、模型和倍率按运营方提交的 Issue #46 登记：https://github.com/panxunying/ai-coding-welfare/issues/46；公开设置与健康接口已核对，赠额到账和实际模型调用未经实测
+- 人民币 ¥1 = 站内 $1 余额；这里的 $ / 刀是站内计费单位，赠送的 $50 订阅不代表 50 美元现金，也不计入本站跨站美元合计
+- 50 站内刀订阅仅用于指定 GPT 分组，有效期一个月；签到和邀请奖励进入通用余额，两种额度分开，未将有条件的奖励叠加到首日额度
+- 邀请奖励要求完成注册、进群、账号绑定和签到；仅点击邀请链接不会到账
+- GPT 0.06x 仅为特定分组的起始倍率，不代表所有模型或赠送订阅适用同一倍率；分组名称、模型供应和活动规则以站内最新公示为准
+
+**官方渠道**
+
+- QQ 群：1064350952（绑定账号后参与签到与邀请活动）
+- Telegram：https://t.me/wanjiaai
+
+---
+
+### 🟢 Happy Code
+
+> 注册可获得 $100 额度，加入 QQ 群领取新人体验包
+
+<a href="https://happycodeai.com/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Happy%20Code-brightgreen?style=for-the-badge" alt="注册 Happy Code"></a>
+
+**为什么值得注册**
+
+- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
+- 注册可获得 $100 额度
+- 需要加 QQ 群 367746547 找群主获取新人体验包
+- 通过本页完整邀请链接注册，保留 aff=
+
+**能拿多少额度**
+
+- 注册即送：**$100**
+- 首日合计：**$100**
+
+**实时数据**（自动抓取站点公开接口）
+
+- 站点名称：**Happy Code**
+- 面板版本：`0.0.115`
+- 开放注册：✅
+- 登录方式：OIDC（NodeLoc） / 账号密码
+- 接口延迟：851 ms
+
+> 可用模型、价格与接入地址请在登录后的控制台查看。
+
+**注册要求**
+
+- 使用完整注册链接，保留 aff=
+- 邮箱注册需要验证码；支持 QQ、Gmail、163、iCloud 等邮箱，具体允许的邮箱以注册页为准，也可使用 NodeLoc 授权注册
+- 需要加 QQ 群 367746547 找群主获取新人体验包
+
+**接入配置**
+
+> 登录 Happy Code 控制台查看 API Key、接入地址与客户端配置说明。
+
+1. 打开本页完整邀请链接，保留 aff=，按页面提示完成注册
+2. 加入 QQ 群 367746547，找群主获取新人体验包并查看 $100 额度
+3. 在控制台查看可用模型、API Key 与接入地址，再按站内说明配置客户端
+
+控制台入口：<https://happycodeai.com>
+
+**官方渠道**
+
+- QQ 群：367746547（找群主获取新人体验包）
+
+---
+
+### 🟢 Prime Relay
+
+> 注册首日可获得 $20 额度，后续支持每日签到
+
+<a href="https://www.primerelay.online/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Prime%20Relay-brightgreen?style=for-the-badge" alt="注册 Prime Relay"></a>
+
+**为什么值得注册**
+
+- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
+- 注册首日可获得 $20 额度，后续支持每日签到
+- 通过本页完整邀请链接注册，保留 aff=
+- 官网列出 Claude、GPT、DeepSeek、Grok、Gemini 等模型系列，具体模型与价格可在站内模型广场查看
+
+**能拿多少额度**
+
+- 注册即送：**$20**
+- 首日合计：**$20**
+
+**实时数据**（自动抓取站点公开接口）
+
+- 接口延迟：910 ms
+
+> 官网模型广场公开展示模型与价格；实际调用名称、分组与可用范围请在站内确认。公开配置给出的 API Base URL 为 https://primerelay.online/v1。
+
+**注册要求**
+
+- 使用完整注册链接，保留 aff=
+- 当前公开注册配置仅允许 @qq.com 邮箱，并要求邮箱验证码
+- 需要加入 QQ 群：239561070
+- 注册后在控制台查看首日 $20 额度与每日签到入口
+
+**接入配置**
+
+<details><summary><b>Codex CLI</b>（OpenAI 兼容，写入 <code>~/.codex/config.toml</code>）</summary>
+
+```toml
+model = "<登录后台查看可用模型名>"
+model_provider = "primerelay"
+
+[model_providers.primerelay]
+name = "Prime Relay"
+base_url = "https://primerelay.online/v1"
+env_key = "PRIMERELAY_API_KEY"
+wire_api = "chat"
+```
+
+</details>
+
+<details><summary><b>OpenAI SDK / Cherry Studio / Cursor 等通用客户端</b></summary>
+
+```python
+from openai import OpenAI
+
+client = OpenAI(api_key="你的 Key", base_url="https://primerelay.online/v1")
+resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
+print(resp.choices[0].message.content)
+```
+
+通用客户端只需填两项：**Base URL** = `https://primerelay.online/v1`，**API Key** = 站点后台创建的 Key。
+
+</details>
+
+<details><summary><b>连通性自测</b></summary>
+
+```bash
+curl -s https://primerelay.online/v1/chat/completions \
+  -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
+  -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
+```
+
+</details>
+
+**如何继续拿额度**
+
+- 支持每日签到，签到金额和领取规则以站内显示为准
+
+**⚠️ 使用前必读**
+
+- 首日 $20 与每日签到按维护者提供的信息登记；签到金额未提供，未计入首日合计
+- 官网另有邀请好友注册并进 QQ 群的奖励活动，条件以站内公告为准，本页未将该活动奖励额外叠加到首日 $20
+
+**官方渠道**
+
+- 官方 QQ 群：239561070
+
+---
+
+### 🟢 Codex Relay
+
+> 注册可获得 $10 API 额度
+
+<a href="https://codex-relay.codes/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Codex%20Relay-brightgreen?style=for-the-badge" alt="注册 Codex Relay"></a>
+
+**为什么值得注册**
+
+- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
+- 注册可获得 $10 API 额度
+- 通过本页完整邀请链接进入，保留 aff=
+
+**能拿多少额度**
+
+- 注册即送：**$10**
+- 首日合计：**$10**
+
+**实时数据**（自动抓取站点公开接口）
+
+- 接口延迟：1122 ms
+
+> 可用模型、价格和实际调用名称请在控制台查看。
+
+**注册要求**
+
+- 使用完整注册链接，保留 aff=，并按页面提示完成注册
+- 注册可获得 $10 额度，登录后在控制台查看余额
+
+**接入配置**
+
+> 注册后在 Codex Relay 控制台查看 API 接入地址、可用模型和接入说明。
+
+1. 打开本页完整邀请链接，保留 aff=，按页面提示完成注册
+2. 登录控制台查看 $10 注册额度
+3. 按控制台说明获取 API Key、接入地址和模型 ID，并配置客户端
+
+控制台入口：<https://codex-relay.codes>
 
 ---
 
@@ -861,7 +667,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：2382 ms
+- 接口延迟：1776 ms
 
 > 模型清单与价格需登录后在控制台「模型列表」查看（按每百万 Tokens 计价，可按厂商 / 上下文窗口筛选），站点没有公开的模型与定价接口，本页不做承诺。
 
@@ -900,7 +706,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **官方渠道**
 
-- 文档: https://matrix.mzsjai.com/docs/quickstart
+- 文档: https://matrix.mzsjai.com/docs/matrix/intro/
 - 反馈: https://matrix.mzsjai.com/docs/contact
 
 ---
@@ -927,7 +733,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：206 ms
+- 接口延迟：178 ms
 
 > 整站（含 `/api/status`、`/api/pricing`、robots.txt 与注册页）都挂在 JS 人机挑战后面，返回的是 `var arg1=...` 的挑战页而不是 JSON，公开接口读不到模型清单，本页不列模型表。站内公示的计价口径是输入 $5 / 百万 tokens、输出 $25 / 百万 tokens，并公示支持 GPT-5.6 Sol，注册后在控制台「模型价格」页确认实际清单与倍率。
 
@@ -1013,37 +819,44 @@ curl -s https://anyrouter.top/v1/chat/completions \
 
 ---
 
-### 🟢 CheapCodex
+### 🟢 JustDoWork
 
-> 自研 AI 网关 · 本页邀请码送 $20，每日签到再 $20，OpenAI / Anthropic / Codex 三条协议一把 Key
+> New API 中转站 · GitHub 一键登录，支持签到与绘图
 
-<a href="https://api.cheapcodex.online/register?aff=KNPERHNX9E5A"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-CheapCodex-brightgreen?style=for-the-badge" alt="注册 CheapCodex"></a>
+<a href="https://api.justwoker.icu/sign-up?aff=wQWM"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-JustDoWork-brightgreen?style=for-the-badge" alt="注册 JustDoWork"></a>
 
 **为什么值得注册**
 
-- 从本页邀请链接注册送 $20，每日签到再领 $20，首日合计 $40
-- 三条原生路由都开着：带无效 key 探 /v1/chat/completions、/v1/messages、/v1/responses 一律回 INVALID_API_KEY，而 /v1/bogus 回 404 —— Claude Code 与 Codex CLI 都能直连
-- /v1/responses 在线意味着 Codex CLI 能走它原生的 responses 协议，不用退回 chat
-- 鉴权头收三种：Authorization: Bearer、x-api-key、x-goog-api-key —— 站点自己的 401 报错里列的，OpenAI / Anthropic / Gemini 三家客户端的习惯都照顾到了
-- 站内公示可以用 GPT-5.6 Sol
+- 注册即得约 $70 额度，GitHub 一键登录，不用充值
+- 基于开源 New API 面板，控制台熟悉、日志与用量一目了然
+- 每日签到再领约 $22，首日合计约 $92
+- 支持对话之外的绘图 / 异步任务接口
+- 一键把 Key 推送到 Cherry Studio、DeepChat、CC Switch 等客户端
 
 **能拿多少额度**
 
-- 从本页邀请链接注册额外：**$20**
-- 每日签到：**$20/天**（长期续命的关键）
-- 首日合计：**$40**　（本页邀请 $20 + 首签 $20）
+- 注册即送：**$70**
+- 每日签到：**≈$22/天**（长期续命的关键）
+- 首日合计：**≈$92**　（注册 $70 + 首签 ≈$22）
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：2939 ms
+- 站点名称：**JustDoWork**
+- 面板版本：`v1.0.0-rc.23`
+- 每日签到：✅
+- 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
+- 登录方式：GitHub / 账号密码
+- GitHub 账号需满 **365 天**
+- 接口延迟：2093 ms
 
-> 这个站的面板接口在它自己的 robots.txt 里是 `Disallow: /api`，本页按规矩不碰，所以拿不到模型清单与单价，只探 robots 放行的 `/v1/models`（不带 key 必然回 `API_KEY_REQUIRED`，能回就说明网关活着）。站内公示可以用 GPT-5.6 Sol，完整清单与价格注册后在控制台确认。
+> 该站模型清单需登录后台查看，注册后在「模型价格」页确认。
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?aff=KNPERHNX9E5A），$20 在注册那一刻结算，事后补不上
-- 只能用邮箱建号：站点前端自带的公开配置里 github / google / linuxdo / 微信 / 钉钉 / OIDC 的 oauth 开关全是 false，没有第三方登录入口
-- 注册页的人机校验目前是关的（配了 Turnstile site key 但 turnstile_enabled=false），加载不出 Cloudflare 脚本也能注册
+- 已关闭账号密码注册，只能用 GitHub 授权登录
+- GitHub 账号注册满 365 天才允许绑定，小号会被拒绝
+- 注册页有 Turnstile 人机校验，需要能正常加载 Cloudflare 脚本
+- 务必从本页邀请链接进入，注册后邀请额度才会算到位
 
 **接入配置**
 
@@ -1051,7 +864,7 @@ curl -s https://anyrouter.top/v1/chat/completions \
 
 ```bash
 # macOS / Linux
-export ANTHROPIC_BASE_URL=https://api.cheapcodex.online
+export ANTHROPIC_BASE_URL=https://api.justwoker.icu
 export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
 export ANTHROPIC_MODEL=<登录后台查看可用模型名>
 npm install -g @anthropic-ai/claude-code@latest && claude
@@ -1059,7 +872,7 @@ npm install -g @anthropic-ai/claude-code@latest && claude
 
 ```powershell
 # Windows PowerShell
-$env:ANTHROPIC_BASE_URL = "https://api.cheapcodex.online"
+$env:ANTHROPIC_BASE_URL = "https://api.justwoker.icu"
 $env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
 $env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
 claude
@@ -1071,12 +884,12 @@ claude
 
 ```toml
 model = "<登录后台查看可用模型名>"
-model_provider = "cheapcodex"
+model_provider = "justdowork"
 
-[model_providers.cheapcodex]
-name = "CheapCodex"
-base_url = "https://api.cheapcodex.online/v1"
-env_key = "CHEAPCODEX_API_KEY"
+[model_providers.justdowork]
+name = "JustDoWork"
+base_url = "https://api.justwoker.icu/v1"
+env_key = "JUSTDOWORK_API_KEY"
 wire_api = "chat"
 ```
 
@@ -1087,19 +900,130 @@ wire_api = "chat"
 ```python
 from openai import OpenAI
 
-client = OpenAI(api_key="你的 Key", base_url="https://api.cheapcodex.online/v1")
+client = OpenAI(api_key="你的 Key", base_url="https://api.justwoker.icu/v1")
 resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
 print(resp.choices[0].message.content)
 ```
 
-通用客户端只需填两项：**Base URL** = `https://api.cheapcodex.online/v1`，**API Key** = 站点后台创建的 Key。
+通用客户端只需填两项：**Base URL** = `https://api.justwoker.icu/v1`，**API Key** = 站点后台创建的 Key。
 
 </details>
 
 <details><summary><b>连通性自测</b></summary>
 
 ```bash
-curl -s https://api.cheapcodex.online/v1/chat/completions \
+curl -s https://api.justwoker.icu/v1/chat/completions \
+  -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
+  -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
+```
+
+</details>
+
+**如何继续拿额度**
+
+- 每日签到领约 $22
+- 关注站点公告获取活动兑换码
+
+**⚠️ 使用前必读**
+
+- 模型清单与价格需要登录后台才能查看，本页不做承诺
+- 中转站上游随时可能调整，请以站内实际价格与可用模型为准
+
+---
+
+### 🟢 KKtoken AI
+
+> New API 中转站 · 注册送 $75，本页邀请码再加 $25，按 token 计费输入输出各 $1/M
+
+<a href="https://kktoken.cc/sign-up?aff=CT8p"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-KKtoken%20AI-brightgreen?style=for-the-badge" alt="注册 KKtoken AI"></a>
+
+**为什么值得注册**
+
+- 注册送 $75，从本页邀请链接进入再加 $25，每日签到再领 $20，首日合计 $120
+- 按 token 计费：输入 $1 / 百万 tokens、输出 $1 / 百万 tokens，和本页那几个「每次 $0.3」的按次站不是一套口径，长对话更划算
+- Anthropic 与 OpenAI 两条原生路由都开着（未鉴权探测 /v1/messages 与 /v1/chat/completions 都已就位），Claude Code 填个 Base URL 就能直连——具体上了哪些模型要登录后台确认
+- 面板开着每日签到、绘图与异步任务接口，控制台就是熟悉的 New API（站点自报 KKtoken AI v1.0.0-rc.25）
+
+**能拿多少额度**
+
+- 注册即送：**$75**
+- 从本页邀请链接注册额外：**$25**
+- 每日签到：**$20/天**（长期续命的关键）
+- 首日合计：**$120**　（注册 $75 + 本页邀请 $25 + 首签 $20）
+
+**实时数据**（自动抓取站点公开接口）
+
+- 站点名称：**KKtoken AI**
+- 面板版本：`v1.0.0-rc.25`
+- 每日签到：✅
+- 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
+- 登录方式：GitHub / 账号密码
+- 接口延迟：2793 ms
+
+> 该站把价格页设成了登录可见（`/api/pricing` 返回 401），本页不列模型表。站内公示的计价口径是输入 $1 / 百万 tokens、输出 $1 / 百万 tokens，按 token 而不是按次，注册后在控制台「模型价格」页确认实际清单与倍率。
+
+**注册要求**
+
+- 务必从本页邀请链接进入注册（带 ?aff=CT8p），$25 在注册那一刻结算，事后补不上
+- GitHub 账号注册满 1 年（365 天）才允许绑定，小号会被拒绝
+- 已关闭账号密码注册，只能用 GitHub 授权；注册完成后可以再设密码用于登录
+- 注册页有 Cloudflare Turnstile 人机校验，需要能正常加载 Cloudflare 脚本
+
+**接入配置**
+
+<details open><summary><b>Claude Code</b>（Anthropic 兼容，Base URL 不带 <code>/v1</code>）</summary>
+
+```bash
+# macOS / Linux
+export ANTHROPIC_BASE_URL=https://kktoken.cc
+export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
+export ANTHROPIC_MODEL=<登录后台查看可用模型名>
+npm install -g @anthropic-ai/claude-code@latest && claude
+```
+
+```powershell
+# Windows PowerShell
+$env:ANTHROPIC_BASE_URL = "https://kktoken.cc"
+$env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
+$env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
+claude
+```
+
+</details>
+
+<details><summary><b>Codex CLI</b>（OpenAI 兼容，写入 <code>~/.codex/config.toml</code>）</summary>
+
+```toml
+model = "<登录后台查看可用模型名>"
+model_provider = "kktoken"
+
+[model_providers.kktoken]
+name = "KKtoken AI"
+base_url = "https://kktoken.cc/v1"
+env_key = "KKTOKEN_API_KEY"
+wire_api = "chat"
+```
+
+</details>
+
+<details><summary><b>OpenAI SDK / Cherry Studio / Cursor 等通用客户端</b></summary>
+
+```python
+from openai import OpenAI
+
+client = OpenAI(api_key="你的 Key", base_url="https://kktoken.cc/v1")
+resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
+print(resp.choices[0].message.content)
+```
+
+通用客户端只需填两项：**Base URL** = `https://kktoken.cc/v1`，**API Key** = 站点后台创建的 Key。
+
+</details>
+
+<details><summary><b>连通性自测</b></summary>
+
+```bash
+curl -s https://kktoken.cc/v1/chat/completions \
   -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
   -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
 ```
@@ -1109,14 +1033,14 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 **如何继续拿额度**
 
 - 每日签到领 $20（登录后台点签到）
-- 邀请他人注册也有奖励（站点前端配置里 affiliate_enabled=true），金额没公示，登录后台「邀请」页确认
+- 邀请他人注册也有奖励，金额站点公开接口没公示，登录后台「邀请」页确认
 
 **⚠️ 使用前必读**
 
-- 额度数字（邀请 $20 / 签到 $20）与 GPT-5.6 Sol 都是站内公示口径，面板接口 robots 禁爬、本页无法自动核对，进后台自己确认一遍再算账
-- 上面「实时数据」一栏只有接口延迟：本页只对 /v1/models 做存活探测，站名、面板版本、模型数一概拿不到
-- 站内挂着付费订阅商品、收单走站外的 pay.ldxp.cn，前端配置里 payment_enabled 目前是 false（站内直充没开）——是付费网关不是纯公益站，免费额度用完要付费才能续
-- 另一个域名 api.cheapcodex.ccwu.cc 提供同一套应用（.online 的 robots.txt 里声明的 sitemap 就指向它），但邀请码在那边是否同样结算无法从公开接口确认，建议就走本页链接
+- 额度数字（注册 $75 / 邀请 $25 / 签到 $20）站点公开接口没有暴露——它的 /api/status 里既没有 quota_for_new_user 也没有 quota_for_invitee，本页登记的是站内公示口径，进后台核对一下再算账
+- 模型清单与价格要登录才能看（/api/pricing 返回 401），$1/M 的输入输出价同样以站内为准，本页不做承诺
+- 站点支持在线充值（站内公示 $1 ≈ ¥7.3，Stripe 通道 ¥8），是中转站不是纯公益站，免费额度用完要付费才能续
+- 站点前面挂着 Cloudflare，机房 IP 容易被拦，本页的自动探测偶尔会标「被 WAF 拦下」，不代表站点对你不可用
 
 ---
 
@@ -1124,11 +1048,10 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 > 任务制积分站 · 做任务领 API 积分，签到 / Discord / 邀请 / 发推都给分，免密码登录、无需绑卡
 
-<a href="https://nofx.one/zh-CN/sign-in"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-NOFX-brightgreen?style=for-the-badge" alt="注册 NOFX"></a>
+<a href="https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-NOFX-brightgreen?style=for-the-badge" alt="注册 NOFX"></a>
 
 **为什么值得注册**
 
-- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - 从本页邀请链接注册得 10 积分，之后每天签到 +$5 积分，站点自报「第一笔积分，30 秒就能到账」
 - 积分是靠做任务领的，不是充值买的：加入 Discord +$5、每日签到 +$5、邀请一位好友 +$5（不限每日人数）、在 X 发一条带邀请码的推文过审 +$20
 - 免密码登录：邮箱 magic link 或 GitHub 授权，站点明确写着「不签发或保存登录密码」，也支持两步验证
@@ -1137,18 +1060,19 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 **能拿多少额度**
 
+- 从本页邀请链接注册额外：**10 积分**
 - 每日签到：**5 积分/天**（长期续命的关键）
-- 首日合计：**5 积分**
+- 首日合计：**15 积分**　（本页邀请 10 积分 + 首签 5 积分）
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：3524 ms
+- 接口延迟：3143 ms
 
 > 站点公开面只有落地页和法律条款两类页面（sitemap 里就这几条），模型清单、单价与中转地址都在登录后的「接入文档」里，所以本页既不列模型表也不猜 Base URL。计费单位是站内积分，站点界面把它写成「$5 积分」；据反馈约 5 积分换 7M tokens 左右，并公示可以用 gpt-5.6-sol —— 都以站内实际为准。
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?ref=），邀请关系在注册那一刻绑定，事后补不上
+- 务必从本页邀请链接进入注册（带 ?ref=3W8MHBZG），邀请关系在注册那一刻绑定，事后补不上
 - 免密码登录：填邮箱收一条登录链接，或直接用 GitHub 授权；站点隐私条款写明「不签发或保存登录密码」
 - 签到和 Discord 验证这两笔要在 Discord 里做（/checkin 与 /verify，命令得从弹出列表里选，不能直接粘贴），不进 Discord 就领不到
 
@@ -1185,6 +1109,12 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 这些站已反馈不可用，保留名称与归档原因，不再推荐注册、展示额度或进行定时探测。历史记录仍可在[变动日志](https://wangpanying.github.io/ai-coding-welfare/changelog/)中查看；确认恢复可用后可人工重新收录。
 
+- **FlushAPI**（`2026-10-30` 归档） — 2026-10-29 起 CI 连续三轮探测离线；2026-10-30 复查首页、注册、状态接口与文档均返回 HTTP 522（源站连接超时），暂移历史区，确认恢复后可重新收录
+- **CheapCodex**（`2026-10-28` 归档） — 按维护者要求下架，移入历史区，不再推荐注册
+- **Conduit**（`2026-10-19` 归档） — 按维护者要求下架，移入历史区，不再推荐注册
+- **OmniRush**（`2026-10-14` 归档） — 按维护者要求下架，移入历史区，不再推荐注册
+- **Mirasim**（`2026-10-12` 归档） — 按维护者要求下架，移入历史区，不再推荐注册
+- **ArtBloom**（`2026-10-10` 归档） — 按维护者要求下架，移入历史区，不再推荐注册
 - **GoRouter**（`2026-09-21` 归档） — 用户反馈已无法使用，移入历史区，不再推荐注册
 - **TaBiAI**（`2026-09-21` 归档） — 用户反馈已无法使用，移入历史区，不再推荐注册
 - **RawChat 公益站**（`2026-09-21` 归档） — 用户反馈已无法使用，移入历史区，不再推荐注册
@@ -1193,7 +1123,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 ## 🔔 额度变了，这里会通知你
 
-CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目前已攒下 181 个样本、覆盖约 39.9 天。额度调整、掉线与恢复、模型上下线、价格变动都会自动记一条：
+CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目前已攒下 302 个样本、覆盖约 69.9 天。额度调整、掉线与恢复、模型上下线、价格变动都会自动记一条：
 
 - 点仓库右上角 **Watch → Custom → Releases**：有重要变动时 GitHub 直接发邮件
 - 订阅 [Atom feed](https://wangpanying.github.io/ai-coding-welfare/feed.xml)：RSS 阅读器 / Feedly / Telegram 机器人都能读
@@ -1201,12 +1131,12 @@ CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目�
 
 最近几条：
 
-- `2026-09-29` ➕ FlushAPI 上线模型：claude-sonnet-5
-- `2026-09-29` ➖ FlushAPI 下线模型：auto、claude-fable-5.1、claude-opus-4-7、claude-opus-4.7 等 10 个
-- `2026-09-24` 🆕 新收录 FlushAPI：每日签到开启；注册 / 邀请 / 签到额度数额站点未公示
-- `2026-09-23` 🟢 Matrix 恢复在线
-- `2026-09-23` ➖ AgentRouter 下线模型：glm-5.3、gpt-5.6-sol
-- `2026-09-23` 🏷️ AgentRouter claude-opus-5 价格 $8 入 / $40 出（每 1M） → $6 入 / $30 出（每 1M）
+- `2026-10-30` 🟢 万家灯火 恢复在线
+- `2026-10-30` 🗑️ 移入历史区 FlushAPI：2026-10-29 起 CI 连续三轮探测离线；2026-10-30 复查首页、注册、状态接口与文档均返回 HTTP 522（源站连接超时），暂移历史区，确认恢复后可重新收录
+- `2026-10-29` 🔴 万家灯火 探测不到了：注册页与公开接口都没响应
+- `2026-10-29` 🔴 FlushAPI 探测不到了：注册页与公开接口都没响应
+- `2026-10-28` 🗑️ 移入历史区 CheapCodex：按维护者要求下架，移入历史区，不再推荐注册
+- `2026-10-28` 🆕 新收录 万家灯火：注册送 50 站内刀
 
 完整记录见 [CHANGELOG.md](CHANGELOG.md)。
 
@@ -1236,7 +1166,7 @@ CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目�
 ```bash
 npm test          # 单测（不联网）
 npm run refresh   # 抓最新数据
-npm run history   # 归档历史 + 生成变动日志
+npm run history   # 归档历史 + 生成变动日志（只在 CI 里写入，本地默认跳过）
 npm run build     # 重新生成 README + docs/
 npm run check     # 校验链接是否还活着
 ```
@@ -1272,7 +1202,7 @@ npm run check     # 校验链接是否还活着
 发现好用的公益站 / 中转站？两种方式：
 
 - 提 [Issue](https://github.com/wangpanying/ai-coding-welfare/issues/new?template=new-site.yml) 填个表单：投稿公开可见，本身就是一次推广；符合下方收录标准、特别优质的，我会收录进正文
-- 或者直接 PR：往 `data/sites.json` 加一条，跑 `npm run refresh && npm run build` 后提交
+- 或者直接 PR：往 `data/sites.json` 加一条、五份 `data/locales/*.json` 补上译文，`npm test` 通过后提交；README、`docs/`、`data/live.json` 是生成物，别带进 PR（CI 每 6 小时重写一次，带上必冲突），合并后会自动生成
 
 收录标准：**能免费拿到额度**、注册流程不套娃、站点公开接口可探测。
 
@@ -1289,6 +1219,6 @@ npm run check     # 校验链接是否还活着
 
 <p align="center"><b>觉得有用点个 ⭐ Star</b>，福利站有变动时这里会自动更新。</p>
 
-<sub>关键词：Claude Code 免费 · Claude Code 中转 · Codex 中转 · Codex 公益站 · AI API 中转站 · 公益站 · 免费 API 额度 · 每日免费额度 · claude-opus-5 API · New API · ArtBloom · Opus 5.5 免费额度 · AgentRouter · RawChat · Matrix 统一网关 · TaBiAI · GoRouter · KKtoken · AnyRouter · CheapCodex · NOFX 积分 · Mirasim Go · GPT-5.6 Sol 中转 · claude-opus-5 按次计费</sub>
+<sub>关键词：Claude Code 免费 · Claude Code 中转 · Codex 中转 · Codex 公益站 · AI API 中转站 · 公益站 · 免费 API 额度 · 每日免费额度 · claude-opus-5 API · New API · AgentRouter · RawChat · Matrix 统一网关 · TaBiAI · GoRouter · KKtoken · AnyRouter · NOFX 积分 · GPT-5.6 Sol 中转 · claude-opus-5 按次计费</sub>
 
 <!-- 本文件由 scripts/build.mjs 自动生成，请修改 data/sites.json 或 scripts/lib/render-readme.mjs -->

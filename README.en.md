@@ -7,6 +7,13 @@ Community gateways, free API credits and low-cost plans for Claude Code, Codex a
 [Website](https://wangpanying.github.io/ai-coding-welfare/en/) · [GitHub repository](https://github.com/wangpanying/ai-coding-welfare)
 
 > [!TIP]
+> **💬 AI Coding project community · QQ group：1121553067**
+>
+> Discuss Claude Code / Codex setup, credit offers and service updates. Share AI coding workflows and try community projects.
+>
+> **[Join the QQ group →](https://qm.qq.com/q/wPrVbwIKs2)** · [Group QR code](docs/assets/qq-group.svg)
+
+> [!TIP]
 > **📣 Share your project — Issues are a free promotion space**
 >
 > Found a useful service, or running one yourself? Open an Issue and include your referral link. Issues are public and can help others discover your project. I may feature particularly useful, verified submissions in the main directory; submission does not guarantee inclusion.
@@ -15,25 +22,25 @@ Community gateways, free API credits and low-cost plans for Claude Code, Codex a
 
 A translated guide to the listed services. Amounts, model IDs, prices and referral URLs are generated from the same data as the Chinese edition. Detailed comparison, history, upstream documentation and some service interfaces remain in Chinese.
 
-**Snapshot updated:** 2026-09-30 05:35 UTC
+**Snapshot updated:** 2026-10-30 05:52 UTC
 
 ## Site overview
 
-| Site | Status | First-day credits / plan | Daily credits | Signup |
-| --- | --- | --- | --- | --- |
-| **ArtBloom** | Reachable | **$100** | Not publicly specified | [Open service / register](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) |
-| **AgentRouter** | Reachable | **$175** | $25/day · Daily check-in | [Open service / register](https://agentrouter.org/register?aff=NVN4) |
-| **DoCode** | Reachable | **300 site units (not USD)** | No check-in | [Open service / register](https://ai.docode.life/register?aff=suPH) |
-| **JustDoWork** | Reachable | **≈$92** | ≈$22/day · Daily check-in | [Open service / register](https://api.justwoker.icu/sign-up?aff=wQWM) |
-| **Mirasim** | Reachable | **Go · $1/month** | Estimates per 5-hour window | [Open service / register](https://mirasim.ai/) |
-| **FlushAPI** | Reachable | **$22.5** | Check-in enabled; amount unpublished | [Open service / register](https://flushapi.fun/sign-up?aff=w8tE) |
-| **KKtoken AI** | Reachable | **$120** | $20/day · Daily check-in | [Open service / register](https://kktoken.cc/sign-up?aff=CT8p) |
-| **Matrix** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) |
-| **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=LEGK) |
-| **CheapCodex** | Reachable | **$40** | $20/day · Daily check-in | [Open service / register](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) |
-| **NOFX** | Reachable | **5 points** | 5 points/day · Daily check-in | [Open service / register](https://nofx.one/zh-CN/sign-in) |
+| Site | Status | First-day credits / plan | Daily credits | Signup | Remarks |
+| --- | --- | --- | --- | --- | --- |
+| **DoCode** | Reachable | **300 site units (not USD)** | Free prize draw + top-up discount coupons | [Open service / register](https://docode.cc/register?aff=suPH) | Join the QQ group to unlock many more perks |
+| **AgentRouter** | Reachable | **$175** | $25/day · Daily check-in | [Open service / register](https://agentrouter.org/register?aff=NVN4) | — |
+| **万家灯火** | Reachable | **50 site units (not USD)** | Random CNY 0.1–1 daily after joining QQ and linking your account | [Open service / register](https://wjapi.vip/register) | Subscription limited to the designated GPT group; rewards require QQ group 1064350952 and account linking |
+| **Happy Code** | Reachable | **$100** | Not publicly specified | [Open service / register](https://happycodeai.com/register) | Join QQ group 367746547 and ask the group owner for the newcomer trial pack |
+| **Prime Relay** | Reachable | **$20** | Daily check-ins supported | [Open service / register](https://www.primerelay.online/register) | Must join QQ group 239561070 |
+| **Codex Relay** | Reachable | **$10** | Not publicly specified | [Open service / register](https://codex-relay.codes/register) | — |
+| **Matrix** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
+| **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=LEGK) | — |
+| **JustDoWork** | Reachable | **≈$92** | ≈$22/day · Daily check-in | [Open service / register](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
+| **KKtoken AI** | Reachable | **$120** | $20/day · Daily check-in | [Open service / register](https://kktoken.cc/sign-up?aff=CT8p) | — |
+| **NOFX** | Reachable | **15 points** | 5 points/day · Daily check-in | [Open service / register](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — |
 
-**Indicative first-day USD credits: $699.5 across 7 services accepting new users.**
+**Indicative first-day USD credits: $667 across 7 services accepting new users.**
 
 First-day credit = signup + referral + first check-in (or one daily pool). Credits are separate service balances, not cash. Points, site units, paid plans, archived services and closed registrations are excluded from the USD total. Conditions and actual awards may vary.
 
@@ -45,34 +52,39 @@ Credit policies are manually recorded from provider notices; public endpoints do
 2. Create a key in the dashboard. Use the verified endpoint below, or obtain the current endpoint from the provider if none is public.
 3. Configure a supported client, try a small request and check actual balance consumption before relying on the service.
 
-## ArtBloom
+## DoCode
 
-OpenAI-compatible API service offering $100 in credits on the first day of signup, with Opus 5.5 (claude-opus-5-5) listed on its public models page.
+New API gateway with Claude and GPT services; bonuses use internal site units, not US dollars.
 
-[Open service / register](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/artbloom/)
+[Open service / register](https://docode.cc/register?aff=suPH) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/docode/)
 
 
-- **First-day credits / plan**: $100
-- **Signup**: $100
-- **Daily credits**: Not publicly specified
+- **First-day credits / plan**: 300 site units (not USD)
+- **Signup**: 50 site units (not USD)
+- **Referral bonus**: 250 site units (not USD)
+- **Daily credits**: Free prize draw + top-up discount coupons
 - **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+- **Remarks**: Join the QQ group to unlock many more perks
 
 
 ### Registration requirements
 
-Use the full referral link and continue with GitHub. The signup page advertises an immediate $100 credit with no credit card required. Create an API key in the dashboard after signing in.
+Email and password only, with email verification and Cloudflare Turnstile. Confirm referral code suPH in the signup form before submitting; a missing code cannot be added retroactively. The alternative domain uses the same account and balance.
+
+**Referral code — confirm this field before submitting registration: `suPH`**
 
 ### Rewards, limits and important caveats
 
-The public models page lists Opus 5.5 and other models with their prices. Check the service for current model pricing and the dashboard for your actual balance and usage.
+No daily check-in. Bonuses come from provider notices, not publicly exposed quota fields. Site units must not be added to USD totals: the observed top-up ratio was CNY 1 for 50 units, with a notice also mentioning 25. Group and output multipliers further affect usage. Models and pricing require login. This is a paid gateway after promotional credits run out; upstream outages and price changes are possible.
 
 ### Client setup
 
 Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
 
-- OpenAI Base URL: `https://api.artbloom.tech/v1`
-- [Provider documentation (may be Chinese)](https://api.artbloom.tech/models)
+- Anthropic Base URL: `https://docode.cc`
+- OpenAI Base URL: `https://docode.cc/v1`
+- [Alternative registration links: https://api.docode.cc](https://api.docode.cc/register?aff=suPH)
 
 ### Public model snapshot
 
@@ -80,7 +92,7 @@ Only models returned by the public snapshot are listed; missing data does not me
 
 Not publicly specified
 
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/artbloom/)
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/docode/)
 ## AgentRouter
 
 Community gateway with signup, referral and daily check-in credits; Anthropic and OpenAI-compatible endpoints.
@@ -126,38 +138,35 @@ Only models returned by the public snapshot are listed; missing data does not me
 | gpt-6-astra | $4 | $20 | — | openai |
 
 [Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/agentrouter/)
-## DoCode
+## 万家灯火
 
-New API gateway with Claude and GPT services; bonuses use internal site units, not US dollars.
+Signup grants 50 internal units of GPT subscription usage for one month, limited to the designated GPT group. QQ check-ins award CNY 0.1–1 daily; eligible referrals award CNY 5 to each participant. Find the credit under “我的订阅” (My Subscriptions).
 
-[Open service / register](https://ai.docode.life/register?aff=suPH) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/docode/)
+[Open service / register](https://wjapi.vip/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/wanjiadenghuo/)
 
 
-- **First-day credits / plan**: 300 site units (not USD)
+- **First-day credits / plan**: 50 site units (not USD)
 - **Signup**: 50 site units (not USD)
-- **Referral bonus**: 250 site units (not USD)
-- **Daily credits**: No check-in
+- **Daily credits**: Random CNY 0.1–1 daily after joining QQ and linking your account
 - **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+- **Remarks**: Subscription limited to the designated GPT group; rewards require QQ group 1064350952 and account linking
 
 
 ### Registration requirements
 
-Email and password only, with email verification and Cloudflare Turnstile. Confirm referral code suPH in the signup form before submitting; a missing code cannot be added retroactively. The alternative domain uses the same account and balance.
-
-**Referral code — confirm this field before submitting registration: `suPH`**
+No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link and keep aff=. Email verification is required; QQ, 126, 163 and Gmail addresses are currently accepted. For rewards, join QQ group 1064350952 and link your site account. Referral rewards require the invitee to register, join the group, link their account and check in; both participants must link their accounts.
 
 ### Rewards, limits and important caveats
 
-No daily check-in. Bonuses come from provider notices, not publicly exposed quota fields. Site units must not be added to USD totals: the observed top-up ratio was CNY 1 for 50 units, with a notice also mentioning 25. Group and output multipliers further affect usage. Models and pricing require login. This is a paid gateway after promotional credits run out; upstream outages and price changes are possible. The primary signup link is now ai.docode.life. A local HTTPS check on 2026-09-25 found a certificate hostname mismatch; successful signup through this entry has not been verified. Do not bypass certificate warnings; try the alternative registration link if needed.
+Benefits and model claims come from the operator’s Issue #46. Public settings and health were checked; actual awards and inference were not tested. The 50-unit subscription has no daily cap, expires after one month and only covers the designated GPT group. It is separate from the general balance. CNY 1 buys 1 internal unit; the advertised $50 is not USD cash and is excluded from USD totals. Conditional check-in and referral rewards are not added to first-day credits. GPT pricing starts at 0.06x for a specific group; verify current models, groups and rates in the console.
 
 ### Client setup
 
 Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
 
-- Anthropic Base URL: `https://docode.cc`
-- OpenAI Base URL: `https://docode.cc/v1`
-- [Alternative registration links: https://api.docode.cc](https://api.docode.cc/register?aff=suPH)
+- Anthropic Base URL: `https://wjapi.vip`
+- OpenAI Base URL: `https://wjapi.vip/v1`
 
 ### Public model snapshot
 
@@ -165,7 +174,186 @@ Only models returned by the public snapshot are listed; missing data does not me
 
 Not publicly specified
 
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/docode/)
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/wanjiadenghuo/)
+## Happy Code
+
+Register with Happy Code to receive $100 in credits. Join QQ group 367746547 and ask the group owner for the newcomer trial pack.
+
+[Open service / register](https://happycodeai.com/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/happycode/)
+
+
+- **First-day credits / plan**: $100
+- **Signup**: $100
+- **Daily credits**: Not publicly specified
+- **Status**: Reachable
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+- **Remarks**: Join QQ group 367746547 and ask the group owner for the newcomer trial pack
+
+
+### Registration requirements
+
+No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Open the full referral link and keep aff=. Register with a supported email address and verification code, or use NodeLoc. Then join QQ group 367746547 and ask the group owner for the newcomer trial pack.
+
+### Rewards, limits and important caveats
+
+Claim the $100 newcomer trial pack from the group owner after registration. Check the dashboard for models, prices, API keys and setup instructions.
+
+### Client setup
+
+Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
+
+- [Dashboard](https://happycodeai.com)
+
+### Public model snapshot
+
+Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
+
+Not publicly specified
+
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/happycode/)
+## Prime Relay
+
+Prime Relay offers $20 in credits on the first day of registration and supports daily check-ins.
+
+[Open service / register](https://www.primerelay.online/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/primerelay/)
+
+
+- **First-day credits / plan**: $20
+- **Signup**: $20
+- **Daily credits**: Daily check-ins supported
+- **Status**: Reachable
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+- **Remarks**: Must join QQ group 239561070
+
+
+### Registration requirements
+
+No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link with aff=. The public registration settings currently require a @qq.com email address and email verification. Sign in to view your credit balance and check-in entry.
+
+### Rewards, limits and important caveats
+
+The $20 signup offer and daily check-ins were supplied by the maintainer. The daily reward amount is unspecified and is not included in the first-day total. Check the public model plaza for models and prices. Separate referral promotions may require joining the QQ group; their rewards are not added to the $20 total. Official QQ group: 239561070.
+
+### Client setup
+
+Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
+
+- OpenAI Base URL: `https://primerelay.online/v1`
+
+### Public model snapshot
+
+Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
+
+Not publicly specified
+
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/primerelay/)
+## Codex Relay
+
+Register with Codex Relay to receive $10 in API credits.
+
+[Open service / register](https://codex-relay.codes/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/codex-relay/)
+
+
+- **First-day credits / plan**: $10
+- **Signup**: $10
+- **Daily credits**: Not publicly specified
+- **Status**: Reachable
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+
+
+### Registration requirements
+
+No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Open the full referral link, keep aff= and follow the registration instructions. Sign in to view your $10 signup credit balance.
+
+### Rewards, limits and important caveats
+
+Check the console for available models, prices, API keys, endpoints and client setup instructions.
+
+### Client setup
+
+Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
+
+- [Dashboard](https://codex-relay.codes)
+
+### Public model snapshot
+
+Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
+
+Not publicly specified
+
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/codex-relay/)
+## Matrix
+
+OpenAI-compatible gateway and app store using internal points, with referral and optional identity-verification rewards.
+
+[Open service / register](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/matrix/)
+
+
+- **First-day credits / plan**: Not publicly specified
+- **Daily credits**: Not publicly specified
+- **Status**: Reachable
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+
+
+### Registration requirements
+
+No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full invitation URL. Login options include Hangzhou Dianzi University SSO, phone codes, or email/password. Referral rewards are for first-time users and do not require identity verification. Create a mat- key in the dashboard; it is shown once, alongside the current gateway address.
+
+### Rewards, limits and important caveats
+
+Points are not USD. Optional identity verification awards 2,000 points once, but requires personal identity information; decide whether that trade-off is worthwhile. The growth campaign is stated to run through 2026-12-31. Gift points only work with eligible services. No native Anthropic endpoint is documented, so Claude Code cannot connect directly. Running app containers keep consuming credit: stop or delete them after use. Paid subscriptions and top-ups are separate.
+
+### Client setup
+
+Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
+
+- [Dashboard](https://matrix.mzsjai.com/app/apikey)
+- [Provider documentation (may be Chinese)](https://matrix.mzsjai.com/docs/matrix/intro/)
+
+### Public model snapshot
+
+Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
+
+Not publicly specified
+
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/matrix/)
+## AnyRouter
+
+New API gateway with signup/referral credits, daily check-ins and Anthropic/OpenAI-compatible routes.
+
+[Open service / register](https://anyrouter.top/register?aff=LEGK) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/anyrouter/)
+
+
+- **First-day credits / plan**: $150
+- **Signup**: $75
+- **Referral bonus**: $50
+- **Daily credits**: $25/day · Daily check-in
+- **Status**: Reachable
+- **Snapshot updated**: 2026-10-30 05:51 UTC
+
+
+### Registration requirements
+
+Use the referral URL. GitHub accounts must be at least five years old; LinuxDO is an alternative without that stated age requirement. Sign out and back in after check-in to refresh the balance.
+
+### Rewards, limits and important caveats
+
+Credit amounts and advertised input/output prices of $5/$25 per million tokens come from provider notices. JavaScript challenges prevent automatic public API verification, so confirm models, prices and actual awards in the dashboard. A challenge page is not evidence of an outage.
+
+### Client setup
+
+Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
+
+- Anthropic Base URL: `https://anyrouter.top`
+- OpenAI Base URL: `https://anyrouter.top/v1`
+
+### Public model snapshot
+
+Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
+
+Not publicly specified
+
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
 ## JustDoWork
 
 New API gateway with GitHub login, daily check-ins and image/task interfaces.
@@ -178,7 +366,7 @@ New API gateway with GitHub login, daily check-ins and image/task interfaces.
 - **Daily credits**: ≈$22/day · Daily check-in
 - **Status**: Reachable
 - **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-09-30 05:34 UTC
+- **Snapshot updated**: 2026-10-30 05:51 UTC
 
 
 ### Registration requirements
@@ -204,94 +392,6 @@ Only models returned by the public snapshot are listed; missing data does not me
 Not publicly specified
 
 [Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/justdowork/)
-## Mirasim
-
-Multi-agent workspace with a paid Go plan; connecting your own accounts or API keys is free, but third-party usage is not.
-
-[Open service / register](https://mirasim.ai/) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/mirasim/)
-
-
-- **First-day credits / plan**: Go · $1/month
-- **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
-
-> Estimates per 5-hour window
-> Kimi K3: ≈130 requests
-> GLM 5.3 Flash: ≈1,900 requests
-> DS 4.1 Flash: ≈7,800 requests
-> Paid plan, excluded from free-credit totals. These are provider estimates from one shared allowance: do not add model counts or treat them as guaranteed daily/monthly totals.
-
-[Official pricing](https://mirasim.ai/pricing) · Manually checked: 2026-09-23
-
-### Registration requirements
-
-No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link and sign in with GitHub or an email code. No public rule promises a signup bonus to the invitee. Install the official desktop client or follow its CLI documentation; no general-purpose relay base URL has been publicly verified.
-
-### Rewards, limits and important caveats
-
-Go usage estimates share one allowance and cannot be added together. The inviter earns one Go month only after three invited friends all subscribe to Go. Claude/Codex Basic, Pro and Max plans are separate from Go. Alpha software may be slow or interrupted; old beta compensation is not a new-user benefit. Robots rules permit probing the pricing page, not the referral path; online status does not verify signup, payment or inference.
-
-### Client setup
-
-Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
-
-- [Dashboard](https://mirasim.ai/account)
-- [Provider documentation (may be Chinese)](https://mirasim.ai/docs/zh/quickstart)
-
-### Public model snapshot
-
-Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
-
-Not publicly specified
-
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/mirasim/)
-## FlushAPI
-
-New API gateway with GitHub signup, public model pricing and separate default / Super balances.
-
-[Open service / register](https://flushapi.fun/sign-up?aff=w8tE) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/flushapi/)
-
-
-- **First-day credits / plan**: $22.5
-- **Signup**: $15
-- **Referral bonus**: $7.5
-- **Daily credits**: Check-in enabled; amount unpublished
-- **Status**: Reachable
-- **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-09-30 05:34 UTC
-
-
-### Registration requirements
-
-GitHub OAuth only; email/password signup is disabled. No email verification or Turnstile was enabled in the checked configuration. Register through the full referral URL to receive the additional bonus.
-
-### Rewards, limits and important caveats
-
-Signup and referral amounts follow the provider announcement dated 2026-09-24, not public quota fields. The inviter also receives $7.5 per friend according to that notice. Check-in is enabled but no amount was published. Signup credit is in the default balance; flagship Claude/Opus, Fable and GPT models may require the separate Super balance. Check the tier before use. A very new service, with no long-term reliability record; paid top-ups are offered.
-
-### Client setup
-
-Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
-
-- Anthropic Base URL: `https://flushapi.fun`
-- OpenAI Base URL: `https://flushapi.fun/v1`
-- [Provider documentation (may be Chinese)](https://flushapi.fun/docs)
-
-### Public model snapshot
-
-Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
-
-| Model | Input / 1M tokens | Output / 1M tokens | Per request | Protocol |
-| --- | --- | --- | --- | --- |
-| claude-fable-5 | $10 | $50 | — | anthropic / openai |
-| claude-opus-4-8 | $5 | $25 | — | anthropic / openai |
-| claude-opus-5 | $5 | $25 | — | anthropic / openai |
-| claude-sonnet-5 | $2 | $10 | — | anthropic / openai |
-| gpt-5.6-luna | $0.2 | $1.2 | — | openai |
-| gpt-5.6-sol | $4 | $20 | — | openai |
-| gpt-6-astra | $10 | $50 | — | openai |
-
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
 
 New API gateway with referral credits, daily check-ins and token-based billing.
@@ -305,7 +405,7 @@ New API gateway with referral credits, daily check-ins and token-based billing.
 - **Daily credits**: $20/day · Daily check-in
 - **Status**: Reachable
 - **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-09-30 05:34 UTC
+- **Snapshot updated**: 2026-10-30 05:51 UTC
 
 
 ### Registration requirements
@@ -331,130 +431,23 @@ Only models returned by the public snapshot are listed; missing data does not me
 Not publicly specified
 
 [Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/kktoken/)
-## Matrix
-
-OpenAI-compatible gateway and app store using internal points, with referral and optional identity-verification rewards.
-
-[Open service / register](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/matrix/)
-
-
-- **First-day credits / plan**: Not publicly specified
-- **Daily credits**: Not publicly specified
-- **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
-
-
-### Registration requirements
-
-No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full invitation URL. Login options include Hangzhou Dianzi University SSO, phone codes, or email/password. Referral rewards are for first-time users and do not require identity verification. Create a mat- key in the dashboard; it is shown once, alongside the current gateway address.
-
-### Rewards, limits and important caveats
-
-Points are not USD. Optional identity verification awards 2,000 points once, but requires personal identity information; decide whether that trade-off is worthwhile. The growth campaign is stated to run through 2026-12-31. Gift points only work with eligible services. No native Anthropic endpoint is documented, so Claude Code cannot connect directly. Running app containers keep consuming credit: stop or delete them after use. Paid subscriptions and top-ups are separate.
-
-### Client setup
-
-Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
-
-- [Dashboard](https://matrix.mzsjai.com/app/apikey)
-- [Provider documentation (may be Chinese)](https://matrix.mzsjai.com/docs/quickstart)
-
-### Public model snapshot
-
-Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
-
-Not publicly specified
-
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/matrix/)
-## AnyRouter
-
-New API gateway with signup/referral credits, daily check-ins and Anthropic/OpenAI-compatible routes.
-
-[Open service / register](https://anyrouter.top/register?aff=LEGK) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/anyrouter/)
-
-
-- **First-day credits / plan**: $150
-- **Signup**: $75
-- **Referral bonus**: $50
-- **Daily credits**: $25/day · Daily check-in
-- **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
-
-
-### Registration requirements
-
-Use the referral URL. GitHub accounts must be at least five years old; LinuxDO is an alternative without that stated age requirement. Sign out and back in after check-in to refresh the balance.
-
-### Rewards, limits and important caveats
-
-Credit amounts and advertised input/output prices of $5/$25 per million tokens come from provider notices. JavaScript challenges prevent automatic public API verification, so confirm models, prices and actual awards in the dashboard. A challenge page is not evidence of an outage.
-
-### Client setup
-
-Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
-
-- Anthropic Base URL: `https://anyrouter.top`
-- OpenAI Base URL: `https://anyrouter.top/v1`
-
-### Public model snapshot
-
-Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
-
-Not publicly specified
-
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
-## CheapCodex
-
-AI gateway with referral credits, daily check-ins and OpenAI, Anthropic and Responses routes.
-
-[Open service / register](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/cheapcodex/)
-
-
-- **First-day credits / plan**: $40
-- **Referral bonus**: $20
-- **Daily credits**: $20/day · Daily check-in
-- **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
-
-
-### Registration requirements
-
-Email signup only; use the full referral URL because attribution occurs at registration. Third-party OAuth was disabled, and Turnstile was not enabled in the checked configuration.
-
-### Rewards, limits and important caveats
-
-Credits and model claims come from provider notices. Robots rules forbid probing the panel API; only /v1/models is checked for reachability, not successful inference. Confirm models and prices after login. Paid subscriptions are separate and checkout may use an external domain. Referral rewards on alternate domains have not been verified.
-
-### Client setup
-
-Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
-
-- Anthropic Base URL: `https://api.cheapcodex.online`
-- OpenAI Base URL: `https://api.cheapcodex.online/v1`
-
-### Public model snapshot
-
-Only models returned by the public snapshot are listed; missing data does not mean there are no models. Confirm current prices, account groups and availability in the dashboard. Per-request prices are not token prices.
-
-Not publicly specified
-
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/cheapcodex/)
 ## NOFX
 
 Task-based API points with passwordless login, Discord check-ins and referral rewards; points are not USD.
 
-[Open service / register](https://nofx.one/zh-CN/sign-in) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/nofx/)
+[Open service / register](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/nofx/)
 
 
-- **First-day credits / plan**: 5 points
+- **First-day credits / plan**: 15 points
+- **Referral bonus**: 10 points
 - **Daily credits**: 5 points/day · Daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-09-30 05:34 UTC
+- **Snapshot updated**: 2026-10-30 05:51 UTC
 
 
 ### Registration requirements
 
-No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.
+Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.
 
 ### Rewards, limits and important caveats
 
@@ -478,6 +471,12 @@ Not publicly specified
 
 No longer recommended for registration, counted in totals or probed. Original reasons and historical records remain available in the Chinese edition.
 
+- [flushapi](https://wangpanying.github.io/ai-coding-welfare/sites/flushapi/) · 2026-10-30
+- [cheapcodex](https://wangpanying.github.io/ai-coding-welfare/sites/cheapcodex/) · 2026-10-28
+- [conduit](https://wangpanying.github.io/ai-coding-welfare/sites/conduit/) · 2026-10-19
+- [omnirush](https://wangpanying.github.io/ai-coding-welfare/sites/omnirush/) · 2026-10-14
+- [mirasim](https://wangpanying.github.io/ai-coding-welfare/sites/mirasim/) · 2026-10-12
+- [artbloom](https://wangpanying.github.io/ai-coding-welfare/sites/artbloom/) · 2026-10-10
 - [gorouter](https://wangpanying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
 - [tabitoken](https://wangpanying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
 - [rawchat](https://wangpanying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21

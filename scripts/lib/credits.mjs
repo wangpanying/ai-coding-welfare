@@ -23,6 +23,7 @@ const num = (v) => (Number.isFinite(Number(v)) && Number(v) > 0 ? Number(v) : nu
 const UNITS = {
   usd: { prefix: '$', suffix: '' },
   point: { prefix: '', suffix: ' 积分' },
+  tokens: { prefix: '', suffix: ' tokens' },
   // 也有站点用「刀」计价，但那个刀不是美元：New API 面板的 price 字段是充值比例，
   // 本页多数站是 7.3（¥7.3 ≈ $1），DoCode 是 0.02（1 元 = 50 刀），差两个数量级，
   // 扣费时还要再乘站内倍率。把它和美元站加在一起同样是编数字，所以单列一个单位，
@@ -65,6 +66,7 @@ export function creditPlan(site, snap) {
     approx,
     // 非数值权益（如自带 Key 免费）单独说明，不折成赠送额度。
     note: c.note || null,
+    dailyNote: c.dailyNote || null,
     base,
     sources,
     firstDay,
@@ -83,7 +85,7 @@ export function usd(n, approx = false, unit = DEFAULT_UNIT) {
 
 /** 「之后每天」列：签到是往账户里加，额度池是每天重置回同一个数 */
 export function perDay(plan) {
-  if (plan.daily == null) return null;
+  if (plan.daily == null) return plan.dailyNote ?? null;
   return `${usd(plan.daily, plan.approx, plan.unit)}/天${plan.resets ? '（重置）' : ''}`;
 }
 

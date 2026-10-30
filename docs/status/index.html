@@ -3,19 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0a0c11">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2064%2064'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%3Cstop%20offset%3D'0'%20stop-color%3D'%237c5cff'%2F%3E%3Cstop%20offset%3D'1'%20stop-color%3D'%2322d3ee'%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D'64'%20height%3D'64'%20rx%3D'16'%20fill%3D'url(%23g)'%2F%3E%3Cpath%20d%3D'M37%208%2016%2037h13l-3%2019%2022-29H35z'%20fill%3D'%23fff'%2F%3E%3C%2Fsvg%3E">
 
 <title>福利站可用性监控：哪个 AI Coding 中转站还活着 — AI Coding 福利站导航</title>
-<meta name="description" content="11 个免费 AI Coding 中转站 / 公益站的可用性历史，每 6 小时自动探测一次，含 7 天与 30 天在线率、WAF 拦截次数与接口延迟。最后探测 2026-09-30 05:35 UTC。">
-<meta name="keywords" content="Claude Code 免费,Claude Code 中转,Codex 中转,Codex 公益站,AI API 中转站,公益站,免费 API 额度,每日免费额度,claude-opus-5 API,New API,ArtBloom,Opus 5.5 免费额度,AgentRouter,RawChat,Matrix 统一网关,TaBiAI,GoRouter,KKtoken,AnyRouter,CheapCodex,NOFX 积分,Mirasim Go,GPT-5.6 Sol 中转,claude-opus-5 按次计费">
+<meta name="description" content="11 个免费 AI Coding 中转站 / 公益站的可用性历史，每 6 小时自动探测一次，含 7 天与 30 天在线率、WAF 拦截次数与接口延迟。最后探测 2026-10-30 05:52 UTC。">
+<meta name="keywords" content="Claude Code 免费,Claude Code 中转,Codex 中转,Codex 公益站,AI API 中转站,公益站,免费 API 额度,每日免费额度,claude-opus-5 API,New API,AgentRouter,RawChat,Matrix 统一网关,TaBiAI,GoRouter,KKtoken,AnyRouter,NOFX 积分,GPT-5.6 Sol 中转,claude-opus-5 按次计费">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Coding 福利站导航">
+<meta property="og:locale" content="zh_CN">
 <meta property="og:title" content="福利站可用性监控：哪个 AI Coding 中转站还活着 — AI Coding 福利站导航">
-<meta property="og:description" content="11 个免费 AI Coding 中转站 / 公益站的可用性历史，每 6 小时自动探测一次，含 7 天与 30 天在线率、WAF 拦截次数与接口延迟。最后探测 2026-09-30 05:35 UTC。">
+<meta property="og:description" content="11 个免费 AI Coding 中转站 / 公益站的可用性历史，每 6 小时自动探测一次，含 7 天与 30 天在线率、WAF 拦截次数与接口延迟。最后探测 2026-10-30 05:52 UTC。">
 <meta property="og:url" content="https://wangpanying.github.io/ai-coding-welfare/status/">
+<meta property="og:image" content="https://wangpanying.github.io/ai-coding-welfare/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="AI Coding 福利站导航：免费额度 · 白嫖 Claude Code / Codex / Cursor 的中转与公益站合集">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://wangpanying.github.io/ai-coding-welfare/assets/og.png">
 <link rel="canonical" href="https://wangpanying.github.io/ai-coding-welfare/status/">
 <link rel="alternate" type="application/atom+xml" title="变动日志" href="https://wangpanying.github.io/ai-coding-welfare/feed.xml">
 
-<script type="application/ld+json">[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"AI Coding 福利站导航","item":"https://wangpanying.github.io/ai-coding-welfare/"},{"@type":"ListItem","position":2,"name":"可用性","item":"https://wangpanying.github.io/ai-coding-welfare/status/"}]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"可用性是怎么测的？","acceptedAnswer":{"@type":"Answer","text":"CI 每 6 小时探一次各站的注册页与公开接口，结果压进仓库里的 data/history.json。目前已记录 181 个样本，覆盖约 39.9 天。"}},{"@type":"Question","name":"为什么有的站显示「探测被拦下」？","acceptedAnswer":{"@type":"Answer","text":"公益站前面普遍挂 Cloudflare，GitHub Actions 的机房 IP 容易吃到挑战页。这种情况不算掉线，状态沿用上一次成功探测的结果，并单独计入「被拦次数」——家宽访问通常不受影响。"}},{"@type":"Question","name":"显示异常的站还能用吗？","acceptedAnswer":{"@type":"Answer","text":"可能能。本页只代表自动探测视角：注册页与公开接口都没响应就标异常。真要用请自己开一下站点，或看该站详情页里的备用域名。"}},{"@type":"Question","name":"标了「停注」是什么意思？","acceptedAnswer":{"@type":"Answer","text":"站点自己的接口报 register_enabled=false，也就是不收新用户了；站点本身还在跑，老用户不受影响。重新开放会自动记进变动日志。"}}]}]</script>
+<script type="application/ld+json">[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"AI Coding 福利站导航","item":"https://wangpanying.github.io/ai-coding-welfare/"},{"@type":"ListItem","position":2,"name":"可用性","item":"https://wangpanying.github.io/ai-coding-welfare/status/"}]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"可用性是怎么测的？","acceptedAnswer":{"@type":"Answer","text":"CI 每 6 小时探一次各站的注册页与公开接口，结果压进仓库里的 data/history.json。目前已记录 302 个样本，覆盖约 69.9 天。"}},{"@type":"Question","name":"为什么有的站显示「探测被拦下」？","acceptedAnswer":{"@type":"Answer","text":"公益站前面普遍挂 Cloudflare，GitHub Actions 的机房 IP 容易吃到挑战页。这种情况不算掉线，状态沿用上一次成功探测的结果，并单独计入「被拦次数」——家宽访问通常不受影响。"}},{"@type":"Question","name":"显示异常的站还能用吗？","acceptedAnswer":{"@type":"Answer","text":"可能能。本页只代表自动探测视角：注册页与公开接口都没响应就标异常。真要用请自己开一下站点，或看该站详情页里的备用域名。"}},{"@type":"Question","name":"标了「停注」是什么意思？","acceptedAnswer":{"@type":"Answer","text":"站点自己的接口报 register_enabled=false，也就是不收新用户了；站点本身还在跑，老用户不受影响。重新开放会自动记进变动日志。"}}]}]</script>
 <style>
 /* AI Coding 福利站导航 — 落地页样式（手写，非生成物） */
 :root {
@@ -63,6 +73,28 @@ header.hero { padding: 84px 0 56px; text-align: center; }
   color: transparent;
 }
 .hero p.sub { margin: 0 auto 26px; max-width: 620px; color: var(--fg-dim); font-size: clamp(15px, 2vw, 18px); }
+
+/* Project community: a clear group number and a real QQ invitation, visible on the first screen. */
+header.hero:has(.community-banner) { padding-top: 24px; }
+.community-banner {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 24px;
+  max-width: 860px; margin: 0 auto 24px; padding: 24px;
+  border: 1px solid var(--accent-2); border-radius: var(--radius);
+  background: var(--bg-soft); text-align: left;
+}
+.community-title { margin: 0 0 8px; color: var(--fg); font-size: 20px; font-weight: 700; line-height: 1.4; }
+.community-description { margin: 0; color: var(--fg-dim); font-size: 14px; line-height: 1.6; }
+.community-group { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; margin: 12px 0; color: var(--fg-dim); font-size: 14px; }
+.community-group strong { color: var(--accent-2); font: 700 clamp(24px, 4vw, 32px)/1.2 ui-monospace, monospace; letter-spacing: 0.02em; user-select: all; }
+.community-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
+.community-actions span { color: var(--fg-dim); font-size: 12px; }
+.community-join { min-height: 44px; padding: 10px 20px; color: var(--bg); background: var(--accent-2); }
+.community-qr { display: block; padding: 4px; border-radius: 8px; background: #fff; line-height: 0; }
+.community-qr img { display: block; width: 128px; height: 128px; }
+@media (max-width: 480px) {
+  .community-banner { grid-template-columns: minmax(0, 1fr); gap: 16px; padding: 20px; }
+  .community-qr { justify-self: center; }
+}
 
 /* 投稿公告：大标题上方的一条横幅，首屏第一眼就能看到；窄屏时文字和两个入口各自折行 */
 .announce {
@@ -265,9 +297,9 @@ tr.shut td { color: var(--fg-dim); }
     <h1>福利站可用性</h1>
     <p class="sub">每 6 小时自动探一次，历史存在仓库里。哪个站还活着，看这页。</p>
     <div class="pills">
-      <span class="pill">样本 <b>181</b> 个</span>
-      <span class="pill">覆盖 <b>39.9</b> 天</span>
-      <span class="pill">最后探测 <b>2026-09-30 05:35 UTC</b></span>
+      <span class="pill">样本 <b>302</b> 个</span>
+      <span class="pill">覆盖 <b>69.9</b> 天</span>
+      <span class="pill">最后探测 <b>2026-10-30 05:52 UTC</b></span>
     </div>
   </header>
 
@@ -277,100 +309,100 @@ tr.shut td { color: var(--fg-dim); }
     <div class="table-wrap"><table>
       <thead><tr><th>站点</th><th>现在</th><th>最近 7 天</th><th>7 天可用</th><th>30 天可用</th><th>被 WAF 拦</th><th>延迟</th></tr></thead>
       <tbody><tr>
-      <td><a href="../sites/artbloom/">ArtBloom</a></td>
+      <td><a href="../sites/docode/">DoCode</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>718 ms</td>
+      <td>590 ms</td>
     </tr><tr>
       <td><a href="../sites/agentrouter/">AgentRouter</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>323 ms</td>
+      <td>320 ms</td>
     </tr><tr>
-      <td><a href="../sites/docode/">DoCode</a></td>
+      <td><a href="../sites/wanjiadenghuo/">万家灯火</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar part" title="2026-10-29 2/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>90.9%</td>
+      <td>90.9%</td>
       <td>0</td>
-      <td>1079 ms</td>
+      <td>812 ms</td>
     </tr><tr>
-      <td><a href="../sites/justdowork/">JustDoWork</a></td>
+      <td><a href="../sites/happycode/">Happy Code</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>943 ms</td>
+      <td>851 ms</td>
     </tr><tr>
-      <td><a href="../sites/mirasim/">Mirasim</a></td>
+      <td><a href="../sites/primerelay/">Prime Relay</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>1176 ms</td>
+      <td>910 ms</td>
     </tr><tr>
-      <td><a href="../sites/flushapi/">FlushAPI</a></td>
+      <td><a href="../sites/codex-relay/">Codex Relay</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>98.9%</td>
       <td>0</td>
-      <td>1580 ms</td>
-    </tr><tr>
-      <td><a href="../sites/kktoken/">KKtoken AI</a></td>
-      <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
-      <td>0</td>
-      <td>1959 ms</td>
+      <td>1122 ms</td>
     </tr><tr>
       <td><a href="../sites/matrix/">Matrix</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>2382 ms</td>
+      <td>1776 ms</td>
     </tr><tr>
       <td><a href="../sites/anyrouter/">AnyRouter</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>206 ms</td>
+      <td>178 ms</td>
     </tr><tr>
-      <td><a href="../sites/cheapcodex/">CheapCodex</a></td>
+      <td><a href="../sites/justdowork/">JustDoWork</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>2939 ms</td>
+      <td>2093 ms</td>
+    </tr><tr>
+      <td><a href="../sites/kktoken/">KKtoken AI</a></td>
+      <td><span class="dot up"></span> 在线</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
+      <td>0</td>
+      <td>2793 ms</td>
     </tr><tr>
       <td><a href="../sites/nofx/">NOFX</a></td>
       <td><span class="dot up"></span> 在线</td>
-      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar nodata" title="2026-10-24 无样本"></i><i class="bar nodata" title="2026-10-25 无样本"></i><i class="bar nodata" title="2026-10-26 无样本"></i><i class="bar nodata" title="2026-10-27 无样本"></i><i class="bar nodata" title="2026-10-28 无样本"></i><i class="bar nodata" title="2026-10-29 无样本"></i><i class="bar nodata" title="2026-10-30 无样本"></i></div></td>
-      <td>样本不足（0 次）</td>
-      <td>样本不足（0 次）</td>
+      <td><div class="bars" role="img" aria-label="最近 7 天可用性"><i class="bar ok" title="2026-10-24 4/4 次在线"></i><i class="bar ok" title="2026-10-25 4/4 次在线"></i><i class="bar ok" title="2026-10-26 3/3 次在线"></i><i class="bar ok" title="2026-10-27 4/4 次在线"></i><i class="bar ok" title="2026-10-28 6/6 次在线"></i><i class="bar ok" title="2026-10-29 3/3 次在线"></i><i class="bar ok" title="2026-10-30 2/2 次在线"></i></div></td>
+      <td>100%</td>
+      <td>100%</td>
       <td>0</td>
-      <td>3524 ms</td>
+      <td>3143 ms</td>
     </tr></tbody>
     </table></div>
 
   </section>
 
   <section><h2>常见问题</h2>
-    <details><summary>可用性是怎么测的？</summary><p>CI 每 6 小时探一次各站的注册页与公开接口，结果压进仓库里的 data/history.json。目前已记录 181 个样本，覆盖约 39.9 天。</p></details>
+    <details><summary>可用性是怎么测的？</summary><p>CI 每 6 小时探一次各站的注册页与公开接口，结果压进仓库里的 data/history.json。目前已记录 302 个样本，覆盖约 69.9 天。</p></details>
     <details><summary>为什么有的站显示「探测被拦下」？</summary><p>公益站前面普遍挂 Cloudflare，GitHub Actions 的机房 IP 容易吃到挑战页。这种情况不算掉线，状态沿用上一次成功探测的结果，并单独计入「被拦次数」——家宽访问通常不受影响。</p></details>
     <details><summary>显示异常的站还能用吗？</summary><p>可能能。本页只代表自动探测视角：注册页与公开接口都没响应就标异常。真要用请自己开一下站点，或看该站详情页里的备用域名。</p></details>
     <details><summary>标了「停注」是什么意思？</summary><p>站点自己的接口报 register_enabled=false，也就是不收新用户了；站点本身还在跑，老用户不受影响。重新开放会自动记进变动日志。</p></details>
@@ -383,7 +415,7 @@ tr.shut td { color: var(--fg-dim); }
       <li>请勿把生产密钥、隐私数据、企业代码交给来源不明的中转服务；重要项目请使用官方 API。</li>
       <li>请遵守各站点与上游服务商条款，禁止批量注册、刷量、转售额度。</li>
     </ul>
-    <p>数据快照时间：2026-09-30 05:35 UTC · 由 <a href="https://github.com/wangpanying/ai-coding-welfare">github.com/wangpanying/ai-coding-welfare</a> 自动生成 · <a href="https://wangpanying.github.io/ai-coding-welfare/feed.xml">Atom 订阅</a></p>
+    <p>数据快照时间：2026-10-30 05:52 UTC · 由 <a href="https://github.com/wangpanying/ai-coding-welfare">github.com/wangpanying/ai-coding-welfare</a> 自动生成 · <a href="https://wangpanying.github.io/ai-coding-welfare/feed.xml">Atom 订阅</a></p>
   </footer>
 </div>
 </body>

@@ -8,12 +8,14 @@ import { activeSites, archivedSites, archivedAt, archivedReason } from './archiv
 import { subscriptionPlan } from './subscription.mjs';
 import { readmeLanguages } from './locales.mjs';
 import { esc } from './layout.mjs';
+import { communityReadme } from './community.mjs';
 
 /** shields.io 转义：- → --，_ → __，其余走 URI 编码 */
 const shield = (s) => encodeURIComponent(String(s).replace(/-/g, '--').replace(/_/g, '__'));
 const B = (label, msg, color) => `https://img.shields.io/badge/${shield(label)}-${shield(msg)}-${color}`;
 
 const yes = (v) => (v === true ? '✅' : v === false ? '❌' : '—');
+const tableText = (value) => esc(value).replace(/\|/g, '\\|').replace(/[\r\n]+/g, ' ');
 
 function fmtDate(iso) {
   if (!iso) return '未知';
@@ -36,6 +38,7 @@ function overviewTable(sites, liveById) {
   // 多数站的邀请额度是邀请链接自己带的，用户不用手打；只有个别站（DoCode）注册表单里
   // 有一栏「邀请码」要自己填，漏填就只拿注册额度。没有任何站需要手填时不出这一列。
   const hasCode = sites.some((s) => s.inviteCode);
+  const hasRemarks = sites.some((s) => s.remarks);
   const hasSubscription = sites.some((s) => s.subscription);
   const rows = sites.map((s) => {
     const l = liveById.get(s.id) ?? {};
@@ -53,9 +56,13 @@ function overviewTable(sites, liveById) {
           ? `~~${usd(plan.firstDay, plan.approx, plan.unit)}~~`
           : `**${usd(plan.firstDay, plan.approx, plan.unit)}**`
         : plan.note ?? '站内公示';
-    const detail = sub ? sub.estimates.map((e) => `${e.model} **${e.amount}**`).join('<br>') : breakdown(plan) ?? '—';
+    const detail = sub ? sub.estimates.map((e) => `${e.model} **${e.amount}**`).join('<br>') : [
+      breakdown(plan) ?? '—',
+      s.credits?.signupNote ? tableText(s.credits.signupNote) : null,
+    ].filter(Boolean).join('<br>');
+    const daily = perDay(plan);
     const checkin =
-      sub ? `**${sub.window}**<br>共享额度` : perDay(plan) ??
+      sub ? `**${sub.window}**<br>共享额度` : daily != null ? tableText(daily) :
       (l.checkinEnabled
         ? '支持签到'
         : l.checkinEnabled === false
@@ -78,12 +85,13 @@ function overviewTable(sites, liveById) {
     const code = s.inviteCode ? ` \`${s.inviteCode}\` |` : ' — |';
     return (
       `| **${s.name}**${s.recommended ? ' 🔥' : ''} | ${state} | ${first} | ${detail} | ${checkin} | ${proto} | ${models} | ${cta} |` +
-      (hasCode ? code : '')
+      (hasCode ? code : '') +
+      (hasRemarks ? ` ${s.remarks ? tableText(s.remarks) : '—'} |` : '')
     );
   });
   return [
-    `| 站点 | 状态 | ${hasSubscription ? '首日可得 / 套餐' : '首日可得'} | ${hasSubscription ? '额度构成 / 用量' : '额度构成'} | ${hasSubscription ? '每日 / 周期' : '之后每天'} | 兼容协议 | 模型 | 注册 |${hasCode ? ' 邀请码 |' : ''}`,
-    `| :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: |${hasCode ? ' :--: |' : ''}`,
+    `| 站点 | 状态 | ${hasSubscription ? '首日可得 / 套餐' : '首日可得'} | ${hasSubscription ? '额度构成 / 用量' : '额度构成'} | ${hasSubscription ? '每日 / 周期' : '之后每天'} | 兼容协议 | 模型 | 注册 |${hasCode ? ' 邀请码 |' : ''}${hasRemarks ? ' 备注 |' : ''}`,
+    `| :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: |${hasCode ? ' :--: |' : ''}${hasRemarks ? ' :-- |' : ''}`,
     ...rows,
   ].join('\n');
 }
@@ -143,7 +151,7 @@ function creditFacts(site, snap) {
   if (p.firstDay == null) return p.note ? `- 免费范围：${p.note}` : null;
   const detail = breakdown(p);
   return [
-    p.signup != null ? `- 注册即送：**${usd(p.signup, false, p.unit)}**` : null,
+    p.signup != null ? `- 注册即送：**${usd(p.signup, false, p.unit)}**${site.credits?.signupNote ? `（${tableText(site.credits.signupNote)}）` : ''}` : null,
     p.invite != null
       ? `- 从本页邀请链接注册额外：**${usd(p.invite, false, p.unit)}**${p.apiInvite === p.invite ? '（站点接口实测一致）' : ''}`
       : null,
@@ -342,6 +350,7 @@ export function renderReadme({ meta, sites: allSites, live, groups = [], history
   const extra = othersNote(others);
   const scope = `${usdCount} 个有明确美元额度、且还收新用户的站`;
   const pages = (meta.pagesUrl ?? '').replace(/\/?$/, '/');
+  const repoName = String(meta.repoUrl ?? '').replace(/\/+$/, '').split('/').pop();
 
   const head = [
     `<h1 align="center">${meta.title}</h1>`,
@@ -366,6 +375,7 @@ export function renderReadme({ meta, sites: allSites, live, groups = [], history
     '',
     `<p align="center"><a href="${pages}compare/">📊 按次 vs 按量折算横评</a> · <a href="${pages}status/">🩺 可用性历史</a> · <a href="${pages}changelog/">🗓 变动日志</a> · <a href="${pages}feed.xml">🔔 Atom 订阅</a></p>`,
     '',
+    ...communityReadme(meta),
     ...submitCallout(meta.repoUrl),
     '',
     '---',
@@ -409,13 +419,16 @@ export function renderReadme({ meta, sites: allSites, live, groups = [], history
     '2. 后台「令牌 / API Keys」新建一个 Key',
     '3. 跑一键脚本，或手抄下面对应站点的环境变量',
     '',
+    // 在 GitHub 上看 README 的人手里没有这个仓库，光写 bash scripts/quickstart.sh 是跑不起来的
     `${F}bash`,
-    '# 交互式写好 Claude Code 的环境变量（macOS / Linux）',
+    '# 交互式写好 Claude Code 的环境变量（macOS / Linux，需要 Node.js）',
+    `git clone --depth 1 ${meta.repoUrl}.git && cd ${repoName}`,
     'bash scripts/quickstart.sh',
     F,
     '',
     `${F}powershell`,
-    '# Windows PowerShell',
+    '# Windows PowerShell（5.1 不认 &&，两条命令用 ; 隔开）',
+    `git clone --depth 1 ${meta.repoUrl}.git; cd ${repoName}`,
     'powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1',
     F,
     '',
@@ -516,7 +529,7 @@ function tail(meta, sites, live) {
     `${F}bash`,
     'npm test          # 单测（不联网）',
     'npm run refresh   # 抓最新数据',
-    'npm run history   # 归档历史 + 生成变动日志',
+    'npm run history   # 归档历史 + 生成变动日志（只在 CI 里写入，本地默认跳过）',
     'npm run build     # 重新生成 README + docs/',
     'npm run check     # 校验链接是否还活着',
     F,
@@ -558,7 +571,7 @@ function tailFooter(meta, sites) {
     '发现好用的公益站 / 中转站？两种方式：',
     '',
     `- 提 [Issue](${meta.repoUrl}/issues/new?template=new-site.yml) 填个表单：投稿公开可见，本身就是一次推广；符合下方收录标准、特别优质的，我会收录进正文`,
-    '- 或者直接 PR：往 `data/sites.json` 加一条，跑 `npm run refresh && npm run build` 后提交',
+    '- 或者直接 PR：往 `data/sites.json` 加一条、五份 `data/locales/*.json` 补上译文，`npm test` 通过后提交；README、`docs/`、`data/live.json` 是生成物，别带进 PR（CI 每 6 小时重写一次，带上必冲突），合并后会自动生成',
     '',
     '收录标准：**能免费拿到额度**、注册流程不套娃、站点公开接口可探测。',
     '',

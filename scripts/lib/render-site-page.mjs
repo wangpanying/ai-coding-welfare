@@ -8,7 +8,7 @@
 import { creditPlan, usd, breakdown } from './credits.mjs';
 import { signupRoute } from './signup.mjs';
 import { staleHours } from './newapi.mjs';
-import { esc, fmt, pageShell, breadcrumb, faqLd } from './layout.mjs';
+import { esc, fmt, pageShell, breadcrumb, faqLd, COPY_SCRIPT } from './layout.mjs';
 import { uptime } from './history.mjs';
 import { isArchived, archivedAt, archivedReason } from './archived.mjs';
 import { subscriptionPlan, renderSubscription } from './subscription.mjs';
@@ -26,7 +26,7 @@ function factRows(site, snap) {
     p.sources > 1 && breakdown(p) ? ['额度构成', esc(breakdown(p))] : null,
     p.daily != null
       ? ['之后每天', p.resets ? `重置额度池 ${usd(p.daily, p.approx, p.unit)}（不累积）` : `签到 ${usd(p.daily, p.approx, p.unit)}`]
-      : null,
+      : p.dailyNote ? ['之后每天', esc(p.dailyNote)] : null,
     p.inviter ? ['邀请他人可得', `$${p.inviter}`] : null,
     snap?.systemName ? ['站点名称', esc(snap.systemName)] : null,
     snap?.version ? ['面板版本', `<code>${esc(snap.version)}</code>`] : null,
@@ -37,6 +37,7 @@ function factRows(site, snap) {
     snap?.githubMinAccountAgeDays ? ['账号门槛', `GitHub 满 ${snap.githubMinAccountAgeDays} 天`] : null,
     snap?.latencyMs != null ? ['接口延迟', `${snap.latencyMs} ms`] : null,
     ['数据快照', esc(fmt(snap?.staleFrom ?? snap?.checkedAt))],
+    site.remarks ? ['备注', esc(site.remarks)] : null,
   ].filter(Boolean);
 }
 
@@ -122,17 +123,6 @@ function list(title, items, cls = 'hl') {
   if (!items?.length) return '';
   return `<section><h2>${esc(title)}</h2><ul class="${cls}">${items.map((t) => `<li>${esc(t)}</li>`).join('')}</ul></section>`;
 }
-
-const COPY_JS = `<script>
-document.querySelectorAll('.copy').forEach(function (btn) {
-  btn.addEventListener('click', function () {
-    navigator.clipboard.writeText(btn.previousElementSibling.innerText).then(function () {
-      btn.textContent = '已复制 ✓';
-      setTimeout(function () { btn.textContent = '复制配置'; }, 1800);
-    });
-  });
-});
-</script>`;
 
 export function renderSitePage({ meta, site, snap, live, css, history, siblings = [] }) {
   // 旧地址仍可访问，但不能继续展示过期的额度、注册链接和接入配置。
@@ -227,7 +217,7 @@ export function renderSitePage({ meta, site, snap, live, css, history, siblings 
       .map((s) => `<li><a href="../${esc(s.id)}/">${esc(s.name)}</a> — ${esc(s.subtitle)}</li>`)
       .join('')}</ul>
   </section>
-${COPY_JS}`;
+${COPY_SCRIPT}`;
 
   return pageShell({
     meta,

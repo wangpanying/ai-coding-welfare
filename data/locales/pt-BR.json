@@ -12,6 +12,12 @@
     "sourceZh": "Notas completas da fonte (chinês)",
     "website": "Site",
     "repository": "Repositório no GitHub",
+    "communityTitle": "Comunidade do projeto AI Coding",
+    "communityText": "Converse sobre configuração do Claude Code / Codex, créditos e novidades dos serviços. Compartilhe práticas de programação com IA e experimente projetos da comunidade.",
+    "communityGroup": "Grupo QQ",
+    "communityJoin": "Entrar no grupo QQ",
+    "communityQr": "Código QR do grupo",
+    "communityHint": "Busque o número do grupo no QQ ou escaneie para entrar",
     "submitTitle": "Divulgue seu projeto — as Issues são um espaço gratuito",
     "submitText": "Encontrou um serviço útil ou administra um? Abra uma Issue e inclua seu link de indicação. As Issues são públicas e ajudam outras pessoas a descobrir seu projeto. Posso incluir no diretório principal sugestões especialmente úteis e verificadas; o envio não garante inclusão.",
     "submit": "Enviar uma Issue",
@@ -87,13 +93,42 @@
     "maintenanceNote": "Edite data/sites.json para fatos compartilhados e data/locales/*.json para traduções; depois execute npm test e npm run build. Os arquivos README e as páginas HTML são gerados: não os edite diretamente. Relate erros de tradução pelas Issues.",
     "selection": "Por que estes idiomas?",
     "selectionNote": "O GitHub não publica um ranking oficial de idiomas naturais. Este projeto usa a distribuição geográfica de desenvolvedores do Octoverse 2025 como aproximação de alcance: inglês, hindi, português brasileiro, japonês e alemão, além do chinês já existente. País não equivale a idioma; a Índia é multilíngue e o hindi não representa todos os desenvolvedores indianos.",
-    "report": "GitHub Octoverse 2025"
+    "report": "GitHub Octoverse 2025",
+    "remarks": "Observações"
   },
   "sites": {
     "artbloom": {
       "summary": "Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no primeiro dia do cadastro e lista o Opus 5.5 (claude-opus-5-5) na página pública de modelos.",
       "registration": "Use o link completo de indicação e continue com o GitHub. A página de cadastro anuncia US$ 100 em créditos imediatos, sem exigir cartão de crédito. Após entrar, crie uma chave de API no painel.",
       "notes": "A página pública de modelos lista o Opus 5.5 e outros modelos com seus preços. Confira os preços atuais no serviço e o saldo real e o consumo no painel."
+    },
+    "codex-relay": {
+      "summary": "Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.",
+      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação, mantenha aff= e siga as instruções de cadastro. Entre na conta para conferir seu saldo de US$ 10 em créditos de cadastro.",
+      "notes": "Consulte o console para ver os modelos disponíveis, preços, chaves de API, endpoints e instruções de configuração do cliente."
+    },
+    "happycode": {
+      "summary": "Cadastre-se no Happy Code para receber $100 em créditos. Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários.",
+      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link de indicação completo e mantenha aff=. Cadastre-se com um e-mail aceito e código de verificação, ou use o NodeLoc. Depois, entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários.",
+      "notes": "Após o cadastro, solicite ao dono do grupo o pacote de teste de $100 para novos usuários. Consulte o painel para ver modelos, preços, chaves de API e instruções de configuração.",
+      "remarks": "Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários"
+    },
+    "primerelay": {
+      "summary": "O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite check-in diário.",
+      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação com aff=. As configurações públicas de cadastro exigem atualmente um endereço @qq.com e verificação por e-mail. Entre para consultar o saldo e a opção de check-in.",
+      "notes": "A oferta de $20 no cadastro e o check-in diário foram informados pelo mantenedor. O valor do prêmio diário não foi especificado e não entra no total do primeiro dia. Consulte modelos e preços na lista pública de modelos. Promoções de indicação separadas podem exigir entrada no grupo do QQ; esses prêmios não foram somados aos $20. Grupo oficial do QQ: 239561070.",
+      "dailyNote": "Check-in diário disponível",
+      "remarks": "É necessário entrar no grupo do QQ 239561070"
+    },
+    "omnirush": {
+      "summary": "GPT 6 Astra, GPT 6 Sol e GPT-5.6 Sol gratuitos com 50M de tokens por semana; cadastre-se por este link de indicação para receber mais 5M de tokens.",
+      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação do console, mantenha ref= e siga as instruções de cadastro. Confira a franquia semanal e o bônus de indicação no console.",
+      "notes": "A oferta de tokens e a lista de modelos foram informadas por um colaborador; os créditos recebidos não foram verificados em uma conta autenticada. Consulte o console para elegibilidade, regras de renovação ou acúmulo, frequência do bônus e modelos disponíveis. Tokens não entram nos totais em USD."
+    },
+    "conduit": {
+      "summary": "Cadastre-se pelo bot do Conduit no Telegram para receber US$ 500 em créditos, com GPT-6, Fable 5.1 e outros modelos disponíveis.",
+      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação com uma conta do Telegram, pressione Start e siga as instruções de cadastro do bot. Mantenha o parâmetro de indicação no link.",
+      "notes": "As informações sobre créditos de cadastro e modelos foram fornecidas por um colaborador. Consulte o bot para verificar seu saldo real, os modelos atuais, os preços e as instruções de configuração do cliente."
     },
     "agentrouter": {
       "summary": "Gateway comunitário com créditos de cadastro, indicação e check-in diário; endpoints Anthropic e compatíveis com OpenAI.",
@@ -103,7 +138,9 @@
     "docode": {
       "summary": "Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólares americanos.",
       "registration": "Somente e-mail e senha, com verificação por e-mail e Cloudflare Turnstile. Confira o código {inviteCode} no formulário antes de enviar; não é possível adicioná-lo depois. O domínio alternativo usa a mesma conta e saldo.",
-      "notes": "Sem check-in diário. Os bônus vêm de comunicados, não de campos públicos de cota. Não some unidades internas ao total em USD: a recarga observada era de 50 unidades por CNY 1, com um comunicado também mencionando 25. Multiplicadores de grupo e saída afetam o consumo. Modelos e preços exigem login. É um gateway pago após o fim dos créditos promocionais; pode haver falhas e mudanças de preço na origem. O link principal de cadastro agora usa ai.docode.life. Uma verificação HTTPS local em 2026-09-25 encontrou um certificado incompatível com o nome do domínio; o cadastro por esse endereço não foi confirmado. Não ignore avisos de certificado; tente o link alternativo de cadastro se necessário."
+      "notes": "Sem check-in diário. Os bônus vêm de comunicados, não de campos públicos de cota. Não some unidades internas ao total em USD: a recarga observada era de 50 unidades por CNY 1, com um comunicado também mencionando 25. Multiplicadores de grupo e saída afetam o consumo. Modelos e preços exigem login. É um gateway pago após o fim dos créditos promocionais; pode haver falhas e mudanças de preço na origem.",
+      "dailyNote": "Sorteio grátis + cupons de desconto para recarga",
+      "remarks": "Entre no grupo do QQ para desbloquear muito mais benefícios"
     },
     "justdowork": {
       "summary": "Gateway New API com login GitHub, check-ins diários e interfaces de imagens e tarefas.",
@@ -142,8 +179,15 @@
     },
     "nofx": {
       "summary": "Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; pontos não são USD.",
-      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Preserve a URL completa. Entre por magic link de e-mail ou GitHub. Participe do Discord e selecione /verify e /checkin no menu de comandos; essas recompensas exigem Discord. Obtenha a chave e a URL base real no painel autenticado.",
+      "registration": "Preserve a URL completa. Entre por magic link de e-mail ou GitHub. Participe do Discord e selecione /verify e /checkin no menu de comandos; essas recompensas exigem Discord. Obtenha a chave e a URL base real no painel autenticado.",
       "notes": "Pontos expiram em 30 dias; uso real da API reinicia esse prazo. Check-ins pausam acima de 50 pontos. Verificação Discord dá 5 pontos uma vez (código válido por 30 minutos), indicação dá 5 por amigo e publicação aprovada no X dá 20 uma vez. A página anuncia 20 pontos no cadastro, mas a regra de indicação registrada dá 10: confira o crédito real. Não há conversão pública para USD. O robots permite apenas páginas públicas; modelos e preços exigem login."
+    },
+    "wanjiadenghuo": {
+      "summary": "O cadastro concede 50 unidades internas de uso de uma assinatura GPT por um mês, restrita ao grupo GPT indicado. Check-ins no QQ dão CNY 0,1–1 por dia; indicações elegíveis dão CNY 5 a cada participante. Consulte o crédito em “我的订阅” (Minhas assinaturas).",
+      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação e mantenha aff=. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.",
+      "notes": "Os benefícios e modelos foram informados pelo operador na Issue #46. As configurações públicas e a saúde do serviço foram verificadas; o recebimento dos créditos e a inferência não foram testados. A assinatura de 50 unidades não tem limite diário, expira após um mês e cobre apenas o grupo GPT indicado. Ela é separada do saldo geral. CNY 1 compra 1 unidade interna; os $50 anunciados não são dólares em dinheiro e ficam fora do total em USD. Recompensas condicionais de check-in e indicação não entram nos créditos do primeiro dia. O multiplicador GPT a partir de 0.06x vale para um grupo específico; confira modelos, grupos e preços atuais no painel.",
+      "dailyNote": "CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta",
+      "remarks": "Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta"
     }
   }
 }

@@ -12,6 +12,12 @@
     "sourceZh": "Full source notes (Chinese)",
     "website": "Website",
     "repository": "GitHub repository",
+    "communityTitle": "AI Coding project community",
+    "communityText": "Discuss Claude Code / Codex setup, credit offers and service updates. Share AI coding workflows and try community projects.",
+    "communityGroup": "QQ group",
+    "communityJoin": "Join the QQ group",
+    "communityQr": "Group QR code",
+    "communityHint": "Search the group number in QQ, or scan to join",
     "submitTitle": "Share your project — Issues are a free promotion space",
     "submitText": "Found a useful service, or running one yourself? Open an Issue and include your referral link. Issues are public and can help others discover your project. I may feature particularly useful, verified submissions in the main directory; submission does not guarantee inclusion.",
     "submit": "Submit an Issue",
@@ -87,13 +93,42 @@
     "maintenanceNote": "Edit data/sites.json for shared facts and data/locales/*.json for translated copy, then run npm test and npm run build. README files and HTML pages are generated; do not edit them directly. Report translation errors through Issues.",
     "selection": "Why these languages?",
     "selectionNote": "GitHub does not publish an official ranking of human languages. This project uses the developer-population geography in Octoverse 2025 as a coverage proxy: English, Hindi, Brazilian Portuguese, Japanese and German, in addition to existing Chinese. Country is not language; India is multilingual and Hindi does not represent all Indian developers.",
-    "report": "GitHub Octoverse 2025"
+    "report": "GitHub Octoverse 2025",
+    "remarks": "Remarks"
   },
   "sites": {
     "artbloom": {
       "summary": "OpenAI-compatible API service offering $100 in credits on the first day of signup, with Opus 5.5 (claude-opus-5-5) listed on its public models page.",
       "registration": "Use the full referral link and continue with GitHub. The signup page advertises an immediate $100 credit with no credit card required. Create an API key in the dashboard after signing in.",
       "notes": "The public models page lists Opus 5.5 and other models with their prices. Check the service for current model pricing and the dashboard for your actual balance and usage."
+    },
+    "codex-relay": {
+      "summary": "Register with Codex Relay to receive $10 in API credits.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Open the full referral link, keep aff= and follow the registration instructions. Sign in to view your $10 signup credit balance.",
+      "notes": "Check the console for available models, prices, API keys, endpoints and client setup instructions."
+    },
+    "happycode": {
+      "summary": "Register with Happy Code to receive $100 in credits. Join QQ group 367746547 and ask the group owner for the newcomer trial pack.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Open the full referral link and keep aff=. Register with a supported email address and verification code, or use NodeLoc. Then join QQ group 367746547 and ask the group owner for the newcomer trial pack.",
+      "notes": "Claim the $100 newcomer trial pack from the group owner after registration. Check the dashboard for models, prices, API keys and setup instructions.",
+      "remarks": "Join QQ group 367746547 and ask the group owner for the newcomer trial pack"
+    },
+    "primerelay": {
+      "summary": "Prime Relay offers $20 in credits on the first day of registration and supports daily check-ins.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link with aff=. The public registration settings currently require a @qq.com email address and email verification. Sign in to view your credit balance and check-in entry.",
+      "notes": "The $20 signup offer and daily check-ins were supplied by the maintainer. The daily reward amount is unspecified and is not included in the first-day total. Check the public model plaza for models and prices. Separate referral promotions may require joining the QQ group; their rewards are not added to the $20 total. Official QQ group: 239561070.",
+      "dailyNote": "Daily check-ins supported",
+      "remarks": "Must join QQ group 239561070"
+    },
+    "omnirush": {
+      "summary": "Free GPT 6 Astra, GPT 6 Sol and GPT-5.6 Sol with 50M tokens every week; register through this referral link for an extra 5M tokens.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Open the full console referral link, keep ref= and follow the signup instructions. Check your weekly allowance and referral reward in the console.",
+      "notes": "The token offer and model list were supplied by a contributor; credited amounts have not been verified while signed in. Check the console for eligibility, reset or rollover rules, bonus frequency and current model access. Tokens are not included in USD totals."
+    },
+    "conduit": {
+      "summary": "Register through the Conduit Telegram bot to receive $500 in credits, with GPT-6, Fable 5.1 and other models available.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use a Telegram account to open the full referral link, press Start and follow the bot's registration instructions. Keep the referral parameter in the link.",
+      "notes": "The signup credit and model information were supplied by a contributor. Check the bot for your actual balance, current models, prices and client setup instructions."
     },
     "agentrouter": {
       "summary": "Community gateway with signup, referral and daily check-in credits; Anthropic and OpenAI-compatible endpoints.",
@@ -103,7 +138,9 @@
     "docode": {
       "summary": "New API gateway with Claude and GPT services; bonuses use internal site units, not US dollars.",
       "registration": "Email and password only, with email verification and Cloudflare Turnstile. Confirm referral code {inviteCode} in the signup form before submitting; a missing code cannot be added retroactively. The alternative domain uses the same account and balance.",
-      "notes": "No daily check-in. Bonuses come from provider notices, not publicly exposed quota fields. Site units must not be added to USD totals: the observed top-up ratio was CNY 1 for 50 units, with a notice also mentioning 25. Group and output multipliers further affect usage. Models and pricing require login. This is a paid gateway after promotional credits run out; upstream outages and price changes are possible. The primary signup link is now ai.docode.life. A local HTTPS check on 2026-09-25 found a certificate hostname mismatch; successful signup through this entry has not been verified. Do not bypass certificate warnings; try the alternative registration link if needed."
+      "notes": "No daily check-in. Bonuses come from provider notices, not publicly exposed quota fields. Site units must not be added to USD totals: the observed top-up ratio was CNY 1 for 50 units, with a notice also mentioning 25. Group and output multipliers further affect usage. Models and pricing require login. This is a paid gateway after promotional credits run out; upstream outages and price changes are possible.",
+      "dailyNote": "Free prize draw + top-up discount coupons",
+      "remarks": "Join the QQ group to unlock many more perks"
     },
     "justdowork": {
       "summary": "New API gateway with GitHub login, daily check-ins and image/task interfaces.",
@@ -142,8 +179,15 @@
     },
     "nofx": {
       "summary": "Task-based API points with passwordless login, Discord check-ins and referral rewards; points are not USD.",
-      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.",
+      "registration": "Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.",
       "notes": "Points expire after 30 days; real API usage resets that period. Check-ins pause above a 50-point balance. Discord verification gives 5 points once (code valid for 30 minutes), referrals give 5 points per friend, and an approved X post gives 20 points once. The landing page advertises 20 signup points while the recorded referral rule gives 10: verify the actual award. No public points-to-USD conversion exists. Robots rules only permit checking public pages; models and prices require login."
+    },
+    "wanjiadenghuo": {
+      "summary": "Signup grants 50 internal units of GPT subscription usage for one month, limited to the designated GPT group. QQ check-ins award CNY 0.1–1 daily; eligible referrals award CNY 5 to each participant. Find the credit under “我的订阅” (My Subscriptions).",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link and keep aff=. Email verification is required; QQ, 126, 163 and Gmail addresses are currently accepted. For rewards, join QQ group 1064350952 and link your site account. Referral rewards require the invitee to register, join the group, link their account and check in; both participants must link their accounts.",
+      "notes": "Benefits and model claims come from the operator’s Issue #46. Public settings and health were checked; actual awards and inference were not tested. The 50-unit subscription has no daily cap, expires after one month and only covers the designated GPT group. It is separate from the general balance. CNY 1 buys 1 internal unit; the advertised $50 is not USD cash and is excluded from USD totals. Conditional check-in and referral rewards are not added to first-day credits. GPT pricing starts at 0.06x for a specific group; verify current models, groups and rates in the console.",
+      "dailyNote": "Random CNY 0.1–1 daily after joining QQ and linking your account",
+      "remarks": "Subscription limited to the designated GPT group; rewards require QQ group 1064350952 and account linking"
     }
   }
 }

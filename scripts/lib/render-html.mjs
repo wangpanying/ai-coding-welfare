@@ -7,11 +7,12 @@
 import { staleHours } from './newapi.mjs';
 import { creditPlan, usd, breakdown, usdTotals, othersNote } from './credits.mjs';
 import { signupRoute, acceptsNew } from './signup.mjs';
-import { esc, fmt, pageShell, faqLd } from './layout.mjs';
+import { esc, fmt, pageShell, faqLd, COPY_SCRIPT } from './layout.mjs';
 import { icon } from './changelog.mjs';
 import { coverage } from './history.mjs';
 import { activeSites, archivedSites, archivedAt, archivedReason } from './archived.mjs';
 import { subscriptionPlan, renderSubscription } from './subscription.mjs';
+import { communityBanner } from './community.mjs';
 
 function claudeSnippet(site, snap) {
   const model = snap?.defaults?.claude ?? '在站内模型列表中选择';
@@ -53,6 +54,7 @@ function siteCard(site, snap) {
       : p.note ? ['免费范围', esc(p.note)] : null,
     p.daily != null
       ? ['之后每天', p.resets ? `重置额度池 ${usd(p.daily, p.approx, p.unit)}（不累积）` : `签到 ${usd(p.daily, p.approx, p.unit)}`]
+      : p.dailyNote ? ['之后每天', esc(p.dailyNote)]
       : snap?.checkinEnabled
         ? ['每日签到', '支持']
         : snap?.checkinEnabled === false
@@ -71,6 +73,7 @@ function siteCard(site, snap) {
     snap?.probeBlocked && !staleHours(snap)
       ? ['数据快照', `${fmt(snap.staleFrom ?? snap.checkedAt)}（本次探测被站点 WAF 拦下，机房 IP 常见，不影响家宽访问）`]
       : null,
+    site.remarks ? ['备注', esc(site.remarks)] : null,
   ].filter(Boolean);
 
   return `
@@ -208,6 +211,7 @@ export function renderHtml({ meta, sites: allSites, live, css, groups = [], hist
 
   // 投稿公告放在大标题上方：首屏第一眼就能看到，和 README 顶部的 [!TIP] 提示块同一个口径
   const body = `  <header class="hero">
+    ${communityBanner(meta)}
     <p class="announce">
       <span>📣 <b>欢迎投稿</b>：Issue 区就是你的免费推广位，邀请链接可以直接贴，特别优质的会收录进本站</span>
       <a href="${esc(`${meta.repoUrl}/issues/new/choose`)}" target="_blank" rel="noopener">提交 Issue →</a>
@@ -257,17 +261,7 @@ ${graveyardSection(allSites)}
     <p class="hint">踩坑集中在这四个。</p>
     ${FAQ.map(([q, a]) => `<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join('\n    ')}
   </section>
-<script>
-document.querySelectorAll('.copy').forEach(function (btn) {
-  btn.addEventListener('click', function () {
-    var pre = btn.previousElementSibling;
-    navigator.clipboard.writeText(pre.innerText).then(function () {
-      btn.textContent = '已复制 ✓';
-      setTimeout(function () { btn.textContent = '复制配置'; }, 1800);
-    });
-  });
-});
-</script>`;
+${COPY_SCRIPT}`;
 
   // ItemList 让搜索引擎和 AI 抓取时知道这页是「N 个站点的清单」，每项指向各自的详情页
   const itemList = {

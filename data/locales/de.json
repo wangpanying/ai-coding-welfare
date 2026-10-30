@@ -12,6 +12,12 @@
     "sourceZh": "Vollständige Quellnotizen (Chinesisch)",
     "website": "Website",
     "repository": "GitHub-Repository",
+    "communityTitle": "AI Coding Projekt-Community",
+    "communityText": "Tausche dich über Claude Code / Codex, Guthaben und Anbieter-Updates aus. Teile KI-Workflows und probiere Community-Projekte aus.",
+    "communityGroup": "QQ-Gruppe",
+    "communityJoin": "QQ-Gruppe beitreten",
+    "communityQr": "QR-Code der Gruppe",
+    "communityHint": "Gruppennummer in QQ suchen oder QR-Code scannen",
     "submitTitle": "Stelle dein Projekt vor — Issues bieten kostenlose Sichtbarkeit",
     "submitText": "Du kennst einen hilfreichen Dienst oder betreibst selbst einen? Erstelle ein Issue, gern mit Empfehlungslink. Issues sind öffentlich und können dein Projekt bekannter machen. Besonders hilfreiche, überprüfte Empfehlungen kann ich ins Hauptverzeichnis aufnehmen; eine Einreichung garantiert keine Aufnahme.",
     "submit": "Issue erstellen",
@@ -87,13 +93,42 @@
     "maintenanceNote": "Gemeinsame Fakten in data/sites.json, übersetzte Texte in data/locales/*.json bearbeiten; danach npm test und npm run build ausführen. README-Dateien und HTML-Seiten werden generiert, nicht direkt bearbeiten. Übersetzungsfehler bitte per Issue melden.",
     "selection": "Warum diese Sprachen?",
     "selectionNote": "GitHub veröffentlicht keine offizielle Rangliste natürlicher Sprachen. Als Näherung für die Reichweite nutzt dieses Projekt die geografische Entwicklerverteilung aus Octoverse 2025: Englisch, Hindi, brasilianisches Portugiesisch, Japanisch und Deutsch zusätzlich zum bestehenden Chinesisch. Land und Sprache sind nicht gleichzusetzen; Indien ist mehrsprachig, Hindi repräsentiert nicht alle indischen Entwickler.",
-    "report": "GitHub Octoverse 2025"
+    "report": "GitHub Octoverse 2025",
+    "remarks": "Hinweise"
   },
   "sites": {
     "artbloom": {
       "summary": "OpenAI-kompatibler API-Dienst mit 100 US-Dollar Guthaben am ersten Tag der Registrierung. Die öffentliche Modellseite führt Opus 5.5 (claude-opus-5-5) auf.",
       "registration": "Den vollständigen Empfehlungslink verwenden und mit GitHub fortfahren. Die Registrierungsseite bewirbt sofortige 100 US-Dollar Guthaben ohne Kreditkarte. Nach der Anmeldung einen API-Schlüssel im Dashboard erstellen.",
       "notes": "Die öffentliche Modellseite führt Opus 5.5 und weitere Modelle mit ihren Preisen auf. Aktuelle Modellpreise beim Anbieter sowie den tatsächlichen Kontostand und Verbrauch im Dashboard prüfen."
+    },
+    "codex-relay": {
+      "summary": "Registriere dich bei Codex Relay und erhalte 10 US-Dollar API-Guthaben.",
+      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Öffne den vollständigen Empfehlungslink, behalte aff= bei und folge den Registrierungsanweisungen. Melde dich an, um dein Startguthaben von 10 US-Dollar einzusehen.",
+      "notes": "Verfügbare Modelle, Preise, API-Schlüssel, Endpunkte und Anweisungen zur Client-Einrichtung findest du in der Konsole."
+    },
+    "happycode": {
+      "summary": "Bei Happy Code registrieren und $100 Guthaben erhalten. Der QQ-Gruppe 367746547 beitreten und den Gruppeninhaber nach dem Testpaket für Neukunden fragen.",
+      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Den vollständigen Empfehlungslink mit aff= öffnen. Mit einer unterstützten E-Mail-Adresse und Bestätigungscode oder über NodeLoc registrieren. Anschließend der QQ-Gruppe 367746547 beitreten und beim Gruppeninhaber das Testpaket für Neukunden anfordern.",
+      "notes": "Das $100-Testpaket nach der Registrierung beim Gruppeninhaber anfordern. Modelle, Preise, API-Schlüssel und Einrichtungsanleitungen stehen im Dashboard.",
+      "remarks": "Der QQ-Gruppe 367746547 beitreten und beim Gruppeninhaber das Testpaket für Neukunden anfordern"
+    },
+    "primerelay": {
+      "summary": "Prime Relay bietet am Registrierungstag $20 Guthaben und unterstützt tägliche Check-ins.",
+      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Den vollständigen Empfehlungslink mit aff= verwenden. Die öffentlichen Registrierungseinstellungen verlangen derzeit eine @qq.com-Adresse und eine E-Mail-Bestätigung. Nach der Anmeldung Guthaben und Check-in-Bereich öffnen.",
+      "notes": "Die $20 Startguthaben und täglichen Check-ins wurden vom Projektbetreuer angegeben. Die Höhe der täglichen Prämie ist nicht bekannt und wird nicht zum Guthaben des ersten Tages addiert. Modelle und Preise stehen in der öffentlichen Modellübersicht. Separate Empfehlungsaktionen können den Beitritt zur QQ-Gruppe verlangen; diese Prämien werden nicht zusätzlich zu den $20 gezählt. Offizielle QQ-Gruppe: 239561070.",
+      "dailyNote": "Tägliche Check-ins verfügbar",
+      "remarks": "Beitritt zur QQ-Gruppe 239561070 erforderlich"
+    },
+    "omnirush": {
+      "summary": "Kostenloser Zugang zu GPT 6 Astra, GPT 6 Sol und GPT-5.6 Sol mit 50M Tokens pro Woche; über diesen Empfehlungslink gibt es zusätzlich 5M Tokens.",
+      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Öffne den vollständigen Empfehlungslink zur Konsole, behalte ref= bei und folge der Registrierung. Prüfe dein Wochenkontingent und den Empfehlungsbonus in der Konsole.",
+      "notes": "Das Token-Angebot und die Modellliste stammen aus einem Nutzerbeitrag; die tatsächliche Gutschrift wurde nicht in einem angemeldeten Konto geprüft. Teilnahmebedingungen, Zurücksetzung oder Übertrag, Häufigkeit des Bonus und verfügbare Modelle stehen in der Konsole. Tokens werden nicht zu USD-Gesamtsummen addiert."
+    },
+    "conduit": {
+      "summary": "Die Registrierung über den Conduit-Bot auf Telegram bietet 500 US-Dollar Guthaben sowie Zugang zu GPT-6, Fable 5.1 und weiteren Modellen.",
+      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Öffne den vollständigen Empfehlungslink mit einem Telegram-Konto, drücke Start und folge den Registrierungsanweisungen des Bots. Behalte den Empfehlungsparameter im Link bei.",
+      "notes": "Die Angaben zum Startguthaben und zu den Modellen stammen aus einer Einsendung. Prüfe dein tatsächliches Guthaben, die aktuellen Modelle, Preise und Anweisungen zur Client-Einrichtung im Bot."
     },
     "agentrouter": {
       "summary": "Community-Gateway mit Registrierungs-, Empfehlungs- und täglichen Check-in-Guthaben sowie Anthropic- und OpenAI-kompatiblen Endpunkten.",
@@ -103,7 +138,9 @@
     "docode": {
       "summary": "New-API-Gateway für Claude und GPT; Prämien werden in internen Einheiten vergeben, nicht in US-Dollar.",
       "registration": "Nur E-Mail und Passwort, mit E-Mail-Bestätigung und Cloudflare Turnstile. Vor dem Absenden den Empfehlungscode {inviteCode} im Formular prüfen; nachträgliches Eintragen ist nicht möglich. Die alternative Domain nutzt dasselbe Konto und Guthaben.",
-      "notes": "Kein täglicher Check-in. Prämien stammen aus Anbieterankündigungen, nicht aus öffentlichen Guthabenfeldern. Interne Einheiten nicht zur USD-Summe addieren: beobachtet wurden 50 Einheiten pro CNY 1, eine Ankündigung nennt auch 25. Gruppen- und Ausgabemultiplikatoren beeinflussen den Verbrauch zusätzlich. Modelle und Preise sind nur nach Anmeldung sichtbar. Nach Verbrauch des Aktionsguthabens ist dies ein kostenpflichtiges Gateway; Ausfälle und Preisänderungen sind möglich. Der Hauptlink zur Registrierung führt jetzt zu ai.docode.life. Eine lokale HTTPS-Prüfung am 2026-09-25 ergab einen nicht zum Hostnamen passenden Zertifikatsnamen; eine erfolgreiche Registrierung über diesen Einstieg ist nicht bestätigt. Zertifikatswarnungen nicht umgehen; bei Bedarf den alternativen Registrierungslink versuchen."
+      "notes": "Kein täglicher Check-in. Prämien stammen aus Anbieterankündigungen, nicht aus öffentlichen Guthabenfeldern. Interne Einheiten nicht zur USD-Summe addieren: beobachtet wurden 50 Einheiten pro CNY 1, eine Ankündigung nennt auch 25. Gruppen- und Ausgabemultiplikatoren beeinflussen den Verbrauch zusätzlich. Modelle und Preise sind nur nach Anmeldung sichtbar. Nach Verbrauch des Aktionsguthabens ist dies ein kostenpflichtiges Gateway; Ausfälle und Preisänderungen sind möglich.",
+      "dailyNote": "Kostenlose Verlosung + Rabattgutscheine für Aufladungen",
+      "remarks": "Tritt der QQ-Gruppe bei, um viele weitere Vorteile freizuschalten"
     },
     "justdowork": {
       "summary": "New-API-Gateway mit GitHub-Anmeldung, täglichen Check-ins und Bild-/Aufgabenschnittstellen.",
@@ -142,8 +179,15 @@
     },
     "nofx": {
       "summary": "Aufgabenbasierte API-Punkte mit passwortloser Anmeldung, Discord-Check-ins und Empfehlungsprämien; Punkte sind keine USD.",
-      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Vollständigen Empfehlungslink beibehalten. Per E-Mail-Magic-Link oder GitHub anmelden. Discord beitreten und /verify sowie /checkin aus dem Befehlsmenü wählen; diese Prämien setzen Discord voraus. API-Schlüssel und tatsächliche Basis-URL im angemeldeten Dashboard abrufen.",
+      "registration": "Vollständigen Empfehlungslink beibehalten. Per E-Mail-Magic-Link oder GitHub anmelden. Discord beitreten und /verify sowie /checkin aus dem Befehlsmenü wählen; diese Prämien setzen Discord voraus. API-Schlüssel und tatsächliche Basis-URL im angemeldeten Dashboard abrufen.",
       "notes": "Punkte verfallen nach 30 Tagen; echte API-Nutzung setzt die Frist zurück. Check-ins pausieren bei mehr als 50 Punkten Guthaben. Discord-Verifizierung bringt einmalig 5 Punkte (Code 30 Minuten gültig), Empfehlungen 5 Punkte je Freund und ein genehmigter X-Beitrag einmalig 20. Die Startseite wirbt mit 20 Registrierungspunkten, die erfasste Empfehlungsregel nennt 10: tatsächliche Gutschrift prüfen. Keine öffentliche Umrechnung in USD. Robots-Regeln erlauben nur öffentliche Seitenprüfungen; Modelle und Preise erfordern Anmeldung."
+    },
+    "wanjiadenghuo": {
+      "summary": "Die Registrierung gewährt 50 interne Einheiten eines GPT-Abonnements für einen Monat, beschränkt auf die vorgesehene GPT-Gruppe. QQ-Check-ins bringen täglich CNY 0,1–1; qualifizierte Empfehlungen bringen beiden Beteiligten je CNY 5. Das Guthaben ist unter „我的订阅“ (Meine Abonnements) zu finden.",
+      "registration": "Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Den vollständigen Empfehlungslink mit aff= verwenden. Eine E-Mail-Bestätigung ist erforderlich; derzeit werden QQ, 126, 163 und Gmail akzeptiert. Für Prämien der QQ-Gruppe 1064350952 beitreten und das Website-Konto verknüpfen. Die eingeladene Person muss sich registrieren, der Gruppe beitreten, das Konto verknüpfen und einen Check-in durchführen; beide Beteiligten müssen ihre Konten verknüpfen.",
+      "notes": "Vorteile und Modellangaben stammen vom Betreiber aus Issue #46. Öffentliche Einstellungen und der Dienststatus wurden geprüft; tatsächliche Gutschriften und Modellaufrufe wurden nicht getestet. Die 50 Abonnement-Einheiten haben kein Tageslimit, verfallen nach einem Monat und gelten nur für die vorgesehene GPT-Gruppe. Sie sind vom allgemeinen Guthaben getrennt. CNY 1 kauft 1 interne Einheit; die beworbenen $50 sind kein Bargeld in US-Dollar und werden nicht in USD-Summen eingerechnet. Bedingte Check-in- und Empfehlungsprämien sind nicht im Guthaben des ersten Tages enthalten. GPT-Preise ab 0.06x gelten für eine bestimmte Gruppe; aktuelle Modelle, Gruppen und Preise im Dashboard prüfen.",
+      "dailyNote": "Täglich zufällig CNY 0,1–1 nach QQ-Beitritt und Kontoverknüpfung",
+      "remarks": "Abonnement nur für die vorgesehene GPT-Gruppe; Prämien erfordern QQ-Gruppe 1064350952 und Kontoverknüpfung"
     }
   }
 }
