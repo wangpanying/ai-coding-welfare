@@ -28,8 +28,8 @@
       "GPT-5.6 Sol 中转",
       "claude-opus-5 按次计费"
     ],
-    "repoUrl": "https://github.com/panxunying/ai-coding-welfare",
-    "pagesUrl": "https://panxunying.github.io/ai-coding-welfare/"
+    "repoUrl": "https://github.com/wangpanying/ai-coding-welfare",
+    "pagesUrl": "https://wangpanying.github.io/ai-coding-welfare/"
   },
   "sites": [
     {
@@ -327,7 +327,7 @@
         "sourceUrl": "https://mirasim.ai/pricing",
         "verifiedAt": "2026-09-23"
       },
-      "signupUrl": "https://mirasim.ai/r/go-kx9cd5",
+      "signupUrl": "https://mirasim.ai/",
       "signupProbeUrl": "https://mirasim.ai/pricing",
       "homeUrl": "https://mirasim.ai",
       "docsUrl": "https://mirasim.ai/docs/zh/quickstart",
@@ -343,6 +343,7 @@
         "Codex"
       ],
       "highlights": [
+        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "Go套餐 $1/月：低成本体验云端模型，不需要先买高档套餐",
         "用量优势看 5 小时窗口：官网估算 Kimi K3 约 130 次、GLM 5.3 Flash 约 1,900 次、DS 4.1 Flash 约 7,800 次；同一份额度按不同模型折算，三项不能相加",
         "邀请活动：在应用内取得自己的邀请链接，邀请 3 位好友且三人都开通 Go 后，邀请者可获赠 1 个月 Go；公开规则未承诺被邀请人注册即送",
@@ -371,7 +372,7 @@
           "邮箱验证码"
         ],
         "requirements": [
-          "保留本页完整邀请链接 https://mirasim.ai/r/go-kx9cd5；公开定价页未承诺被邀请人注册即得额度，具体权益以账号页为准",
+          "保留本页完整邀请链接 https://mirasim.ai/；公开定价页未承诺被邀请人注册即得额度，具体权益以账号页为准",
           "官方命令行文档支持 GitHub 授权或邮箱验证码登录；没有公开账号年龄门槛，本页不额外作承诺",
           "使用自有账号 / Key 无需邀请码；Go 订阅与邀请赠月按站内活动规则办理"
         ]
@@ -562,11 +563,12 @@
       },
       "credits": {
         "signup": 50,
-        "invite": 20,
+        "invite": null,
         "dailyCheckin": null,
-        "approx": false
+        "approx": false,
+        "note": "未配置邀请码"
       },
-      "signupUrl": "https://gorouter.app/sign-up?aff=PZDx",
+      "signupUrl": "https://gorouter.app/sign-up",
       "homeUrl": "https://gorouter.app",
       "docsUrl": null,
       "statusApi": "https://gorouter.app/api/status",
@@ -580,6 +582,7 @@
         "按次计费"
       ],
       "highlights": [
+        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "新用户注册送 $50，从本页邀请链接进入再加 $20，首日 $70（2026-08-11 实测到账）",
         "按次计费里单价最低的一档：claude-opus-5 每次 $0.3，opus-4-8 每次 $0.2，首日 $70 够跑两百多次",
         "Anthropic 与 OpenAI 两种协议都开着，Claude Code 填个 Base URL 就能直连",
@@ -594,7 +597,7 @@
           "GitHub OAuth"
         ],
         "requirements": [
-          "务必从本页邀请链接进入注册（带 ?aff=PZDx），$20 在注册那一刻结算，事后补不上",
+          "务必从本页邀请链接进入注册（带 ?aff=），$20 在注册那一刻结算，事后补不上",
           "已关闭账号密码注册，只能用 GitHub 授权；注册完成后可以再设密码用于登录",
           "注册页有 Cloudflare Turnstile 人机校验，需要能正常加载 Cloudflare 脚本"
         ]
@@ -620,12 +623,13 @@
       "panel": "matrix",
       "credits": {
         "signup": null,
-        "invite": 600,
+        "invite": null,
         "dailyCheckin": null,
         "approx": false,
-        "unit": "point"
+        "unit": "point",
+        "note": "未配置邀请码"
       },
-      "signupUrl": "https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_",
+      "signupUrl": "https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth",
       "homeUrl": "https://matrix.mzsjai.com",
       "docsUrl": "https://matrix.mzsjai.com/docs/quickstart",
       "statusApi": "https://matrix.mzsjai.com/api/health",
@@ -639,6 +643,7 @@
         "Cursor"
       ],
       "highlights": [
+        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "从本页邀请链接注册即得 600 获赠积分，注册就发、不用实名、不用充值",
         "完成个人实名认证再领 2,000 积分，是这个站拿额度最快的一步",
         "一把 Key 调通 OpenAI / Anthropic / Google / DeepSeek / Moonshot / 智谱 / 阿里 等多家模型，OpenAI 兼容协议直连 Cursor / Cherry Studio / Open WebUI / Aider",
@@ -702,11 +707,12 @@
       },
       "credits": {
         "signup": 100,
-        "invite": 20,
+        "invite": null,
         "dailyCheckin": null,
-        "approx": false
+        "approx": false,
+        "note": "未配置邀请码"
       },
-      "signupUrl": "https://tabitoken.com/sign-up?aff=EQIT",
+      "signupUrl": "https://tabitoken.com/sign-up",
       "homeUrl": "https://tabitoken.com",
       "docsUrl": null,
       "statusApi": "https://tabitoken.com/api/status",
@@ -720,6 +726,7 @@
         "按次计费"
       ],
       "highlights": [
+        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "新用户注册送 $100，从本页邀请链接进入再加 $20，首日 $120（2026-08-30 实测到账）",
         "Anthropic 与 OpenAI 两种协议都开着，Claude Code 填个 Base URL 就能直连",
         "只放 Claude Opus 四个型号（opus-5 / opus-5-thinking / opus-4-8 / 4-8-thinking），定价接口公开可查",
@@ -734,7 +741,7 @@
           "GitHub OAuth"
         ],
         "requirements": [
-          "务必从本页邀请链接进入注册（带 ?aff=EQIT），$20 在注册那一刻结算，事后补不上",
+          "务必从本页邀请链接进入注册（带 ?aff=），$20 在注册那一刻结算，事后补不上",
           "已关闭账号密码注册，只能用 GitHub 授权；注册完成后可以再设密码用于登录",
           "注册页有 Cloudflare Turnstile 人机校验，需要能正常加载 Cloudflare 脚本"
         ]
@@ -953,12 +960,13 @@
       "panel": "relay",
       "credits": {
         "signup": null,
-        "invite": 10,
+        "invite": null,
         "dailyCheckin": 5,
         "approx": false,
-        "unit": "point"
+        "unit": "point",
+        "note": "未配置邀请码"
       },
-      "signupUrl": "https://nofx.one/zh-CN/sign-in?ref=J369GHY4",
+      "signupUrl": "https://nofx.one/zh-CN/sign-in",
       "homeUrl": "https://nofx.one/zh-CN",
       "docsUrl": null,
       "statusApi": "https://nofx.one/sitemap.xml",
@@ -972,6 +980,7 @@
         "OpenAI 兼容"
       ],
       "highlights": [
+        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "从本页邀请链接注册得 10 积分，之后每天签到 +$5 积分，站点自报「第一笔积分，30 秒就能到账」",
         "积分是靠做任务领的，不是充值买的：加入 Discord +$5、每日签到 +$5、邀请一位好友 +$5（不限每日人数）、在 X 发一条带邀请码的推文过审 +$20",
         "免密码登录：邮箱 magic link 或 GitHub 授权，站点明确写着「不签发或保存登录密码」，也支持两步验证",
@@ -999,7 +1008,7 @@
           "GitHub OAuth"
         ],
         "requirements": [
-          "务必从本页邀请链接进入注册（带 ?ref=J369GHY4），邀请关系在注册那一刻绑定，事后补不上",
+          "务必从本页邀请链接进入注册（带 ?ref=），邀请关系在注册那一刻绑定，事后补不上",
           "免密码登录：填邮箱收一条登录链接，或直接用 GitHub 授权；站点隐私条款写明「不签发或保存登录密码」",
           "签到和 Discord 验证这两笔要在 Discord 里做（/checkin 与 /verify，命令得从弹出列表里选，不能直接粘贴），不进 Discord 就领不到"
         ]

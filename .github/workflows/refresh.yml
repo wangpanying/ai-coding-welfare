@@ -1,54 +1,81 @@
-name: 同步上游并套用邀请码
+name: 每日同步上游并套用我的邀请码
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    # UTC 01:17，即北京时间每天 09:17。
+    - cron: '17 1 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'invite-codes.example.json'
+      - 'apply-invite-overlay.mjs'
+      - 'test-invite-overlay.mjs'
+      - '.github/workflows/refresh.yml'
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh
+  group: sync-upstream
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: ${{ github.event.repository.default_branch }}
           fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: '22'
 
-      - name: 提取当前邀请码
-        run: node apply-invite-overlay.mjs extract data/sites.json > /tmp/invite-codes.json
-
-      - name: 同步上游数据
+      - name: 同步上游数据、生成器和页面
         run: |
           git remote add upstream https://github.com/panxunying/ai-coding-welfare.git
-          git fetch upstream main
-          git checkout upstream/main -- data/
+          git fetch --no-tags upstream main
+          git restore --source=upstream/main --worktree -- data/ scripts/ docs/ package.json CHANGELOG.md 'README*.md'
 
-      - name: 套用邀请码
-        run: node apply-invite-overlay.mjs apply . /tmp/invite-codes.json
-
-      - name: 生成页面和 README
+      - name: 验证上游生成器和邀请码覆盖逻辑
+        # 零依赖仓库无需 npm ci；上游测试包含固定邀请码，必须在覆盖前执行。
         run: |
-          npm ci
-          npm run build
+          npm test
+          node --test test-invite-overlay.mjs
 
-      - name: 提交变更
+      - name: 补全新增站点并使用我的邀请码，未填写则清空
+        env:
+          INVITE_CODES_JSON: ${{ secrets.INVITE_CODES_JSON }}
+        run: node apply-invite-overlay.mjs apply-private . invite-codes.example.json
+
+      - name: 重新生成 README 和网页
+        run: npm run build
+
+      - name: 提交到我自己的仓库
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
-            echo "没有需要提交的变更"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- invite-codes.example.json data/ scripts/ docs/ package.json CHANGELOG.md 'README*.md'
+          if git diff --cached --quiet; then
+            echo '上游和邀请码均无变化，无需提交'
             exit 0
           fi
-          git add data README*.md docs
-          git commit -m "chore: sync upstream and apply invite codes"
-          git push
+          git commit -m 'chore: daily sync upstream and apply my invite codes'
+          git push origin "HEAD:${DEFAULT_BRANCH}"
+
+      - name: 记录同步结果
+        env:
+          TARGET_REPOSITORY: ${{ github.repository }}
+        run: |
+          {
+            echo '## 每日同步完成'
+            echo "- 目标仓库：${TARGET_REPOSITORY}"
+            echo "- 上游版本：$(git rev-parse upstream/main)"
+            echo '- 已从 Secret 读取邀请码；新增站点 ID 自动补入公开空值模板，私有配置不提交。'
+            echo '- README 和 docs/ 已重新生成。'
+          } >> "$GITHUB_STEP_SUMMARY"

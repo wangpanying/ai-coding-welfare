@@ -4,14 +4,14 @@
 
 Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Code, Codex und andere KI-Programmierwerkzeuge.
 
-[Website](https://panxunying.github.io/ai-coding-welfare/de/) · [GitHub-Repository](https://github.com/panxunying/ai-coding-welfare)
+[Website](https://wangpanying.github.io/ai-coding-welfare/de/) · [GitHub-Repository](https://github.com/wangpanying/ai-coding-welfare)
 
 > [!TIP]
 > **📣 Stelle dein Projekt vor — Issues bieten kostenlose Sichtbarkeit**
 >
 > Du kennst einen hilfreichen Dienst oder betreibst selbst einen? Erstelle ein Issue, gern mit Empfehlungslink. Issues sind öffentlich und können dein Projekt bekannter machen. Besonders hilfreiche, überprüfte Empfehlungen kann ich ins Hauptverzeichnis aufnehmen; eine Einreichung garantiert keine Aufnahme.
 >
-> [Issue erstellen](https://github.com/panxunying/ai-coding-welfare/issues/new/choose) · [Issues ansehen](https://github.com/panxunying/ai-coding-welfare/issues)
+> [Issue erstellen](https://github.com/wangpanying/ai-coding-welfare/issues/new/choose) · [Issues ansehen](https://github.com/wangpanying/ai-coding-welfare/issues)
 
 Übersetzter Leitfaden zu den aufgeführten Diensten. Beträge, Modell-IDs, Preise und Empfehlungslinks stammen aus denselben Daten wie die chinesische Ausgabe. Ausführliche Vergleiche, Verlauf, Anbieterdokumentation und manche Benutzeroberflächen bleiben auf Chinesisch.
 
@@ -21,17 +21,17 @@ Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Co
 
 | Anbieter | Status | Guthaben am ersten Tag / Tarif | Tägliches Guthaben | Registrierung |
 | --- | --- | --- | --- | --- |
-| **ArtBloom** | Erreichbar | **$100** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) |
-| **AgentRouter** | Erreichbar | **$175** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://agentrouter.org/register?aff=szt3) |
-| **DoCode** | Erreichbar | **300 interne Einheiten (keine USD)** | Kein Check-in | [Dienst öffnen / registrieren](https://ai.docode.life/register?aff=zMRe) |
-| **JustDoWork** | Erreichbar | **≈$92** | ≈$22/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=VTrz) |
-| **Mirasim** | Erreichbar | **Go · $1/Monat** | Schätzwerte je 5-Stunden-Zeitfenster | [Dienst öffnen / registrieren](https://mirasim.ai/r/go-kx9cd5) |
-| **FlushAPI** | Erreichbar | **$22.5** | Check-in aktiviert; Betrag nicht veröffentlicht | [Dienst öffnen / registrieren](https://flushapi.fun/sign-up?aff=WBF3) |
-| **KKtoken AI** | Erreichbar | **$120** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://kktoken.cc/sign-up?aff=MzG9) |
-| **Matrix** | Erreichbar | **600 Punkte** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) |
-| **AnyRouter** | Erreichbar | **$150** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://anyrouter.top/register?aff=Z24N) |
-| **CheapCodex** | Erreichbar | **$40** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
-| **NOFX** | Erreichbar | **15 Punkte** | 5 Punkte/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
+| **ArtBloom** | Erreichbar | **$100** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) |
+| **AgentRouter** | Erreichbar | **$175** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://agentrouter.org/register?aff=NVN4) |
+| **DoCode** | Erreichbar | **300 interne Einheiten (keine USD)** | Kein Check-in | [Dienst öffnen / registrieren](https://ai.docode.life/register?aff=suPH) |
+| **JustDoWork** | Erreichbar | **≈$92** | ≈$22/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=wQWM) |
+| **Mirasim** | Erreichbar | **Go · $1/Monat** | Schätzwerte je 5-Stunden-Zeitfenster | [Dienst öffnen / registrieren](https://mirasim.ai/) |
+| **FlushAPI** | Erreichbar | **$22.5** | Check-in aktiviert; Betrag nicht veröffentlicht | [Dienst öffnen / registrieren](https://flushapi.fun/sign-up?aff=w8tE) |
+| **KKtoken AI** | Erreichbar | **$120** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://kktoken.cc/sign-up?aff=CT8p) |
+| **Matrix** | Erreichbar | **Nicht öffentlich angegeben** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) |
+| **AnyRouter** | Erreichbar | **$150** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://anyrouter.top/register?aff=LEGK) |
+| **CheapCodex** | Erreichbar | **$40** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) |
+| **NOFX** | Erreichbar | **5 Punkte** | 5 Punkte/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://nofx.one/zh-CN/sign-in) |
 
 **Ungefähres USD-Guthaben am ersten Tag: $699.5 bei 7 Diensten, die neue Nutzer aufnehmen.**
 
@@ -49,7 +49,7 @@ Guthabenregeln werden manuell aus Anbieterankündigungen erfasst; öffentliche S
 
 OpenAI-kompatibler API-Dienst mit 100 US-Dollar Guthaben am ersten Tag der Registrierung. Die öffentliche Modellseite führt Opus 5.5 (claude-opus-5-5) auf.
 
-[Dienst öffnen / registrieren](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/artbloom/)
+[Dienst öffnen / registrieren](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/artbloom/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $100
@@ -80,12 +80,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/artbloom/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/artbloom/)
 ## AgentRouter
 
 Community-Gateway mit Registrierungs-, Empfehlungs- und täglichen Check-in-Guthaben sowie Anthropic- und OpenAI-kompatiblen Endpunkten.
 
-[Dienst öffnen / registrieren](https://agentrouter.org/register?aff=szt3) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/agentrouter/)
+[Dienst öffnen / registrieren](https://agentrouter.org/register?aff=NVN4) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/agentrouter/)
 
 > Zwischengespeicherte Daten: Die letzte Prüfung lieferte keine neuen Daten. Letzter erfolgreicher Datenstand: 2026-09-23 14:55 UTC.
 
@@ -112,7 +112,7 @@ Erstelle im Dashboard einen API-Schlüssel und verwende nur ein für dein Konto 
 - Anthropic Base URL: `https://agentrouter.org`
 - OpenAI Base URL: `https://agentrouter.org/v1`
 - [Anbieterdokumentation (ggf. Chinesisch)](https://agentrouter.org/docs/index.html)
-- [Alternative Registrierungslinks: https://ps.air-outer.com](https://ps.air-outer.com/register?aff=szt3)
+- [Alternative Registrierungslinks: https://ps.air-outer.com](https://ps.air-outer.com/register?aff=NVN4)
 
 ### Öffentlicher Modell-Datenstand
 
@@ -125,12 +125,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 | deepseek-v4-flash | $4 | $12 | — | openai / anthropic |
 | gpt-6-astra | $4 | $20 | — | openai |
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/agentrouter/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/agentrouter/)
 ## DoCode
 
 New-API-Gateway für Claude und GPT; Prämien werden in internen Einheiten vergeben, nicht in US-Dollar.
 
-[Dienst öffnen / registrieren](https://ai.docode.life/register?aff=zMRe) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/docode/)
+[Dienst öffnen / registrieren](https://ai.docode.life/register?aff=suPH) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/docode/)
 
 
 - **Guthaben am ersten Tag / Tarif**: 300 interne Einheiten (keine USD)
@@ -143,9 +143,9 @@ New-API-Gateway für Claude und GPT; Prämien werden in internen Einheiten verge
 
 ### Voraussetzungen für die Registrierung
 
-Nur E-Mail und Passwort, mit E-Mail-Bestätigung und Cloudflare Turnstile. Vor dem Absenden den Empfehlungscode zMRe im Formular prüfen; nachträgliches Eintragen ist nicht möglich. Die alternative Domain nutzt dasselbe Konto und Guthaben.
+Nur E-Mail und Passwort, mit E-Mail-Bestätigung und Cloudflare Turnstile. Vor dem Absenden den Empfehlungscode suPH im Formular prüfen; nachträgliches Eintragen ist nicht möglich. Die alternative Domain nutzt dasselbe Konto und Guthaben.
 
-**Empfehlungscode — vor dem Absenden im Formular prüfen: `zMRe`**
+**Empfehlungscode — vor dem Absenden im Formular prüfen: `suPH`**
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 
@@ -157,7 +157,7 @@ Erstelle im Dashboard einen API-Schlüssel und verwende nur ein für dein Konto 
 
 - Anthropic Base URL: `https://docode.cc`
 - OpenAI Base URL: `https://docode.cc/v1`
-- [Alternative Registrierungslinks: https://api.docode.cc](https://api.docode.cc/register?aff=zMRe)
+- [Alternative Registrierungslinks: https://api.docode.cc](https://api.docode.cc/register?aff=suPH)
 
 ### Öffentlicher Modell-Datenstand
 
@@ -165,12 +165,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/docode/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/docode/)
 ## JustDoWork
 
 New-API-Gateway mit GitHub-Anmeldung, täglichen Check-ins und Bild-/Aufgabenschnittstellen.
 
-[Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=VTrz) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/justdowork/)
+[Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=wQWM) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/justdowork/)
 
 
 - **Guthaben am ersten Tag / Tarif**: ≈$92
@@ -203,12 +203,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/justdowork/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/justdowork/)
 ## Mirasim
 
 Multi-Agent-Arbeitsumgebung mit kostenpflichtigem Go-Tarif; eigene Konten oder API-Schlüssel kostenlos verbinden, Drittanbieter-Nutzung separat bezahlen.
 
-[Dienst öffnen / registrieren](https://mirasim.ai/r/go-kx9cd5) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/mirasim/)
+[Dienst öffnen / registrieren](https://mirasim.ai/) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/mirasim/)
 
 
 - **Guthaben am ersten Tag / Tarif**: Go · $1/Monat
@@ -225,7 +225,7 @@ Multi-Agent-Arbeitsumgebung mit kostenpflichtigem Go-Tarif; eigene Konten oder A
 
 ### Voraussetzungen für die Registrierung
 
-Vollständigen Empfehlungslink nutzen und mit GitHub oder E-Mail-Code anmelden. Keine öffentliche Zusage eines Registrierungsbonus für Eingeladene. Offiziellen Desktop-Client installieren oder CLI-Dokumentation befolgen; keine allgemein nutzbare Relay-Basis-URL wurde öffentlich bestätigt.
+Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Vollständigen Empfehlungslink nutzen und mit GitHub oder E-Mail-Code anmelden. Keine öffentliche Zusage eines Registrierungsbonus für Eingeladene. Offiziellen Desktop-Client installieren oder CLI-Dokumentation befolgen; keine allgemein nutzbare Relay-Basis-URL wurde öffentlich bestätigt.
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 
@@ -244,12 +244,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/mirasim/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/mirasim/)
 ## FlushAPI
 
 New-API-Gateway mit GitHub-Registrierung, öffentlichen Modellpreisen und getrennten default-/Super-Guthaben.
 
-[Dienst öffnen / registrieren](https://flushapi.fun/sign-up?aff=WBF3) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/flushapi/)
+[Dienst öffnen / registrieren](https://flushapi.fun/sign-up?aff=w8tE) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/flushapi/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $22.5
@@ -291,12 +291,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 | gpt-5.6-sol | $4 | $20 | — | openai |
 | gpt-6-astra | $10 | $50 | — | openai |
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/flushapi/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
 
 New-API-Gateway mit Empfehlungsprämien, täglichen Check-ins und tokenbasierter Abrechnung.
 
-[Dienst öffnen / registrieren](https://kktoken.cc/sign-up?aff=MzG9) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/kktoken/)
+[Dienst öffnen / registrieren](https://kktoken.cc/sign-up?aff=CT8p) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/kktoken/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $120
@@ -330,16 +330,15 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/kktoken/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/kktoken/)
 ## Matrix
 
 OpenAI-kompatibles Gateway und App-Store mit internen Punkten, Empfehlungsprämien und optionaler Identitätsprüfung.
 
-[Dienst öffnen / registrieren](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/matrix/)
+[Dienst öffnen / registrieren](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/matrix/)
 
 
-- **Guthaben am ersten Tag / Tarif**: 600 Punkte
-- **Empfehlungsbonus**: 600 Punkte
+- **Guthaben am ersten Tag / Tarif**: Nicht öffentlich angegeben
 - **Tägliches Guthaben**: Nicht öffentlich angegeben
 - **Status**: Erreichbar
 - **Datenstand**: 2026-09-30 05:34 UTC
@@ -347,7 +346,7 @@ OpenAI-kompatibles Gateway und App-Store mit internen Punkten, Empfehlungsprämi
 
 ### Voraussetzungen für die Registrierung
 
-Vollständige Einladungs-URL nutzen. Anmeldung per SSO der Hangzhou Dianzi University, Telefoncode oder E-Mail/Passwort. Empfehlungsprämien gelten für Erstregistrierungen ohne Identitätsprüfung. Im Dashboard einen mat--Schlüssel erstellen: Er wird nur einmal zusammen mit der aktuellen Gateway-Adresse angezeigt.
+Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Vollständige Einladungs-URL nutzen. Anmeldung per SSO der Hangzhou Dianzi University, Telefoncode oder E-Mail/Passwort. Empfehlungsprämien gelten für Erstregistrierungen ohne Identitätsprüfung. Im Dashboard einen mat--Schlüssel erstellen: Er wird nur einmal zusammen mit der aktuellen Gateway-Adresse angezeigt.
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 
@@ -366,12 +365,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/matrix/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/matrix/)
 ## AnyRouter
 
 New-API-Gateway mit Registrierungs-/Empfehlungsprämien, täglichen Check-ins und Anthropic-/OpenAI-kompatiblen Routen.
 
-[Dienst öffnen / registrieren](https://anyrouter.top/register?aff=Z24N) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/anyrouter/)
+[Dienst öffnen / registrieren](https://anyrouter.top/register?aff=LEGK) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/anyrouter/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $150
@@ -403,12 +402,12 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/anyrouter/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
 ## CheapCodex
 
 KI-Gateway mit Empfehlungsprämien, täglichen Check-ins sowie OpenAI-, Anthropic- und Responses-Routen.
 
-[Dienst öffnen / registrieren](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/cheapcodex/)
+[Dienst öffnen / registrieren](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/cheapcodex/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $40
@@ -439,16 +438,15 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/cheapcodex/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/cheapcodex/)
 ## NOFX
 
 Aufgabenbasierte API-Punkte mit passwortloser Anmeldung, Discord-Check-ins und Empfehlungsprämien; Punkte sind keine USD.
 
-[Dienst öffnen / registrieren](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [Details](https://panxunying.github.io/ai-coding-welfare/de/sites/nofx/)
+[Dienst öffnen / registrieren](https://nofx.one/zh-CN/sign-in) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/nofx/)
 
 
-- **Guthaben am ersten Tag / Tarif**: 15 Punkte
-- **Empfehlungsbonus**: 10 Punkte
+- **Guthaben am ersten Tag / Tarif**: 5 Punkte
 - **Tägliches Guthaben**: 5 Punkte/Tag · Täglicher Check-in
 - **Status**: Erreichbar
 - **Datenstand**: 2026-09-30 05:34 UTC
@@ -456,7 +454,7 @@ Aufgabenbasierte API-Punkte mit passwortloser Anmeldung, Discord-Check-ins und E
 
 ### Voraussetzungen für die Registrierung
 
-Vollständigen Empfehlungslink beibehalten. Per E-Mail-Magic-Link oder GitHub anmelden. Discord beitreten und /verify sowie /checkin aus dem Befehlsmenü wählen; diese Prämien setzen Discord voraus. API-Schlüssel und tatsächliche Basis-URL im angemeldeten Dashboard abrufen.
+Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Vollständigen Empfehlungslink beibehalten. Per E-Mail-Magic-Link oder GitHub anmelden. Discord beitreten und /verify sowie /checkin aus dem Befehlsmenü wählen; diese Prämien setzen Discord voraus. API-Schlüssel und tatsächliche Basis-URL im angemeldeten Dashboard abrufen.
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 
@@ -474,15 +472,15 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Nicht öffentlich angegeben
 
-[Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
+[Vollständige Quellnotizen (Chinesisch)](https://wangpanying.github.io/ai-coding-welfare/sites/nofx/)
 
 ## Archivierte Dienste
 
 Keine Registrierungsempfehlung, keine Einbeziehung in Summen und keine weiteren automatischen Prüfungen. Ursprüngliche Gründe und Verlauf stehen in der chinesischen Ausgabe.
 
-- [gorouter](https://panxunying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
-- [tabitoken](https://panxunying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
-- [rawchat](https://panxunying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
+- [gorouter](https://wangpanying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
+- [tabitoken](https://wangpanying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
+- [rawchat](https://wangpanying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
 
 ## Sicherheit und Transparenz
 

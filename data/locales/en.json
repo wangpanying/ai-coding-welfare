@@ -68,9 +68,19 @@
     "cached": "Cached data: the latest probe did not obtain a fresh snapshot. Last successful snapshot: {at}.",
     "blocked": "The automated probe was blocked by an anti-bot service. The last successful status is retained; your browser may still work.",
     "quickstart": "Getting started",
-    "steps": ["Follow the full referral link and check the registration requirements and reward conditions.", "Create a key in the dashboard. Use the verified endpoint below, or obtain the current endpoint from the provider if none is public.", "Configure a supported client, try a small request and check actual balance consumption before relying on the service."],
+    "steps": [
+      "Follow the full referral link and check the registration requirements and reward conditions.",
+      "Create a key in the dashboard. Use the verified endpoint below, or obtain the current endpoint from the provider if none is public.",
+      "Configure a supported client, try a small request and check actual balance consumption before relying on the service."
+    ],
     "safety": "Safety and disclosure",
-    "disclaimer": ["Links may contain referral codes. Rewards and eligibility are set by each provider; signup alone does not guarantee a reward.", "This is an independent directory, not a service operator or a guarantee of uptime. Free offers, prices and policies can change or disappear.", "Do not send production secrets, private data or company code to unknown gateways. Use official APIs for important work.", "Follow provider and upstream terms. Do not mass-register accounts, abuse promotions or resell credits.", "Issue submissions are posted by community members and may be unverified. Assess them independently before registering."],
+    "disclaimer": [
+      "Links may contain referral codes. Rewards and eligibility are set by each provider; signup alone does not guarantee a reward.",
+      "This is an independent directory, not a service operator or a guarantee of uptime. Free offers, prices and policies can change or disappear.",
+      "Do not send production secrets, private data or company code to unknown gateways. Use official APIs for important work.",
+      "Follow provider and upstream terms. Do not mass-register accounts, abuse promotions or resell credits.",
+      "Issue submissions are posted by community members and may be unverified. Assess them independently before registering."
+    ],
     "archive": "Archived services",
     "archiveNote": "No longer recommended for registration, counted in totals or probed. Original reasons and historical records remain available in the Chinese edition.",
     "maintenance": "Contributing and translations",
@@ -102,7 +112,7 @@
     },
     "mirasim": {
       "summary": "Multi-agent workspace with a paid Go plan; connecting your own accounts or API keys is free, but third-party usage is not.",
-      "registration": "Use the full referral link and sign in with GitHub or an email code. No public rule promises a signup bonus to the invitee. Install the official desktop client or follow its CLI documentation; no general-purpose relay base URL has been publicly verified.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link and sign in with GitHub or an email code. No public rule promises a signup bonus to the invitee. Install the official desktop client or follow its CLI documentation; no general-purpose relay base URL has been publicly verified.",
       "notes": "Go usage estimates share one allowance and cannot be added together. The inviter earns one Go month only after three invited friends all subscribe to Go. Claude/Codex Basic, Pro and Max plans are separate from Go. Alpha software may be slow or interrupted; old beta compensation is not a new-user benefit. Robots rules permit probing the pricing page, not the referral path; online status does not verify signup, payment or inference."
     },
     "flushapi": {
@@ -117,7 +127,7 @@
     },
     "matrix": {
       "summary": "OpenAI-compatible gateway and app store using internal points, with referral and optional identity-verification rewards.",
-      "registration": "Use the full invitation URL. Login options include Hangzhou Dianzi University SSO, phone codes, or email/password. Referral rewards are for first-time users and do not require identity verification. Create a mat- key in the dashboard; it is shown once, alongside the current gateway address.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full invitation URL. Login options include Hangzhou Dianzi University SSO, phone codes, or email/password. Referral rewards are for first-time users and do not require identity verification. Create a mat- key in the dashboard; it is shown once, alongside the current gateway address.",
       "notes": "Points are not USD. Optional identity verification awards 2,000 points once, but requires personal identity information; decide whether that trade-off is worthwhile. The growth campaign is stated to run through 2026-12-31. Gift points only work with eligible services. No native Anthropic endpoint is documented, so Claude Code cannot connect directly. Running app containers keep consuming credit: stop or delete them after use. Paid subscriptions and top-ups are separate."
     },
     "anyrouter": {
@@ -132,7 +142,7 @@
     },
     "nofx": {
       "summary": "Task-based API points with passwordless login, Discord check-ins and referral rewards; points are not USD.",
-      "registration": "Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.",
+      "registration": "No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.",
       "notes": "Points expire after 30 days; real API usage resets that period. Check-ins pause above a 50-point balance. Discord verification gives 5 points once (code valid for 30 minutes), referrals give 5 points per friend, and an approved X post gives 20 points once. The landing page advertises 20 signup points while the recorded referral rule gives 10: verify the actual award. No public points-to-USD conversion exists. Robots rules only permit checking public pages; models and prices require login."
     }
   }

@@ -12,25 +12,25 @@
 </p>
 
 <p align="center">
-  <a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI"><b>ArtBloom 注册</b></a> ·
-  <a href="https://agentrouter.org/register?aff=szt3"><b>AgentRouter 注册</b></a> ·
-  <a href="https://ai.docode.life/register?aff=zMRe"><b>DoCode 注册</b></a> ·
-  <a href="https://api.justwoker.icu/sign-up?aff=VTrz"><b>JustDoWork 注册</b></a> ·
-  <a href="https://mirasim.ai/r/go-kx9cd5"><b>Mirasim 注册</b></a> ·
-  <a href="https://flushapi.fun/sign-up?aff=WBF3"><b>FlushAPI 注册</b></a> ·
-  <a href="https://kktoken.cc/sign-up?aff=MzG9"><b>KKtoken AI 注册</b></a> ·
-  <a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_"><b>Matrix 注册</b></a> ·
-  <a href="https://anyrouter.top/register?aff=Z24N"><b>AnyRouter 注册</b></a> ·
-  <a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><b>CheapCodex 注册</b></a> ·
-  <a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><b>NOFX 注册</b></a>
+  <a href="https://api.artbloom.tech/signup?ref=2ETIFBG3ZU"><b>ArtBloom 注册</b></a> ·
+  <a href="https://agentrouter.org/register?aff=NVN4"><b>AgentRouter 注册</b></a> ·
+  <a href="https://ai.docode.life/register?aff=suPH"><b>DoCode 注册</b></a> ·
+  <a href="https://api.justwoker.icu/sign-up?aff=wQWM"><b>JustDoWork 注册</b></a> ·
+  <a href="https://mirasim.ai/"><b>Mirasim 注册</b></a> ·
+  <a href="https://flushapi.fun/sign-up?aff=w8tE"><b>FlushAPI 注册</b></a> ·
+  <a href="https://kktoken.cc/sign-up?aff=CT8p"><b>KKtoken AI 注册</b></a> ·
+  <a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth"><b>Matrix 注册</b></a> ·
+  <a href="https://anyrouter.top/register?aff=LEGK"><b>AnyRouter 注册</b></a> ·
+  <a href="https://api.cheapcodex.online/register?aff=KNPERHNX9E5A"><b>CheapCodex 注册</b></a> ·
+  <a href="https://nofx.one/zh-CN/sign-in"><b>NOFX 注册</b></a>
 </p>
 
-<p align="center"><a href="https://panxunying.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://panxunying.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://panxunying.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://panxunying.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
+<p align="center"><a href="https://wangpanying.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://wangpanying.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://wangpanying.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://wangpanying.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
 
 > [!TIP]
 > **📣 欢迎投稿：Issue 区就是你的免费推广位**
 >
-> 发现好用的福利站，或者自己就在运营一个？直接[提交 Issue](https://github.com/panxunying/ai-coding-welfare/issues/new/choose)，邀请链接可以一并贴上。Issue 对所有访客公开，本身就是推广渠道；其中特别优质、实测靠谱的，我会收录进正文。想发现更多站点，不妨[逛逛 Issue 区](https://github.com/panxunying/ai-coding-welfare/issues)。
+> 发现好用的福利站，或者自己就在运营一个？直接[提交 Issue](https://github.com/wangpanying/ai-coding-welfare/issues/new/choose)，邀请链接可以一并贴上。Issue 对所有访客公开，本身就是推广渠道；其中特别优质、实测靠谱的，我会收录进正文。想发现更多站点，不妨[逛逛 Issue 区](https://github.com/wangpanying/ai-coding-welfare/issues)。
 
 ---
 
@@ -38,25 +38,25 @@
 
 | 站点 | 状态 | 首日可得 / 套餐 | 额度构成 / 用量 | 每日 / 周期 | 兼容协议 | 模型 | 注册 | 邀请码 |
 | :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| **ArtBloom** 🔥 | 🟢 在线 | **$100** | 注册 $100 | — | OpenAI | **支持 Opus 5.5** | [点此注册 →](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) | — |
-| **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=szt3) | — |
-| **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 无签到 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://ai.docode.life/register?aff=zMRe) | `zMRe` |
-| **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=VTrz) | — |
-| **Mirasim** | 🟢 在线 | **Go套餐 $1/月** | Kimi K3 **≈130 次**<br>GLM 5.3 Flash **≈1,900 次**<br>DS 4.1 Flash **≈7,800 次** | **每 5 小时**<br>共享额度 | Mirasim 客户端 / CLI | 3 种<br>官网公示 | [查看 Go →](https://mirasim.ai/r/go-kx9cd5) | — |
-| **FlushAPI** | 🟢 在线 | **$22.5** | 注册 $15 + 本页邀请 $7.5 | 支持签到 | Anthropic + OpenAI | 7 个可查 | [GitHub 注册 →](https://flushapi.fun/sign-up?aff=WBF3) | — |
-| **KKtoken AI** | 🟢 在线 | **$120** | 注册 $75 + 本页邀请 $25 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://kktoken.cc/sign-up?aff=MzG9) | — |
-| **Matrix** | 🟢 在线 | **600 积分** | 本页邀请 600 积分 | — | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) | — |
-| **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=Z24N) | — |
-| **CheapCodex** | 🟢 在线 | **$40** | 本页邀请 $20 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) | — |
-| **NOFX** | 🟢 在线 | **15 积分** | 本页邀请 10 积分 + 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) | — |
+| **ArtBloom** 🔥 | 🟢 在线 | **$100** | 注册 $100 | — | OpenAI | **支持 Opus 5.5** | [点此注册 →](https://api.artbloom.tech/signup?ref=2ETIFBG3ZU) | — |
+| **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=NVN4) | — |
+| **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 无签到 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://ai.docode.life/register?aff=suPH) | `suPH` |
+| **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
+| **Mirasim** | 🟢 在线 | **Go套餐 $1/月** | Kimi K3 **≈130 次**<br>GLM 5.3 Flash **≈1,900 次**<br>DS 4.1 Flash **≈7,800 次** | **每 5 小时**<br>共享额度 | Mirasim 客户端 / CLI | 3 种<br>官网公示 | [查看 Go →](https://mirasim.ai/) | — |
+| **FlushAPI** | 🟢 在线 | **$22.5** | 注册 $15 + 本页邀请 $7.5 | 支持签到 | Anthropic + OpenAI | 7 个可查 | [GitHub 注册 →](https://flushapi.fun/sign-up?aff=w8tE) | — |
+| **KKtoken AI** | 🟢 在线 | **$120** | 注册 $75 + 本页邀请 $25 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://kktoken.cc/sign-up?aff=CT8p) | — |
+| **Matrix** | 🟢 在线 | 未配置邀请码 | — | — | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
+| **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=LEGK) | — |
+| **CheapCodex** | 🟢 在线 | **$40** | 本页邀请 $20 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.cheapcodex.online/register?aff=KNPERHNX9E5A) | — |
+| **NOFX** | 🟢 在线 | **5 积分** | 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in) | — |
 
 > **Mirasim Go套餐 $1/月：用量按每 5 小时估算，不是每月总次数。** 官网估算，共享额度按模型折算，各模型次数不可相加；实际用量以站内为准。 付费套餐不计入下方免费额度合计。[官网定价](https://mirasim.ai/pricing)（2026-09-23 核对）。
 
 > 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-09-30 05:35 UTC`。
 >
-> 「邀请码」列写了码的站（DoCode `zMRe`），注册表单里有一栏要**自己填**，漏填就只拿得到注册基础额度、事后补不上；其余站写 — 表示未登记需要手填的邀请码，邀请奖励与条件请看站点详情。
+> 「邀请码」列写了码的站（DoCode `suPH`），注册表单里有一栏要**自己填**，漏填就只拿得到注册基础额度、事后补不上；其余站写 — 表示未登记需要手填的邀请码，邀请奖励与条件请看站点详情。
 >
-> 7 个有明确美元额度、且还收新用户的站全注册一遍，第一天手上大约有 **$699.5** 额度可用；DoCode 另发 300 站内刀，Matrix 另发 600 积分，NOFX 另发 15 积分，都是各站自己的计价单位、与美元没有公开换算，未计入这个合计。
+> 7 个有明确美元额度、且还收新用户的站全注册一遍，第一天手上大约有 **$699.5** 额度可用；DoCode 另发 300 站内刀，NOFX 另发 5 积分，都是各站自己的计价单位、与美元没有公开换算，未计入这个合计。
 >
 > 🟡 有 1 个站点已超过 48 小时没抓到接口数据，其明细为上一次成功抓取的快照；在线状态按注册页实际可访问性判断。
 
@@ -83,7 +83,7 @@ powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 
 > 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册
 
-<a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-ArtBloom-brightgreen?style=for-the-badge" alt="注册 ArtBloom"></a>
+<a href="https://api.artbloom.tech/signup?ref=2ETIFBG3ZU"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-ArtBloom-brightgreen?style=for-the-badge" alt="注册 ArtBloom"></a>
 
 **为什么值得注册**
 
@@ -104,7 +104,7 @@ powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 
 **注册要求**
 
-- 从本页完整邀请链接进入，保留 ref=PCTM2VCGUI，再点击 Continue with GitHub 注册
+- 从本页完整邀请链接进入，保留 ref=2ETIFBG3ZU，再点击 Continue with GitHub 注册
 - 注册页公示新账号即时获得 $100 免费额度，到账后可在后台查看余额并创建 API Key
 
 **接入配置**
@@ -154,7 +154,7 @@ curl -s https://api.artbloom.tech/v1/chat/completions \
 
 > AI Coding 公益站 · 注册即送额度，签到每日续命
 
-<a href="https://agentrouter.org/register?aff=szt3"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AgentRouter-brightgreen?style=for-the-badge" alt="注册 AgentRouter"></a>
+<a href="https://agentrouter.org/register?aff=NVN4"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AgentRouter-brightgreen?style=for-the-badge" alt="注册 AgentRouter"></a>
 
 **为什么值得注册**
 
@@ -172,7 +172,7 @@ curl -s https://api.artbloom.tech/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- ⚠ 接口已连续 159 小时没抓到新数据，下列信息为 `2026-09-23 14:55 UTC` 的快照
+- ⚠ 接口已连续 881 小时没抓到新数据，下列信息为 `2026-09-23 14:55 UTC` 的快照
 - 站点名称：**Agent Router**
 - 面板版本：`init-20260918-cbda758f`
 - 邀请他人可得：**$50**
@@ -181,7 +181,7 @@ curl -s https://api.artbloom.tech/v1/chat/completions \
 
 **镜像 / 备用入口**
 
-- 大陆备用域名：<https://ps.air-outer.com> · [从备用域名注册](https://ps.air-outer.com/register?aff=szt3)
+- 大陆备用域名：<https://ps.air-outer.com> · [从备用域名注册](https://ps.air-outer.com/register?aff=NVN4)
 
 **当前可用模型**
 
@@ -290,14 +290,14 @@ curl -s https://agentrouter.org/v1/chat/completions \
 
 ### 🟢 DoCode
 
-> New API 中转站 · 注册送 50 站内刀，注册时填邀请码 zMRe 再加 250，首日 300 刀，Claude 与 GPT 都在架上
+> New API 中转站 · 注册送 50 站内刀，注册时填邀请码 suPH 再加 250，首日 300 刀，Claude 与 GPT 都在架上
 
-<a href="https://ai.docode.life/register?aff=zMRe"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DoCode-brightgreen?style=for-the-badge" alt="注册 DoCode"></a>
+<a href="https://ai.docode.life/register?aff=suPH"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DoCode-brightgreen?style=for-the-badge" alt="注册 DoCode"></a>
 
 **为什么值得注册**
 
-- ⚠️ 别漏了邀请码：注册表单里的「邀请码」一栏填 zMRe，这 250 站内刀才会到账。从本页链接进去通常会自动带上，但提交前务必肉眼确认那一栏不是空的——没填就只有注册送的 50，事后补不上
-- 注册送 50 站内刀，填了邀请码 zMRe 再加 250，首日 300 刀不用充值——注意这个「刀」是站内计价单位，不是美元，换算见下面的风险提示
+- ⚠️ 别漏了邀请码：注册表单里的「邀请码」一栏填 suPH，这 250 站内刀才会到账。从本页链接进去通常会自动带上，但提交前务必肉眼确认那一栏不是空的——没填就只有注册送的 50，事后补不上
+- 注册送 50 站内刀，填了邀请码 suPH 再加 250，首日 300 刀不用充值——注意这个「刀」是站内计价单位，不是美元，换算见下面的风险提示
 - Claude 和 GPT 同时在架：站内公告点名 cc / cc-kiro 分组的 sonnet-5、按次计费的 opus4.6，以及 GPT pro / plus、Grok、Gemini、fable-5，一把 Key 通吃，本页多数站只给其中一边
 - Anthropic 与 OpenAI 两条原生路由都开着（不带 key 探 /v1/messages 与 /v1/chat/completions 都回 New API 的 401 Invalid token），Claude Code 填 Base URL 就能直连，Codex CLI 走 /v1
 - 面板公开配置里带着一键导入的 deeplink：CC Switch、Cherry Studio、DeepChat、OpenCat、Lobe Chat 等客户端可以从后台直接把 Key 推过去
@@ -319,13 +319,13 @@ curl -s https://agentrouter.org/v1/chat/completions \
 
 **镜像 / 备用入口**
 
-- 直连美国：<https://api.docode.cc> · [从备用域名注册](https://api.docode.cc/register?aff=zMRe)
+- 直连美国：<https://api.docode.cc> · [从备用域名注册](https://api.docode.cc/register?aff=suPH)
 
 > 该站把定价页设成了登录可见（`/api/pricing` 返回 401，站点自己的导航配置里 pricing.requireAuth = true），本页不列模型表。站内公告点名在售的有 Claude（cc / cc-kiro 分组，sonnet-5 与按次计费的 opus4.6）、GPT pro / plus、Grok、Gemini、fable-5，另有独立的生图入口 img.docode.cc；完整清单、分组与倍率注册后在控制台「定价」页确认。
 
 **注册要求**
 
-- 邀请码 = zMRe。从本页链接进入（带 ?aff=zMRe）通常会自动填进注册表单的「邀请码」栏，提交前自己再看一眼；空着就只拿得到注册送的 50 站内刀
+- 邀请码 = suPH。从本页链接进入（带 ?aff=suPH）通常会自动填进注册表单的「邀请码」栏，提交前自己再看一眼；空着就只拿得到注册送的 50 站内刀
 - 250 站内刀在注册那一刻结算，注册完再去后台补填邀请码是没用的
 - 只能邮箱 + 密码建号：公开配置里 github / linuxdo / discord / telegram / 微信 / OIDC / Passkey 的开关全是 false，没有第三方登录入口
 - 注册要邮箱验证码（email_verification = true），并且开着 Cloudflare Turnstile 人机校验
@@ -404,7 +404,7 @@ curl -s https://docode.cc/v1/chat/completions \
 - 额度数字（注册 50 / 邀请 250）站点公开接口没有暴露：/api/status 里既没有 quota_for_new_user 也没有 quota_for_invitee，本页登记的是站内公示口径，进后台核对一遍再算账
 - 没有每日签到，额度用完只能充值或等活动，不像 AgentRouter 那样能每天续命
 - 这是付费中转站不是公益站：后台开着在线充值（Stripe 单价 ¥8），公告里大半是充值送额度与倍率涨跌，免费额度用完要付费才能续
-- 主注册链接已更新为 ai.docode.life/register?aff=zMRe；2026-09-25 本地 HTTPS 检查发现证书与主机名不匹配，尚未确认新入口可正常注册。如浏览器提示证书错误，请勿绕过警告，可尝试下方 api.docode.cc 备用入口；自动健康检查仍检查新注册链接
+- 主注册链接已更新为 ai.docode.life/register?aff=suPH；2026-09-25 本地 HTTPS 检查发现证书与主机名不匹配，尚未确认新入口可正常注册。如浏览器提示证书错误，请勿绕过警告，可尝试下方 api.docode.cc 备用入口；自动健康检查仍检查新注册链接
 - 上游波动写在公告里：GPT plus「全面阵亡」后又「暂时复活」、gpt-5.4 已彻底下架、9 月 10 日还在说「openai 炸了，gpt 全线都不太行」，别当稳定生产通道用
 
 <details><summary><b>站点最新公告</b>（自动同步）</summary>
@@ -421,7 +421,7 @@ curl -s https://docode.cc/v1/chat/completions \
 
 > New API 中转站 · GitHub 一键登录，支持签到与绘图
 
-<a href="https://api.justwoker.icu/sign-up?aff=VTrz"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-JustDoWork-brightgreen?style=for-the-badge" alt="注册 JustDoWork"></a>
+<a href="https://api.justwoker.icu/sign-up?aff=wQWM"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-JustDoWork-brightgreen?style=for-the-badge" alt="注册 JustDoWork"></a>
 
 **为什么值得注册**
 
@@ -533,10 +533,11 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 > Go套餐 $1/月 · 每 5 小时官网估算：Kimi 约 130 次 / GLM 约 1,900 次 / DS 约 7,800 次
 
-<a href="https://mirasim.ai/r/go-kx9cd5"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Mirasim-brightgreen?style=for-the-badge" alt="注册 Mirasim"></a>
+<a href="https://mirasim.ai/"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Mirasim-brightgreen?style=for-the-badge" alt="注册 Mirasim"></a>
 
 **为什么值得注册**
 
+- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - Go套餐 $1/月：低成本体验云端模型，不需要先买高档套餐
 - 用量优势看 5 小时窗口：官网估算 Kimi K3 约 130 次、GLM 5.3 Flash 约 1,900 次、DS 4.1 Flash 约 7,800 次；同一份额度按不同模型折算，三项不能相加
 - 邀请活动：在应用内取得自己的邀请链接，邀请 3 位好友且三人都开通 Go 后，邀请者可获赠 1 个月 Go；公开规则未承诺被邀请人注册即送
@@ -566,7 +567,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 **注册要求**
 
-- 保留本页完整邀请链接 https://mirasim.ai/r/go-kx9cd5；公开定价页未承诺被邀请人注册即得额度，具体权益以账号页为准
+- 保留本页完整邀请链接 https://mirasim.ai/；公开定价页未承诺被邀请人注册即得额度，具体权益以账号页为准
 - 官方命令行文档支持 GitHub 授权或邮箱验证码登录；没有公开账号年龄门槛，本页不额外作承诺
 - 使用自有账号 / Key 无需邀请码；Go 订阅与邀请赠月按站内活动规则办理
 
@@ -606,7 +607,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 > New API 网关 · 注册送 $15，本页邀请进入共 $22.5，GitHub 一键建号，16 个模型与价格全公开
 
-<a href="https://flushapi.fun/sign-up?aff=WBF3"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-FlushAPI-brightgreen?style=for-the-badge" alt="注册 FlushAPI"></a>
+<a href="https://flushapi.fun/sign-up?aff=w8tE"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-FlushAPI-brightgreen?style=for-the-badge" alt="注册 FlushAPI"></a>
 
 **为什么值得注册**
 
@@ -647,7 +648,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?aff=WBF3）：裸注册只有 $15，走邀请链接是 $22.5，多出的 $7.5 在注册那一刻结算，事后补不上
+- 务必从本页邀请链接进入注册（带 ?aff=w8tE）：裸注册只有 $15，走邀请链接是 $22.5，多出的 $7.5 在注册那一刻结算，事后补不上
 - 只能走 GitHub 授权建号：接口自报邮箱密码注册关着（password_register_enabled=false），密码登录只留给已有账号
 - 没有邮箱验证码环节（email_verification=false），也没开 Turnstile 人机校验
 
@@ -731,7 +732,7 @@ curl -s https://flushapi.fun/v1/chat/completions \
 
 > New API 中转站 · 注册送 $75，本页邀请码再加 $25，按 token 计费输入输出各 $1/M
 
-<a href="https://kktoken.cc/sign-up?aff=MzG9"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-KKtoken%20AI-brightgreen?style=for-the-badge" alt="注册 KKtoken AI"></a>
+<a href="https://kktoken.cc/sign-up?aff=CT8p"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-KKtoken%20AI-brightgreen?style=for-the-badge" alt="注册 KKtoken AI"></a>
 
 **为什么值得注册**
 
@@ -760,7 +761,7 @@ curl -s https://flushapi.fun/v1/chat/completions \
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?aff=MzG9），$25 在注册那一刻结算，事后补不上
+- 务必从本页邀请链接进入注册（带 ?aff=CT8p），$25 在注册那一刻结算，事后补不上
 - GitHub 账号注册满 1 年（365 天）才允许绑定，小号会被拒绝
 - 已关闭账号密码注册，只能用 GitHub 授权；注册完成后可以再设密码用于登录
 - 注册页有 Cloudflare Turnstile 人机校验，需要能正常加载 Cloudflare 脚本
@@ -844,10 +845,11 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 > 统一 API 网关 + 开源应用商店 · 邀请注册送 600 积分，实名再送 2000
 
-<a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Matrix-brightgreen?style=for-the-badge" alt="注册 Matrix"></a>
+<a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Matrix-brightgreen?style=for-the-badge" alt="注册 Matrix"></a>
 
 **为什么值得注册**
 
+- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - 从本页邀请链接注册即得 600 获赠积分，注册就发、不用实名、不用充值
 - 完成个人实名认证再领 2,000 积分，是这个站拿额度最快的一步
 - 一把 Key 调通 OpenAI / Anthropic / Google / DeepSeek / Moonshot / 智谱 / 阿里 等多家模型，OpenAI 兼容协议直连 Cursor / Cherry Studio / Open WebUI / Aider
@@ -855,8 +857,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **能拿多少额度**
 
-- 从本页邀请链接注册额外：**600 积分**
-- 首日合计：**600 积分**
+- 免费范围：未配置邀请码
 
 **实时数据**（自动抓取站点公开接口）
 
@@ -908,7 +909,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 > New API 中转站 · 注册送 $75，本页邀请码再加 $50，Anthropic 与 OpenAI 两条原生路由都开着
 
-<a href="https://anyrouter.top/register?aff=Z24N"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AnyRouter-brightgreen?style=for-the-badge" alt="注册 AnyRouter"></a>
+<a href="https://anyrouter.top/register?aff=LEGK"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AnyRouter-brightgreen?style=for-the-badge" alt="注册 AnyRouter"></a>
 
 **为什么值得注册**
 
@@ -932,7 +933,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?aff=Z24N），$50 在注册那一刻结算，事后补不上
+- 务必从本页邀请链接进入注册（带 ?aff=LEGK），$50 在注册那一刻结算，事后补不上
 - GitHub 账号注册满 5 年才允许绑定——门槛比本页其它站高得多，小号一律被拒
 - GitHub 不满 5 年就改走 LinuxDO 登录，这条路没有账号年龄要求
 - 签到领的 $25 要退出再重新登录一次才会刷新到额度上
@@ -1016,7 +1017,7 @@ curl -s https://anyrouter.top/v1/chat/completions \
 
 > 自研 AI 网关 · 本页邀请码送 $20，每日签到再 $20，OpenAI / Anthropic / Codex 三条协议一把 Key
 
-<a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-CheapCodex-brightgreen?style=for-the-badge" alt="注册 CheapCodex"></a>
+<a href="https://api.cheapcodex.online/register?aff=KNPERHNX9E5A"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-CheapCodex-brightgreen?style=for-the-badge" alt="注册 CheapCodex"></a>
 
 **为什么值得注册**
 
@@ -1040,7 +1041,7 @@ curl -s https://anyrouter.top/v1/chat/completions \
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?aff=U7SSQZSDB36S），$20 在注册那一刻结算，事后补不上
+- 务必从本页邀请链接进入注册（带 ?aff=KNPERHNX9E5A），$20 在注册那一刻结算，事后补不上
 - 只能用邮箱建号：站点前端自带的公开配置里 github / google / linuxdo / 微信 / 钉钉 / OIDC 的 oauth 开关全是 false，没有第三方登录入口
 - 注册页的人机校验目前是关的（配了 Turnstile site key 但 turnstile_enabled=false），加载不出 Cloudflare 脚本也能注册
 
@@ -1123,10 +1124,11 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 > 任务制积分站 · 做任务领 API 积分，签到 / Discord / 邀请 / 发推都给分，免密码登录、无需绑卡
 
-<a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-NOFX-brightgreen?style=for-the-badge" alt="注册 NOFX"></a>
+<a href="https://nofx.one/zh-CN/sign-in"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-NOFX-brightgreen?style=for-the-badge" alt="注册 NOFX"></a>
 
 **为什么值得注册**
 
+- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - 从本页邀请链接注册得 10 积分，之后每天签到 +$5 积分，站点自报「第一笔积分，30 秒就能到账」
 - 积分是靠做任务领的，不是充值买的：加入 Discord +$5、每日签到 +$5、邀请一位好友 +$5（不限每日人数）、在 X 发一条带邀请码的推文过审 +$20
 - 免密码登录：邮箱 magic link 或 GitHub 授权，站点明确写着「不签发或保存登录密码」，也支持两步验证
@@ -1135,9 +1137,8 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 **能拿多少额度**
 
-- 从本页邀请链接注册额外：**10 积分**
 - 每日签到：**5 积分/天**（长期续命的关键）
-- 首日合计：**15 积分**　（本页邀请 10 积分 + 首签 5 积分）
+- 首日合计：**5 积分**
 
 **实时数据**（自动抓取站点公开接口）
 
@@ -1147,7 +1148,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 **注册要求**
 
-- 务必从本页邀请链接进入注册（带 ?ref=J369GHY4），邀请关系在注册那一刻绑定，事后补不上
+- 务必从本页邀请链接进入注册（带 ?ref=），邀请关系在注册那一刻绑定，事后补不上
 - 免密码登录：填邮箱收一条登录链接，或直接用 GitHub 授权；站点隐私条款写明「不签发或保存登录密码」
 - 签到和 Discord 验证这两笔要在 Discord 里做（/checkin 与 /verify，命令得从弹出列表里选，不能直接粘贴），不进 Discord 就领不到
 
@@ -1182,7 +1183,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 ## 📦 历史区 · 已停用站点
 
-这些站已反馈不可用，保留名称与归档原因，不再推荐注册、展示额度或进行定时探测。历史记录仍可在[变动日志](https://panxunying.github.io/ai-coding-welfare/changelog/)中查看；确认恢复可用后可人工重新收录。
+这些站已反馈不可用，保留名称与归档原因，不再推荐注册、展示额度或进行定时探测。历史记录仍可在[变动日志](https://wangpanying.github.io/ai-coding-welfare/changelog/)中查看；确认恢复可用后可人工重新收录。
 
 - **GoRouter**（`2026-09-21` 归档） — 用户反馈已无法使用，移入历史区，不再推荐注册
 - **TaBiAI**（`2026-09-21` 归档） — 用户反馈已无法使用，移入历史区，不再推荐注册
@@ -1195,8 +1196,8 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目前已攒下 181 个样本、覆盖约 39.9 天。额度调整、掉线与恢复、模型上下线、价格变动都会自动记一条：
 
 - 点仓库右上角 **Watch → Custom → Releases**：有重要变动时 GitHub 直接发邮件
-- 订阅 [Atom feed](https://panxunying.github.io/ai-coding-welfare/feed.xml)：RSS 阅读器 / Feedly / Telegram 机器人都能读
-- 在线看：[变动日志](https://panxunying.github.io/ai-coding-welfare/changelog/) · [可用性历史](https://panxunying.github.io/ai-coding-welfare/status/)
+- 订阅 [Atom feed](https://wangpanying.github.io/ai-coding-welfare/feed.xml)：RSS 阅读器 / Feedly / Telegram 机器人都能读
+- 在线看：[变动日志](https://wangpanying.github.io/ai-coding-welfare/changelog/) · [可用性历史](https://wangpanying.github.io/ai-coding-welfare/status/)
 
 最近几条：
 
@@ -1270,7 +1271,7 @@ npm run check     # 校验链接是否还活着
 
 发现好用的公益站 / 中转站？两种方式：
 
-- 提 [Issue](https://github.com/panxunying/ai-coding-welfare/issues/new?template=new-site.yml) 填个表单：投稿公开可见，本身就是一次推广；符合下方收录标准、特别优质的，我会收录进正文
+- 提 [Issue](https://github.com/wangpanying/ai-coding-welfare/issues/new?template=new-site.yml) 填个表单：投稿公开可见，本身就是一次推广；符合下方收录标准、特别优质的，我会收录进正文
 - 或者直接 PR：往 `data/sites.json` 加一条，跑 `npm run refresh && npm run build` 后提交
 
 收录标准：**能免费拿到额度**、注册流程不套娃、站点公开接口可探测。
