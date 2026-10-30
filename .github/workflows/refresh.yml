@@ -41,9 +41,23 @@ jobs:
           git restore --source=upstream/main --worktree -- data/ scripts/ docs/ package.json CHANGELOG.md 'README*.md'
 
       - name: 验证上游生成器和邀请码覆盖逻辑
-        # 零依赖仓库无需 npm ci；上游测试包含固定邀请码，必须在覆盖前执行。
+        # 上游测试可能读取自己的工作流，使用完整快照以保证测试与依赖属于同一版本。
+        shell: bash
         run: |
-          npm test
+          UPSTREAM_TEST_DIR=$(mktemp -d "$RUNNER_TEMP/upstream-tests.XXXXXX")
+          UPSTREAM_TEST_LOG="$RUNNER_TEMP/upstream-tests.log"
+          git archive upstream/main | tar -x -C "$UPSTREAM_TEST_DIR"
+          if ! npm --prefix "$UPSTREAM_TEST_DIR" test 2>&1 | tee "$UPSTREAM_TEST_LOG"; then
+            {
+              echo '## 上游测试失败'
+              echo "上游提交：$(git rev-parse upstream/main)"
+              echo '```text'
+              grep -A 25 '^[[:space:]]*✘' "$UPSTREAM_TEST_LOG" || tail -80 "$UPSTREAM_TEST_LOG"
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+            echo '::error title=上游测试失败::失败用例及错误详情已写入本次运行的 Summary。'
+            exit 1
+          fi
           node --test test-invite-overlay.mjs
 
       - name: 补全新增站点并使用我的邀请码，未填写则清空

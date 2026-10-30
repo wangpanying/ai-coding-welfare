@@ -21,7 +21,9 @@ jobs:
 
       - name: 检查注册链接与站点可用性
         id: check
-        run: npm run check 2>&1 | tee check.log
+        run: |
+          set -o pipefail
+          npm run check 2>&1 | tee check.log
         continue-on-error: true
 
       - name: 链接异常时开 Issue 报警
