@@ -30,10 +30,10 @@ A translated guide to the listed services. Amounts, model IDs, prices and referr
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | Reachable | **300 site units (not USD)** | Free prize draw + top-up discount coupons | [Open service / register](https://docode.cc/register?aff=suPH) | Join the QQ group to unlock many more perks |
 | **AgentRouter** | Reachable | **$175** | $25/day · Daily check-in | [Open service / register](https://agentrouter.org/register?aff=NVN4) | — |
-| **万家灯火** | Reachable | **50 site units (not USD)** | Random CNY 0.1–1 daily after joining QQ and linking your account | [Open service / register](https://wjapi.vip/register) | Subscription limited to the designated GPT group; rewards require QQ group 1064350952 and account linking |
+| **万家灯火** | Reachable | **50 site units (not USD)** | Random CNY 0.1–1 daily after joining QQ and linking your account | [Open service / register](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Subscription limited to the designated GPT group; rewards require QQ group 1064350952 and account linking |
 | **Happy Code** | Reachable | **$100** | Not publicly specified | [Open service / register](https://happycodeai.com/register) | Join QQ group 367746547 and ask the group owner for the newcomer trial pack |
-| **Prime Relay** | Reachable | **$20** | Daily check-ins supported | [Open service / register](https://www.primerelay.online/register) | Must join QQ group 239561070 |
-| **Codex Relay** | Reachable | **$10** | Not publicly specified | [Open service / register](https://codex-relay.codes/register) | — |
+| **Prime Relay** | Reachable | **$20** | Daily check-ins supported | [Open service / register](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | Must join QQ group 239561070 |
+| **Codex Relay** | Reachable | **$10** | Not publicly specified | [Open service / register](https://codex-relay.codes/register?aff=UjvP) | — |
 | **Matrix** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
 | **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=LEGK) | — |
 | **JustDoWork** | Reachable | **≈$92** | ≈$22/day · Daily check-in | [Open service / register](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
@@ -142,7 +142,7 @@ Only models returned by the public snapshot are listed; missing data does not me
 
 Signup grants 50 internal units of GPT subscription usage for one month, limited to the designated GPT group. QQ check-ins award CNY 0.1–1 daily; eligible referrals award CNY 5 to each participant. Find the credit under “我的订阅” (My Subscriptions).
 
-[Open service / register](https://wjapi.vip/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/wanjiadenghuo/)
+[Open service / register](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/wanjiadenghuo/)
 
 
 - **First-day credits / plan**: 50 site units (not USD)
@@ -155,7 +155,7 @@ Signup grants 50 internal units of GPT subscription usage for one month, limited
 
 ### Registration requirements
 
-No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link and keep aff=. Email verification is required; QQ, 126, 163 and Gmail addresses are currently accepted. For rewards, join QQ group 1064350952 and link your site account. Referral rewards require the invitee to register, join the group, link their account and check in; both participants must link their accounts.
+Use the full referral link and keep aff=EV6E3UJZ4J3V. Email verification is required; QQ, 126, 163 and Gmail addresses are currently accepted. For rewards, join QQ group 1064350952 and link your site account. Referral rewards require the invitee to register, join the group, link their account and check in; both participants must link their accounts.
 
 ### Rewards, limits and important caveats
 
@@ -215,7 +215,7 @@ Not publicly specified
 
 Prime Relay offers $20 in credits on the first day of registration and supports daily check-ins.
 
-[Open service / register](https://www.primerelay.online/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/primerelay/)
+[Open service / register](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/primerelay/)
 
 
 - **First-day credits / plan**: $20
@@ -228,7 +228,7 @@ Prime Relay offers $20 in credits on the first day of registration and supports 
 
 ### Registration requirements
 
-No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Use the full referral link with aff=. The public registration settings currently require a @qq.com email address and email verification. Sign in to view your credit balance and check-in entry.
+Use the full referral link with aff=5W2YYP5PTEBM. The public registration settings currently require a @qq.com email address and email verification. Sign in to view your credit balance and check-in entry.
 
 ### Rewards, limits and important caveats
 
@@ -251,7 +251,7 @@ Not publicly specified
 
 Register with Codex Relay to receive $10 in API credits.
 
-[Open service / register](https://codex-relay.codes/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/codex-relay/)
+[Open service / register](https://codex-relay.codes/register?aff=UjvP) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/codex-relay/)
 
 
 - **First-day credits / plan**: $10
@@ -263,7 +263,7 @@ Register with Codex Relay to receive $10 in API credits.
 
 ### Registration requirements
 
-No referral code is configured here. Registration links contain no referral code and referral bonuses are excluded from totals; referral conditions below are for reference. Open the full referral link, keep aff= and follow the registration instructions. Sign in to view your $10 signup credit balance.
+Open the full referral link, keep aff=UjvP and follow the registration instructions. Sign in to view your $10 signup credit balance.
 
 ### Rewards, limits and important caveats
 

@@ -14,10 +14,10 @@
 <p align="center">
   <a href="https://docode.cc/register?aff=suPH"><b>DoCode 注册</b></a> ·
   <a href="https://agentrouter.org/register?aff=NVN4"><b>AgentRouter 注册</b></a> ·
-  <a href="https://wjapi.vip/register"><b>万家灯火 注册</b></a> ·
+  <a href="https://wjapi.vip/register?aff=EV6E3UJZ4J3V"><b>万家灯火 注册</b></a> ·
   <a href="https://happycodeai.com/register"><b>Happy Code 注册</b></a> ·
-  <a href="https://www.primerelay.online/register"><b>Prime Relay 注册</b></a> ·
-  <a href="https://codex-relay.codes/register"><b>Codex Relay 注册</b></a> ·
+  <a href="https://www.primerelay.online/register?aff=5W2YYP5PTEBM"><b>Prime Relay 注册</b></a> ·
+  <a href="https://codex-relay.codes/register?aff=UjvP"><b>Codex Relay 注册</b></a> ·
   <a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth"><b>Matrix 注册</b></a> ·
   <a href="https://anyrouter.top/register?aff=LEGK"><b>AnyRouter 注册</b></a> ·
   <a href="https://api.justwoker.icu/sign-up?aff=wQWM"><b>JustDoWork 注册</b></a> ·
@@ -47,10 +47,10 @@
 | :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: | :--: | :-- |
 | **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 免费抽奖+充值优惠券 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://docode.cc/register?aff=suPH) | `suPH` | 加qq群可以解锁超多福利 |
 | **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=NVN4) | — | — |
-| **万家灯火** | 🟢 在线 | **50 站内刀** | 注册 50 站内刀<br>可在「我的订阅」中查看这 50 站内刀 | 进群绑定账号后，每日签到随机领 ¥0.1～1 通用余额 | Anthropic + OpenAI | **GPT / Claude / Gemini / Grok / 国产模型** | [点此注册 →](https://wjapi.vip/register) | — | 订阅仅限 GPT「不降智」分组；签到与邀请需加入 QQ 群 1064350952 并绑定账号 |
+| **万家灯火** | 🟢 在线 | **50 站内刀** | 注册 50 站内刀<br>可在「我的订阅」中查看这 50 站内刀 | 进群绑定账号后，每日签到随机领 ¥0.1～1 通用余额 | Anthropic + OpenAI | **GPT / Claude / Gemini / Grok / 国产模型** | [点此注册 →](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | — | 订阅仅限 GPT「不降智」分组；签到与邀请需加入 QQ 群 1064350952 并绑定账号 |
 | **Happy Code** | 🟢 在线 | **$100** | 注册 $100 | — | 控制台内查看 | 需登录查看 | [点此注册 →](https://happycodeai.com/register) | — | 需要加 QQ 群 367746547 找群主获取新人体验包 |
-| **Prime Relay** | 🟢 在线 | **$20** | 注册 $20 | 支持每日签到 | OpenAI | **Claude / GPT 等** | [点此注册 →](https://www.primerelay.online/register) | — | 需要进qq群,239561070 |
-| **Codex Relay** | 🟢 在线 | **$10** | 注册 $10 | — | 控制台内查看 | 需登录查看 | [点此注册 →](https://codex-relay.codes/register) | — | — |
+| **Prime Relay** | 🟢 在线 | **$20** | 注册 $20 | 支持每日签到 | OpenAI | **Claude / GPT 等** | [点此注册 →](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | — | 需要进qq群,239561070 |
+| **Codex Relay** | 🟢 在线 | **$10** | 注册 $10 | — | 控制台内查看 | 需登录查看 | [点此注册 →](https://codex-relay.codes/register?aff=UjvP) | — | — |
 | **Matrix** | 🟢 在线 | 未配置邀请码 | — | — | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — | — |
 | **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=LEGK) | — | — |
 | **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=wQWM) | — | — |
@@ -357,11 +357,10 @@ curl -s https://agentrouter.org/v1/chat/completions \
 
 > 注册赠 50 站内刀 GPT 订阅（1 个月）· 进群签到 ¥0.1～1/天 · 完成邀请任务双方各得 ¥5
 
-<a href="https://wjapi.vip/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB-brightgreen?style=for-the-badge" alt="注册 万家灯火"></a>
+<a href="https://wjapi.vip/register?aff=EV6E3UJZ4J3V"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-%E4%B8%87%E5%AE%B6%E7%81%AF%E7%81%AB-brightgreen?style=for-the-badge" alt="注册 万家灯火"></a>
 
 **为什么值得注册**
 
-- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - 注册赠送 50 站内刀 GPT「不降智」分组订阅额度，可在「我的订阅」中查看；有效期一个月，无每日额度上限，在有效期内按实际用量扣减，用完即止
 - 加入 QQ 群 1064350952，按机器人提示绑定站内账号，每天发送「签到」随机领取 ¥0.1～1 通用余额，可用于所有模型分组
 - 通过本页完整邀请链接注册，被邀请人进群、绑定账号并签到，且双方均绑定站内账号，满足活动条件后双方各得 ¥5 通用余额
@@ -384,7 +383,7 @@ curl -s https://agentrouter.org/v1/chat/completions \
 
 **注册要求**
 
-- 使用本页完整邀请链接，保留 aff=，邀请关系以站内记录为准
+- 使用本页完整邀请链接，保留 aff=EV6E3UJZ4J3V，邀请关系以站内记录为准
 - 邮箱注册需要验证码，当前公开配置允许 QQ、126、163、Gmail 邮箱
 - 注册后在「我的订阅」中查看赠送的 50 站内刀 GPT「不降智」分组额度及到期时间
 - 签到和邀请奖励需要加入 QQ 群 1064350952 并绑定站内账号；邀请奖励还要求被邀请人完成签到，双方均需绑定账号
@@ -524,13 +523,12 @@ curl -s https://wjapi.vip/v1/chat/completions \
 
 > 注册首日可获得 $20 额度，后续支持每日签到
 
-<a href="https://www.primerelay.online/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Prime%20Relay-brightgreen?style=for-the-badge" alt="注册 Prime Relay"></a>
+<a href="https://www.primerelay.online/register?aff=5W2YYP5PTEBM"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Prime%20Relay-brightgreen?style=for-the-badge" alt="注册 Prime Relay"></a>
 
 **为什么值得注册**
 
-- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - 注册首日可获得 $20 额度，后续支持每日签到
-- 通过本页完整邀请链接注册，保留 aff=
+- 通过本页完整邀请链接注册，保留 aff=5W2YYP5PTEBM
 - 官网列出 Claude、GPT、DeepSeek、Grok、Gemini 等模型系列，具体模型与价格可在站内模型广场查看
 
 **能拿多少额度**
@@ -546,7 +544,7 @@ curl -s https://wjapi.vip/v1/chat/completions \
 
 **注册要求**
 
-- 使用完整注册链接，保留 aff=
+- 使用完整注册链接，保留 aff=5W2YYP5PTEBM
 - 当前公开注册配置仅允许 @qq.com 邮箱，并要求邮箱验证码
 - 需要加入 QQ 群：239561070
 - 注册后在控制台查看首日 $20 额度与每日签到入口
@@ -611,13 +609,12 @@ curl -s https://primerelay.online/v1/chat/completions \
 
 > 注册可获得 $10 API 额度
 
-<a href="https://codex-relay.codes/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Codex%20Relay-brightgreen?style=for-the-badge" alt="注册 Codex Relay"></a>
+<a href="https://codex-relay.codes/register?aff=UjvP"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Codex%20Relay-brightgreen?style=for-the-badge" alt="注册 Codex Relay"></a>
 
 **为什么值得注册**
 
-- 本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。
 - 注册可获得 $10 API 额度
-- 通过本页完整邀请链接进入，保留 aff=
+- 通过本页完整邀请链接进入，保留 aff=UjvP
 
 **能拿多少额度**
 
@@ -632,14 +629,14 @@ curl -s https://primerelay.online/v1/chat/completions \
 
 **注册要求**
 
-- 使用完整注册链接，保留 aff=，并按页面提示完成注册
+- 使用完整注册链接，保留 aff=UjvP，并按页面提示完成注册
 - 注册可获得 $10 额度，登录后在控制台查看余额
 
 **接入配置**
 
 > 注册后在 Codex Relay 控制台查看 API 接入地址、可用模型和接入说明。
 
-1. 打开本页完整邀请链接，保留 aff=，按页面提示完成注册
+1. 打开本页完整邀请链接，保留 aff=UjvP，按页面提示完成注册
 2. 登录控制台查看 $10 注册额度
 3. 按控制台说明获取 API Key、接入地址和模型 ID，并配置客户端
 

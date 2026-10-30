@@ -104,7 +104,7 @@
     },
     "codex-relay": {
       "summary": "Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.",
-      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação, mantenha aff= e siga as instruções de cadastro. Entre na conta para conferir seu saldo de US$ 10 em créditos de cadastro.",
+      "registration": "Abra o link completo de indicação, mantenha aff=UjvP e siga as instruções de cadastro. Entre na conta para conferir seu saldo de US$ 10 em créditos de cadastro.",
       "notes": "Consulte o console para ver os modelos disponíveis, preços, chaves de API, endpoints e instruções de configuração do cliente."
     },
     "happycode": {
@@ -115,7 +115,7 @@
     },
     "primerelay": {
       "summary": "O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite check-in diário.",
-      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação com aff=. As configurações públicas de cadastro exigem atualmente um endereço @qq.com e verificação por e-mail. Entre para consultar o saldo e a opção de check-in.",
+      "registration": "Use o link completo de indicação com aff=5W2YYP5PTEBM. As configurações públicas de cadastro exigem atualmente um endereço @qq.com e verificação por e-mail. Entre para consultar o saldo e a opção de check-in.",
       "notes": "A oferta de $20 no cadastro e o check-in diário foram informados pelo mantenedor. O valor do prêmio diário não foi especificado e não entra no total do primeiro dia. Consulte modelos e preços na lista pública de modelos. Promoções de indicação separadas podem exigir entrada no grupo do QQ; esses prêmios não foram somados aos $20. Grupo oficial do QQ: 239561070.",
       "dailyNote": "Check-in diário disponível",
       "remarks": "É necessário entrar no grupo do QQ 239561070"
@@ -184,7 +184,7 @@
     },
     "wanjiadenghuo": {
       "summary": "O cadastro concede 50 unidades internas de uso de uma assinatura GPT por um mês, restrita ao grupo GPT indicado. Check-ins no QQ dão CNY 0,1–1 por dia; indicações elegíveis dão CNY 5 a cada participante. Consulte o crédito em “我的订阅” (Minhas assinaturas).",
-      "registration": "Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação e mantenha aff=. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.",
+      "registration": "Use o link completo de indicação e mantenha aff=EV6E3UJZ4J3V. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.",
       "notes": "Os benefícios e modelos foram informados pelo operador na Issue #46. As configurações públicas e a saúde do serviço foram verificadas; o recebimento dos créditos e a inferência não foram testados. A assinatura de 50 unidades não tem limite diário, expira após um mês e cobre apenas o grupo GPT indicado. Ela é separada do saldo geral. CNY 1 compra 1 unidade interna; os $50 anunciados não são dólares em dinheiro e ficam fora do total em USD. Recompensas condicionais de check-in e indicação não entram nos créditos do primeiro dia. O multiplicador GPT a partir de 0.06x vale para um grupo específico; confira modelos, grupos e preços atuais no painel.",
       "dailyNote": "CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta",
       "remarks": "Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta"

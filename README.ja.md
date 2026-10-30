@@ -30,10 +30,10 @@ Claude Code、Codex などで使えるコミュニティ運営のゲートウェ
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | 到達可能 | **300 サイト内単位（米ドルではありません）** | 無料抽選＋チャージ割引クーポン | [サービスを開く / 登録](https://docode.cc/register?aff=suPH) | QQグループに参加すると、さらに多くの特典を利用できます |
 | **AgentRouter** | 到達可能 | **$175** | $25/日 · 毎日のチェックイン | [サービスを開く / 登録](https://agentrouter.org/register?aff=NVN4) | — |
-| **万家灯火** | 到達可能 | **50 サイト内単位（米ドルではありません）** | QQ 参加・アカウント連携後、毎日ランダムで CNY 0.1～1 | [サービスを開く / 登録](https://wjapi.vip/register) | 利用枠は指定 GPT グループ専用。特典には QQ グループ 1064350952 への参加とアカウント連携が必要 |
+| **万家灯火** | 到達可能 | **50 サイト内単位（米ドルではありません）** | QQ 参加・アカウント連携後、毎日ランダムで CNY 0.1～1 | [サービスを開く / 登録](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | 利用枠は指定 GPT グループ専用。特典には QQ グループ 1064350952 への参加とアカウント連携が必要 |
 | **Happy Code** | 到達可能 | **$100** | 公表されていません | [サービスを開く / 登録](https://happycodeai.com/register) | QQ グループ 367746547 に参加し、グループ管理者に新規ユーザー向け体験パックを申請してください |
-| **Prime Relay** | 到達可能 | **$20** | 毎日のチェックインに対応 | [サービスを開く / 登録](https://www.primerelay.online/register) | QQグループ 239561070 への参加が必要 |
-| **Codex Relay** | 到達可能 | **$10** | 公表されていません | [サービスを開く / 登録](https://codex-relay.codes/register) | — |
+| **Prime Relay** | 到達可能 | **$20** | 毎日のチェックインに対応 | [サービスを開く / 登録](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | QQグループ 239561070 への参加が必要 |
+| **Codex Relay** | 到達可能 | **$10** | 公表されていません | [サービスを開く / 登録](https://codex-relay.codes/register?aff=UjvP) | — |
 | **Matrix** | 到達可能 | **公表されていません** | 公表されていません | [サービスを開く / 登録](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
 | **AnyRouter** | 到達可能 | **$150** | $25/日 · 毎日のチェックイン | [サービスを開く / 登録](https://anyrouter.top/register?aff=LEGK) | — |
 | **JustDoWork** | 到達可能 | **≈$92** | ≈$22/日 · 毎日のチェックイン | [サービスを開く / 登録](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
@@ -142,7 +142,7 @@ Claude と GPT を扱う New API ゲートウェイ。特典は米ドルでは�
 
 登録で指定 GPT グループ専用の利用枠 50 サイト内単位を付与。有効期間は 1 か月です。QQ での毎日のチェックインは CNY 0.1～1、条件を満たす紹介は双方に CNY 5 を付与します。 この利用枠は「我的订阅」（マイサブスクリプション）で確認できます。
 
-[サービスを開く / 登録](https://wjapi.vip/register) · [詳細](https://wangpanying.github.io/ai-coding-welfare/ja/sites/wanjiadenghuo/)
+[サービスを開く / 登録](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [詳細](https://wangpanying.github.io/ai-coding-welfare/ja/sites/wanjiadenghuo/)
 
 
 - **初日のクレジット / プラン**: 50 サイト内単位（米ドルではありません）
@@ -155,7 +155,7 @@ Claude と GPT を扱う New API ゲートウェイ。特典は米ドルでは�
 
 ### 登録条件
 
-このページには招待コードが設定されていません。登録リンクに招待情報は含まれず、招待特典は合計に含めません。以下の招待条件は参考情報です。 完全な紹介リンクを使用し、aff= を保持してください。メール認証が必要で、現在は QQ、126、163、Gmail に対応しています。特典には QQ グループ 1064350952 への参加とサイトアカウントの連携が必要です。紹介報酬には招待された人の登録、グループ参加、連携、チェックインが必要で、双方のアカウント連携も必要です。
+完全な紹介リンクを使用し、aff=EV6E3UJZ4J3V を保持してください。メール認証が必要で、現在は QQ、126、163、Gmail に対応しています。特典には QQ グループ 1064350952 への参加とサイトアカウントの連携が必要です。紹介報酬には招待された人の登録、グループ参加、連携、チェックインが必要で、双方のアカウント連携も必要です。
 
 ### 特典・制限・注意事項
 
@@ -215,7 +215,7 @@ Happy Code に登録すると $100 分のクレジットを受け取れます。
 
 Prime Relay は登録初日に $20 のクレジットを提供し、その後も毎日のチェックインに対応しています。
 
-[サービスを開く / 登録](https://www.primerelay.online/register) · [詳細](https://wangpanying.github.io/ai-coding-welfare/ja/sites/primerelay/)
+[サービスを開く / 登録](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) · [詳細](https://wangpanying.github.io/ai-coding-welfare/ja/sites/primerelay/)
 
 
 - **初日のクレジット / プラン**: $20
@@ -228,7 +228,7 @@ Prime Relay は登録初日に $20 のクレジットを提供し、その後も
 
 ### 登録条件
 
-このページには招待コードが設定されていません。登録リンクに招待情報は含まれず、招待特典は合計に含めません。以下の招待条件は参考情報です。 aff= を含む紹介リンク全体を使用してください。公開登録設定では現在 @qq.com のメールアドレスとメール認証が必要です。ログイン後に残高とチェックイン画面を確認してください。
+aff=5W2YYP5PTEBM を含む紹介リンク全体を使用してください。公開登録設定では現在 @qq.com のメールアドレスとメール認証が必要です。ログイン後に残高とチェックイン画面を確認してください。
 
 ### 特典・制限・注意事項
 
@@ -251,7 +251,7 @@ Prime Relay は登録初日に $20 のクレジットを提供し、その後も
 
 Codex Relay に登録すると $10 分の API クレジットを受け取れます。
 
-[サービスを開く / 登録](https://codex-relay.codes/register) · [詳細](https://wangpanying.github.io/ai-coding-welfare/ja/sites/codex-relay/)
+[サービスを開く / 登録](https://codex-relay.codes/register?aff=UjvP) · [詳細](https://wangpanying.github.io/ai-coding-welfare/ja/sites/codex-relay/)
 
 
 - **初日のクレジット / プラン**: $10
@@ -263,7 +263,7 @@ Codex Relay に登録すると $10 分の API クレジットを受け取れま�
 
 ### 登録条件
 
-このページには招待コードが設定されていません。登録リンクに招待情報は含まれず、招待特典は合計に含めません。以下の招待条件は参考情報です。 紹介リンク全体を開き、aff= を残したまま案内に沿って登録してください。ログイン後、登録特典の $10 分のクレジット残高を確認できます。
+紹介リンク全体を開き、aff=UjvP を残したまま案内に沿って登録してください。ログイン後、登録特典の $10 分のクレジット残高を確認できます。
 
 ### 特典・制限・注意事項
 

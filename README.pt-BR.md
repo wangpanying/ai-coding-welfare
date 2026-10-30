@@ -30,10 +30,10 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | Acessível | **300 unidades internas (não USD)** | Sorteio grátis + cupons de desconto para recarga | [Abrir serviço / cadastrar](https://docode.cc/register?aff=suPH) | Entre no grupo do QQ para desbloquear muito mais benefícios |
 | **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=NVN4) | — |
-| **万家灯火** | Acessível | **50 unidades internas (não USD)** | CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta | [Abrir serviço / cadastrar](https://wjapi.vip/register) | Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta |
+| **万家灯火** | Acessível | **50 unidades internas (não USD)** | CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta | [Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta |
 | **Happy Code** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://happycodeai.com/register) | Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários |
-| **Prime Relay** | Acessível | **$20** | Check-in diário disponível | [Abrir serviço / cadastrar](https://www.primerelay.online/register) | É necessário entrar no grupo do QQ 239561070 |
-| **Codex Relay** | Acessível | **$10** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://codex-relay.codes/register) | — |
+| **Prime Relay** | Acessível | **$20** | Check-in diário disponível | [Abrir serviço / cadastrar](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | É necessário entrar no grupo do QQ 239561070 |
+| **Codex Relay** | Acessível | **$10** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://codex-relay.codes/register?aff=UjvP) | — |
 | **Matrix** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
 | **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) | — |
 | **JustDoWork** | Acessível | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
@@ -142,7 +142,7 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 O cadastro concede 50 unidades internas de uso de uma assinatura GPT por um mês, restrita ao grupo GPT indicado. Check-ins no QQ dão CNY 0,1–1 por dia; indicações elegíveis dão CNY 5 a cada participante. Consulte o crédito em “我的订阅” (Minhas assinaturas).
 
-[Abrir serviço / cadastrar](https://wjapi.vip/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/wanjiadenghuo/)
+[Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/wanjiadenghuo/)
 
 
 - **Créditos no primeiro dia / plano**: 50 unidades internas (não USD)
@@ -155,7 +155,7 @@ O cadastro concede 50 unidades internas de uso de uma assinatura GPT por um mês
 
 ### Requisitos de cadastro
 
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação e mantenha aff=. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.
+Use o link completo de indicação e mantenha aff=EV6E3UJZ4J3V. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.
 
 ### Recompensas, limites e cuidados importantes
 
@@ -215,7 +215,7 @@ Não divulgado publicamente
 
 O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite check-in diário.
 
-[Abrir serviço / cadastrar](https://www.primerelay.online/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/primerelay/)
+[Abrir serviço / cadastrar](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/primerelay/)
 
 
 - **Créditos no primeiro dia / plano**: $20
@@ -228,7 +228,7 @@ O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite che
 
 ### Requisitos de cadastro
 
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Use o link completo de indicação com aff=. As configurações públicas de cadastro exigem atualmente um endereço @qq.com e verificação por e-mail. Entre para consultar o saldo e a opção de check-in.
+Use o link completo de indicação com aff=5W2YYP5PTEBM. As configurações públicas de cadastro exigem atualmente um endereço @qq.com e verificação por e-mail. Entre para consultar o saldo e a opção de check-in.
 
 ### Recompensas, limites e cuidados importantes
 
@@ -251,7 +251,7 @@ Não divulgado publicamente
 
 Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.
 
-[Abrir serviço / cadastrar](https://codex-relay.codes/register) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/codex-relay/)
+[Abrir serviço / cadastrar](https://codex-relay.codes/register?aff=UjvP) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/codex-relay/)
 
 
 - **Créditos no primeiro dia / plano**: $10
@@ -263,7 +263,7 @@ Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.
 
 ### Requisitos de cadastro
 
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação, mantenha aff= e siga as instruções de cadastro. Entre na conta para conferir seu saldo de US$ 10 em créditos de cadastro.
+Abra o link completo de indicação, mantenha aff=UjvP e siga as instruções de cadastro. Entre na conta para conferir seu saldo de US$ 10 em créditos de cadastro.
 
 ### Recompensas, limites e cuidados importantes
 

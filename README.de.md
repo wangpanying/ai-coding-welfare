@@ -30,10 +30,10 @@ Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Co
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | Erreichbar | **300 interne Einheiten (keine USD)** | Kostenlose Verlosung + Rabattgutscheine für Aufladungen | [Dienst öffnen / registrieren](https://docode.cc/register?aff=suPH) | Tritt der QQ-Gruppe bei, um viele weitere Vorteile freizuschalten |
 | **AgentRouter** | Erreichbar | **$175** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://agentrouter.org/register?aff=NVN4) | — |
-| **万家灯火** | Erreichbar | **50 interne Einheiten (keine USD)** | Täglich zufällig CNY 0,1–1 nach QQ-Beitritt und Kontoverknüpfung | [Dienst öffnen / registrieren](https://wjapi.vip/register) | Abonnement nur für die vorgesehene GPT-Gruppe; Prämien erfordern QQ-Gruppe 1064350952 und Kontoverknüpfung |
+| **万家灯火** | Erreichbar | **50 interne Einheiten (keine USD)** | Täglich zufällig CNY 0,1–1 nach QQ-Beitritt und Kontoverknüpfung | [Dienst öffnen / registrieren](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Abonnement nur für die vorgesehene GPT-Gruppe; Prämien erfordern QQ-Gruppe 1064350952 und Kontoverknüpfung |
 | **Happy Code** | Erreichbar | **$100** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://happycodeai.com/register) | Der QQ-Gruppe 367746547 beitreten und beim Gruppeninhaber das Testpaket für Neukunden anfordern |
-| **Prime Relay** | Erreichbar | **$20** | Tägliche Check-ins verfügbar | [Dienst öffnen / registrieren](https://www.primerelay.online/register) | Beitritt zur QQ-Gruppe 239561070 erforderlich |
-| **Codex Relay** | Erreichbar | **$10** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://codex-relay.codes/register) | — |
+| **Prime Relay** | Erreichbar | **$20** | Tägliche Check-ins verfügbar | [Dienst öffnen / registrieren](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | Beitritt zur QQ-Gruppe 239561070 erforderlich |
+| **Codex Relay** | Erreichbar | **$10** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://codex-relay.codes/register?aff=UjvP) | — |
 | **Matrix** | Erreichbar | **Nicht öffentlich angegeben** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
 | **AnyRouter** | Erreichbar | **$150** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://anyrouter.top/register?aff=LEGK) | — |
 | **JustDoWork** | Erreichbar | **≈$92** | ≈$22/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=wQWM) | — |
@@ -142,7 +142,7 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 
 Die Registrierung gewährt 50 interne Einheiten eines GPT-Abonnements für einen Monat, beschränkt auf die vorgesehene GPT-Gruppe. QQ-Check-ins bringen täglich CNY 0,1–1; qualifizierte Empfehlungen bringen beiden Beteiligten je CNY 5. Das Guthaben ist unter „我的订阅“ (Meine Abonnements) zu finden.
 
-[Dienst öffnen / registrieren](https://wjapi.vip/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/wanjiadenghuo/)
+[Dienst öffnen / registrieren](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/wanjiadenghuo/)
 
 
 - **Guthaben am ersten Tag / Tarif**: 50 interne Einheiten (keine USD)
@@ -155,7 +155,7 @@ Die Registrierung gewährt 50 interne Einheiten eines GPT-Abonnements für einen
 
 ### Voraussetzungen für die Registrierung
 
-Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Den vollständigen Empfehlungslink mit aff= verwenden. Eine E-Mail-Bestätigung ist erforderlich; derzeit werden QQ, 126, 163 und Gmail akzeptiert. Für Prämien der QQ-Gruppe 1064350952 beitreten und das Website-Konto verknüpfen. Die eingeladene Person muss sich registrieren, der Gruppe beitreten, das Konto verknüpfen und einen Check-in durchführen; beide Beteiligten müssen ihre Konten verknüpfen.
+Den vollständigen Empfehlungslink mit aff=EV6E3UJZ4J3V verwenden. Eine E-Mail-Bestätigung ist erforderlich; derzeit werden QQ, 126, 163 und Gmail akzeptiert. Für Prämien der QQ-Gruppe 1064350952 beitreten und das Website-Konto verknüpfen. Die eingeladene Person muss sich registrieren, der Gruppe beitreten, das Konto verknüpfen und einen Check-in durchführen; beide Beteiligten müssen ihre Konten verknüpfen.
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 
@@ -215,7 +215,7 @@ Nicht öffentlich angegeben
 
 Prime Relay bietet am Registrierungstag $20 Guthaben und unterstützt tägliche Check-ins.
 
-[Dienst öffnen / registrieren](https://www.primerelay.online/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/primerelay/)
+[Dienst öffnen / registrieren](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/primerelay/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $20
@@ -228,7 +228,7 @@ Prime Relay bietet am Registrierungstag $20 Guthaben und unterstützt tägliche 
 
 ### Voraussetzungen für die Registrierung
 
-Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Den vollständigen Empfehlungslink mit aff= verwenden. Die öffentlichen Registrierungseinstellungen verlangen derzeit eine @qq.com-Adresse und eine E-Mail-Bestätigung. Nach der Anmeldung Guthaben und Check-in-Bereich öffnen.
+Den vollständigen Empfehlungslink mit aff=5W2YYP5PTEBM verwenden. Die öffentlichen Registrierungseinstellungen verlangen derzeit eine @qq.com-Adresse und eine E-Mail-Bestätigung. Nach der Anmeldung Guthaben und Check-in-Bereich öffnen.
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 
@@ -251,7 +251,7 @@ Nicht öffentlich angegeben
 
 Registriere dich bei Codex Relay und erhalte 10 US-Dollar API-Guthaben.
 
-[Dienst öffnen / registrieren](https://codex-relay.codes/register) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/codex-relay/)
+[Dienst öffnen / registrieren](https://codex-relay.codes/register?aff=UjvP) · [Details](https://wangpanying.github.io/ai-coding-welfare/de/sites/codex-relay/)
 
 
 - **Guthaben am ersten Tag / Tarif**: $10
@@ -263,7 +263,7 @@ Registriere dich bei Codex Relay und erhalte 10 US-Dollar API-Guthaben.
 
 ### Voraussetzungen für die Registrierung
 
-Hier ist kein Einladungscode hinterlegt. Registrierungslinks enthalten keinen Code und Einladungsboni zählen nicht zur Summe; die folgenden Einladungsbedingungen dienen nur zur Information. Öffne den vollständigen Empfehlungslink, behalte aff= bei und folge den Registrierungsanweisungen. Melde dich an, um dein Startguthaben von 10 US-Dollar einzusehen.
+Öffne den vollständigen Empfehlungslink, behalte aff=UjvP bei und folge den Registrierungsanweisungen. Melde dich an, um dein Startguthaben von 10 US-Dollar einzusehen.
 
 ### Prämien, Einschränkungen und wichtige Hinweise
 

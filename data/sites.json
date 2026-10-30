@@ -191,7 +191,7 @@
         "unit": "site-usd",
         "note": "注册赠送的 $50 是指定 GPT 分组的站内订阅用量额度，有效期一个月，与通用余额分开计算；签到与邀请奖励未计入首日合计。"
       },
-      "signupUrl": "https://wjapi.vip/register",
+      "signupUrl": "https://wjapi.vip/register?aff=EV6E3UJZ4J3V",
       "homeUrl": "https://wjapi.vip",
       "docsUrl": null,
       "statusApi": "https://wjapi.vip/api/v1/settings/public",
@@ -207,7 +207,6 @@
         "OpenAI 兼容"
       ],
       "highlights": [
-        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "注册赠送 50 站内刀 GPT「不降智」分组订阅额度，可在「我的订阅」中查看；有效期一个月，无每日额度上限，在有效期内按实际用量扣减，用完即止",
         "加入 QQ 群 1064350952，按机器人提示绑定站内账号，每天发送「签到」随机领取 ¥0.1～1 通用余额，可用于所有模型分组",
         "通过本页完整邀请链接注册，被邀请人进群、绑定账号并签到，且双方均绑定站内账号，满足活动条件后双方各得 ¥5 通用余额",
@@ -238,7 +237,7 @@
           "邮箱 + 密码"
         ],
         "requirements": [
-          "使用本页完整邀请链接，保留 aff=，邀请关系以站内记录为准",
+          "使用本页完整邀请链接，保留 aff=EV6E3UJZ4J3V，邀请关系以站内记录为准",
           "邮箱注册需要验证码，当前公开配置允许 QQ、126、163、Gmail 邮箱",
           "注册后在「我的订阅」中查看赠送的 50 站内刀 GPT「不降智」分组额度及到期时间",
           "签到和邀请奖励需要加入 QQ 群 1064350952 并绑定站内账号；邀请奖励还要求被邀请人完成签到，双方均需绑定账号"
@@ -346,7 +345,7 @@
         "unit": "usd",
         "note": "首日 $20 与后续每日签到按维护者提供的信息登记，签到金额以站内显示为准。"
       },
-      "signupUrl": "https://www.primerelay.online/register",
+      "signupUrl": "https://www.primerelay.online/register?aff=5W2YYP5PTEBM",
       "homeUrl": "https://www.primerelay.online",
       "docsUrl": null,
       "statusApi": "https://primerelay.online/v1/models",
@@ -359,9 +358,8 @@
         "OpenAI 兼容"
       ],
       "highlights": [
-        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "注册首日可获得 $20 额度，后续支持每日签到",
-        "通过本页完整邀请链接注册，保留 aff=",
+        "通过本页完整邀请链接注册，保留 aff=5W2YYP5PTEBM",
         "官网列出 Claude、GPT、DeepSeek、Grok、Gemini 等模型系列，具体模型与价格可在站内模型广场查看"
       ],
       "endpoints": {
@@ -375,7 +373,7 @@
           "QQ 邮箱 + 密码"
         ],
         "requirements": [
-          "使用完整注册链接，保留 aff=",
+          "使用完整注册链接，保留 aff=5W2YYP5PTEBM",
           "当前公开注册配置仅允许 @qq.com 邮箱，并要求邮箱验证码",
           "需要加入 QQ 群：239561070",
           "注册后在控制台查看首日 $20 额度与每日签到入口"
@@ -473,10 +471,9 @@
         "invite": null,
         "dailyCheckin": null,
         "approx": false,
-        "unit": "usd",
-        "note": "未配置邀请码"
+        "unit": "usd"
       },
-      "signupUrl": "https://codex-relay.codes/register",
+      "signupUrl": "https://codex-relay.codes/register?aff=UjvP",
       "homeUrl": "https://codex-relay.codes",
       "docsUrl": null,
       "statusApi": "https://codex-relay.codes",
@@ -487,9 +484,8 @@
         "注册 $10"
       ],
       "highlights": [
-        "本页尚未配置该站邀请码，注册链接不含邀请信息，邀请奖励不计入额度合计；下方邀请条件仅供参考。",
         "注册可获得 $10 API 额度",
-        "通过本页完整邀请链接进入，保留 aff="
+        "通过本页完整邀请链接进入，保留 aff=UjvP"
       ],
       "endpoints": {
         "anthropic": null,
@@ -499,7 +495,7 @@
         "client": "控制台内查看",
         "note": "注册后在 Codex Relay 控制台查看 API 接入地址、可用模型和接入说明。",
         "steps": [
-          "打开本页完整邀请链接，保留 aff=，按页面提示完成注册",
+          "打开本页完整邀请链接，保留 aff=UjvP，按页面提示完成注册",
           "登录控制台查看 $10 注册额度",
           "按控制台说明获取 API Key、接入地址和模型 ID，并配置客户端"
         ],
@@ -511,7 +507,7 @@
           "官网注册"
         ],
         "requirements": [
-          "使用完整注册链接，保留 aff=，并按页面提示完成注册",
+          "使用完整注册链接，保留 aff=UjvP，并按页面提示完成注册",
           "注册可获得 $10 额度，登录后在控制台查看余额"
         ]
       },
