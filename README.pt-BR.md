@@ -22,7 +22,7 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-11-09 06:35 UTC
+**Dados atualizados em:** 2026-11-10 07:21 UTC
 
 ## Visão geral
 
@@ -30,7 +30,7 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | Acessível | **300 unidades internas (não USD)** | Sorteio grátis + cupons de desconto para recarga | [Abrir serviço / cadastrar](https://docode.cc/register?aff=suPH) | Entre no grupo do QQ para desbloquear muito mais benefícios |
 | **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=NVN4) | — |
-| **万家灯火** | Acessível | **50 unidades internas (não USD)** | CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta | [Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta |
+| **万家灯火** | Acessível | **50 unidades internas (não USD) + ¥2 crédito geral de teste** | Após recarregar CNY 10: CNY 0,1–1 aleatórios em saldo geral por check-in diário | [Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Entre no grupo QQ 1064350952 e vincule o QQ para receber; as 50 unidades cobrem apenas o grupo GPT indicado por um mês, enquanto os créditos de teste/check-in são saldo geral |
 | **Happy Code** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://happycodeai.com/register) | Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários |
 | **Prime Relay** | Acessível | **$20** | Check-in diário disponível | [Abrir serviço / cadastrar](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | É necessário entrar no grupo do QQ 239561070 |
 | **Codex Relay** | Acessível | **$10** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://codex-relay.codes/register?aff=UjvP) | — |
@@ -63,7 +63,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sorteio grátis + cupons de desconto para recarga
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 - **Observações**: Entre no grupo do QQ para desbloquear muito mais benefícios
 
 
@@ -139,26 +139,26 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 [Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/agentrouter/)
 ## 万家灯火
 
-O cadastro concede 50 unidades internas de uso de uma assinatura GPT por um mês, restrita ao grupo GPT indicado. Check-ins no QQ dão CNY 0,1–1 por dia; indicações elegíveis dão CNY 5 a cada participante. Consulte o crédito em “我的订阅” (Minhas assinaturas).
+Entre no grupo QQ 1064350952 e vincule suas contas QQ e do site para receber 50 unidades internas de uma assinatura GPT por um mês, mais CNY 2 em crédito geral de teste. Após uma recarga de CNY 10, check-ins diários dão CNY 0,1–1; indicações elegíveis dão CNY 5 a cada participante.
 
 [Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/wanjiadenghuo/)
 
 
-- **Créditos no primeiro dia / plano**: 50 unidades internas (não USD)
-- **Cadastro**: 50 unidades internas (não USD)
-- **Créditos diários**: CNY 0,1–1 aleatórios por dia após entrar no QQ e vincular a conta
+- **Créditos no primeiro dia / plano**: 50 unidades internas (não USD) + ¥2 crédito geral de teste
+- **Receba após entrar no QQ e vincular a conta**: 50 unidades internas (não USD) + ¥2 crédito geral de teste
+- **Créditos diários**: Após recarregar CNY 10: CNY 0,1–1 aleatórios em saldo geral por check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
-- **Observações**: Assinatura restrita ao grupo GPT indicado; recompensas exigem o grupo QQ 1064350952 e a vinculação da conta
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
+- **Observações**: Entre no grupo QQ 1064350952 e vincule o QQ para receber; as 50 unidades cobrem apenas o grupo GPT indicado por um mês, enquanto os créditos de teste/check-in são saldo geral
 
 
 ### Requisitos de cadastro
 
-Use o link completo de indicação e mantenha aff=EV6E3UJZ4J3V. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Para as recompensas, entre no grupo QQ 1064350952 e vincule sua conta do site. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e faça check-in; ambos devem vincular suas contas.
+Use o link completo de indicação e mantenha aff=EV6E3UJZ4J3V. É necessária verificação de e-mail; QQ, 126, 163 e Gmail são aceitos atualmente. Entre no grupo QQ 1064350952 e vincule suas contas QQ e do site para receber os dois créditos de boas-vindas. A assinatura de 50 unidades aparece em “我的订阅” (Minhas assinaturas). Os check-ins exigem uma recarga de CNY 10. A indicação exige que o convidado se cadastre, entre no grupo, vincule a conta e conclua um check-in; ambos devem vincular suas contas.
 
 ### Recompensas, limites e cuidados importantes
 
-Os benefícios e modelos foram informados pelo operador na Issue #46. As configurações públicas e a saúde do serviço foram verificadas; o recebimento dos créditos e a inferência não foram testados. A assinatura de 50 unidades não tem limite diário, expira após um mês e cobre apenas o grupo GPT indicado. Ela é separada do saldo geral. CNY 1 compra 1 unidade interna; os $50 anunciados não são dólares em dinheiro e ficam fora do total em USD. Recompensas condicionais de check-in e indicação não entram nos créditos do primeiro dia. O multiplicador GPT a partir de 0.06x vale para um grupo específico; confira modelos, grupos e preços atuais no painel.
+A oferta de boas-vindas e a exigência para check-ins foram atualizadas em 2026-11-09. Os modelos foram informados pelo operador na Issue #46. As configurações públicas e a saúde do serviço foram verificadas; o recebimento dos créditos e a inferência não foram testados. A assinatura de 50 unidades não tem limite diário, expira após um mês e cobre apenas o grupo GPT indicado. O crédito de teste de CNY 2 e as recompensas de check-in/indicação são saldo geral utilizável em todos os grupos de modelos. CNY 1 compra 1 unidade interna, mas os saldos são apresentados separadamente; os $50 anunciados não são dólares em dinheiro e nenhum dos créditos entra no total em USD. Check-ins exigem uma recarga de CNY 10, e as recompensas de check-in/indicação não entram nos créditos do primeiro dia. O multiplicador GPT a partir de 0.06x vale para um grupo específico; confira modelos, grupos e preços atuais no painel.
 
 ### Configuração do cliente
 
@@ -185,7 +185,7 @@ Cadastre-se no Happy Code para receber $100 em créditos. Entre no grupo QQ 3677
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 - **Observações**: Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários
 
 
@@ -221,7 +221,7 @@ O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite che
 - **Cadastro**: $20
 - **Créditos diários**: Check-in diário disponível
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 - **Observações**: É necessário entrar no grupo do QQ 239561070
 
 
@@ -257,7 +257,7 @@ Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.
 - **Cadastro**: $10
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 
 
 ### Requisitos de cadastro
@@ -291,7 +291,7 @@ Gateway compatível com OpenAI e loja de apps com pontos internos, indicações 
 - **Créditos no primeiro dia / plano**: Não divulgado publicamente
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 
 
 ### Requisitos de cadastro
@@ -328,7 +328,7 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:35 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 
 
 ### Requisitos de cadastro
@@ -366,7 +366,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 
 
 ### Requisitos de cadastro
@@ -403,7 +403,7 @@ Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; 
 - **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-09 06:34 UTC
+- **Dados atualizados em**: 2026-11-10 07:21 UTC
 
 
 ### Requisitos de cadastro
