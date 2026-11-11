@@ -22,7 +22,7 @@ Community gateways, free API credits and low-cost plans for Claude Code, Codex a
 
 A translated guide to the listed services. Amounts, model IDs, prices and referral URLs are generated from the same data as the Chinese edition. Detailed comparison, history, upstream documentation and some service interfaces remain in Chinese.
 
-**Snapshot updated:** 2026-11-10 07:21 UTC
+**Snapshot updated:** 2026-11-11 06:26 UTC
 
 ## Site overview
 
@@ -30,12 +30,12 @@ A translated guide to the listed services. Amounts, model IDs, prices and referr
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | Reachable | **300 site units (not USD)** | Free prize draw + top-up discount coupons | [Open service / register](https://docode.cc/register?aff=suPH) | Join the QQ group to unlock many more perks |
 | **AgentRouter** | Reachable | **$175** | $25/day · Daily check-in | [Open service / register](https://agentrouter.org/register?aff=NVN4) | — |
-| **万家灯火** | Reachable | **50 site units (not USD) + ¥2 general trial credit** | After a CNY 10 top-up: random CNY 0.1–1 in general balance per daily check-in | [Open service / register](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Join QQ group 1064350952 and link QQ to claim; 50 units cover only the designated GPT group for one month, while trial/check-in credits are general balance |
+| **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=LEGK) | — |
 | **Happy Code** | Reachable | **$100** | Not publicly specified | [Open service / register](https://happycodeai.com/register) | Join QQ group 367746547 and ask the group owner for the newcomer trial pack |
 | **Prime Relay** | Reachable | **$20** | Daily check-ins supported | [Open service / register](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | Must join QQ group 239561070 |
 | **Codex Relay** | Reachable | **$10** | Not publicly specified | [Open service / register](https://codex-relay.codes/register?aff=UjvP) | — |
 | **Matrix** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
-| **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=LEGK) | — |
+| **万家灯火** | Reachable | **50 site units (not USD) + ¥2 general trial credit** | After a CNY 10 top-up: random CNY 0.1–1 in general balance per daily check-in | [Open service / register](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Join QQ group 1064350952 and link QQ to claim; 50 units cover only the designated GPT group for one month, while trial/check-in credits are general balance |
 | **KKtoken AI** | Reachable | **$120** | $20/day · Daily check-in | [Open service / register](https://kktoken.cc/sign-up?aff=CT8p) | — |
 | **NOFX** | Reachable | **15 points** | 5 points/day · Daily check-in | [Open service / register](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — |
 
@@ -63,7 +63,7 @@ New API gateway with Claude and GPT services; bonuses use internal site units, n
 - **Referral bonus**: 250 site units (not USD)
 - **Daily credits**: Free prize draw + top-up discount coupons
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 - **Remarks**: Join the QQ group to unlock many more perks
 
 
@@ -137,35 +137,35 @@ Only models returned by the public snapshot are listed; missing data does not me
 | gpt-6-astra | $4 | $20 | — | openai |
 
 [Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/agentrouter/)
-## 万家灯火
+## AnyRouter
 
-Join QQ group 1064350952 and link your QQ and site accounts to receive 50 internal units of GPT subscription usage for one month plus CNY 2 in general trial credit. After topping up CNY 10, daily check-ins award CNY 0.1–1; eligible referrals award CNY 5 to each participant.
+New API gateway with signup/referral credits, daily check-ins and Anthropic/OpenAI-compatible routes.
 
-[Open service / register](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/wanjiadenghuo/)
+[Open service / register](https://anyrouter.top/register?aff=LEGK) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/anyrouter/)
 
 
-- **First-day credits / plan**: 50 site units (not USD) + ¥2 general trial credit
-- **Claim after joining QQ and linking your account**: 50 site units (not USD) + ¥2 general trial credit
-- **Daily credits**: After a CNY 10 top-up: random CNY 0.1–1 in general balance per daily check-in
+- **First-day credits / plan**: $150
+- **Signup**: $75
+- **Referral bonus**: $50
+- **Daily credits**: $25/day · Daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
-- **Remarks**: Join QQ group 1064350952 and link QQ to claim; 50 units cover only the designated GPT group for one month, while trial/check-in credits are general balance
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 
 
 ### Registration requirements
 
-Use the full referral link and keep aff=EV6E3UJZ4J3V. Email verification is required; QQ, 126, 163 and Gmail addresses are currently accepted. Join QQ group 1064350952 and link your QQ and site accounts to claim both new-user credits. The 50-unit subscription is listed under “我的订阅” (My Subscriptions). Check-ins require a CNY 10 top-up. Referral rewards require the invitee to register, join the group, link their account and complete a check-in; both participants must link their accounts.
+Use the referral URL. GitHub accounts must be at least five years old; LinuxDO is an alternative without that stated age requirement. Sign out and back in after check-in to refresh the balance.
 
 ### Rewards, limits and important caveats
 
-The new-user offer and check-in requirement were updated on 2026-11-09. Model claims come from the operator’s Issue #46. Public settings and health were checked; actual awards and inference were not tested. The 50-unit subscription has no daily cap, expires after one month and only covers the designated GPT group. The CNY 2 trial credit and check-in/referral rewards are general balance usable across model groups. CNY 1 buys 1 internal unit, but these balances are shown separately; the advertised $50 is not USD cash and neither credit is included in USD totals. Check-ins require a CNY 10 top-up, and check-in/referral rewards are excluded from first-day credits. GPT pricing starts at 0.06x for a specific group; verify current models, groups and rates in the console.
+Credit amounts and advertised input/output prices of $5/$25 per million tokens come from provider notices. JavaScript challenges prevent automatic public API verification, so confirm models, prices and actual awards in the dashboard. A challenge page is not evidence of an outage.
 
 ### Client setup
 
 Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
 
-- Anthropic Base URL: `https://wjapi.vip`
-- OpenAI Base URL: `https://wjapi.vip/v1`
+- Anthropic Base URL: `https://anyrouter.top`
+- OpenAI Base URL: `https://anyrouter.top/v1`
 
 ### Public model snapshot
 
@@ -173,7 +173,7 @@ Only models returned by the public snapshot are listed; missing data does not me
 
 Not publicly specified
 
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/wanjiadenghuo/)
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
 ## Happy Code
 
 Register with Happy Code to receive $100 in credits. Join QQ group 367746547 and ask the group owner for the newcomer trial pack.
@@ -185,7 +185,7 @@ Register with Happy Code to receive $100 in credits. Join QQ group 367746547 and
 - **Signup**: $100
 - **Daily credits**: Not publicly specified
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 - **Remarks**: Join QQ group 367746547 and ask the group owner for the newcomer trial pack
 
 
@@ -221,7 +221,7 @@ Prime Relay offers $20 in credits on the first day of registration and supports 
 - **Signup**: $20
 - **Daily credits**: Daily check-ins supported
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 - **Remarks**: Must join QQ group 239561070
 
 
@@ -257,7 +257,7 @@ Register with Codex Relay to receive $10 in API credits.
 - **Signup**: $10
 - **Daily credits**: Not publicly specified
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 
 
 ### Registration requirements
@@ -291,7 +291,7 @@ OpenAI-compatible gateway and app store using internal points, with referral and
 - **First-day credits / plan**: Not publicly specified
 - **Daily credits**: Not publicly specified
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 
 
 ### Registration requirements
@@ -316,35 +316,35 @@ Only models returned by the public snapshot are listed; missing data does not me
 Not publicly specified
 
 [Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/matrix/)
-## AnyRouter
+## 万家灯火
 
-New API gateway with signup/referral credits, daily check-ins and Anthropic/OpenAI-compatible routes.
+Join QQ group 1064350952 and link your QQ and site accounts to receive 50 internal units of GPT subscription usage for one month plus CNY 2 in general trial credit. After topping up CNY 10, daily check-ins award CNY 0.1–1; eligible referrals award CNY 5 to each participant.
 
-[Open service / register](https://anyrouter.top/register?aff=LEGK) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/anyrouter/)
+[Open service / register](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) · [Details](https://wangpanying.github.io/ai-coding-welfare/en/sites/wanjiadenghuo/)
 
 
-- **First-day credits / plan**: $150
-- **Signup**: $75
-- **Referral bonus**: $50
-- **Daily credits**: $25/day · Daily check-in
+- **First-day credits / plan**: 50 site units (not USD) + ¥2 general trial credit
+- **Claim after joining QQ and linking your account**: 50 site units (not USD) + ¥2 general trial credit
+- **Daily credits**: After a CNY 10 top-up: random CNY 0.1–1 in general balance per daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
+- **Remarks**: Join QQ group 1064350952 and link QQ to claim; 50 units cover only the designated GPT group for one month, while trial/check-in credits are general balance
 
 
 ### Registration requirements
 
-Use the referral URL. GitHub accounts must be at least five years old; LinuxDO is an alternative without that stated age requirement. Sign out and back in after check-in to refresh the balance.
+Use the full referral link and keep aff=EV6E3UJZ4J3V. Email verification is required; QQ, 126, 163 and Gmail addresses are currently accepted. Join QQ group 1064350952 and link your QQ and site accounts to claim both new-user credits. The 50-unit subscription is listed under “我的订阅” (My Subscriptions). Check-ins require a CNY 10 top-up. Referral rewards require the invitee to register, join the group, link their account and complete a check-in; both participants must link their accounts.
 
 ### Rewards, limits and important caveats
 
-Credit amounts and advertised input/output prices of $5/$25 per million tokens come from provider notices. JavaScript challenges prevent automatic public API verification, so confirm models, prices and actual awards in the dashboard. A challenge page is not evidence of an outage.
+The new-user offer and check-in requirement were updated on 2026-11-09. Model claims come from the operator’s Issue #46. Public settings and health were checked; actual awards and inference were not tested. The 50-unit subscription has no daily cap, expires after one month and only covers the designated GPT group. The CNY 2 trial credit and check-in/referral rewards are general balance usable across model groups. CNY 1 buys 1 internal unit, but these balances are shown separately; the advertised $50 is not USD cash and neither credit is included in USD totals. Check-ins require a CNY 10 top-up, and check-in/referral rewards are excluded from first-day credits. GPT pricing starts at 0.06x for a specific group; verify current models, groups and rates in the console.
 
 ### Client setup
 
 Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
 
-- Anthropic Base URL: `https://anyrouter.top`
-- OpenAI Base URL: `https://anyrouter.top/v1`
+- Anthropic Base URL: `https://wjapi.vip`
+- OpenAI Base URL: `https://wjapi.vip/v1`
 
 ### Public model snapshot
 
@@ -352,7 +352,7 @@ Only models returned by the public snapshot are listed; missing data does not me
 
 Not publicly specified
 
-[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/anyrouter/)
+[Full source notes (Chinese)](https://wangpanying.github.io/ai-coding-welfare/sites/wanjiadenghuo/)
 ## KKtoken AI
 
 New API gateway with referral credits, daily check-ins and token-based billing.
@@ -366,7 +366,7 @@ New API gateway with referral credits, daily check-ins and token-based billing.
 - **Daily credits**: $20/day · Daily check-in
 - **Status**: Reachable
 - **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 
 
 ### Registration requirements
@@ -403,7 +403,7 @@ Task-based API points with passwordless login, Discord check-ins and referral re
 - **Referral bonus**: 10 points
 - **Daily credits**: 5 points/day · Daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-11-10 07:21 UTC
+- **Snapshot updated**: 2026-11-11 06:26 UTC
 
 
 ### Registration requirements
