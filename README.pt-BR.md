@@ -22,7 +22,7 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-11-11 06:26 UTC
+**Dados atualizados em:** 2026-11-12 07:13 UTC
 
 ## Visão geral
 
@@ -37,7 +37,7 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 | **Matrix** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
 | **万家灯火** | Acessível | **50 unidades internas (não USD) + ¥2 crédito geral de teste** | Após recarregar CNY 10: CNY 0,1–1 aleatórios em saldo geral por check-in diário | [Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Entre no grupo QQ 1064350952 e vincule o QQ para receber; as 50 unidades cobrem apenas o grupo GPT indicado por um mês, enquanto os créditos de teste/check-in são saldo geral |
 | **KKtoken AI** | Acessível | **$120** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=CT8p) | — |
-| **NOFX** | Acessível | **15 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — |
+| **NOFX** | Falha na verificação | **15 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — |
 
 **Créditos indicativos em USD no primeiro dia: $575 em 6 serviços que aceitam novos usuários.**
 
@@ -63,7 +63,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sorteio grátis + cupons de desconto para recarga
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 - **Observações**: Entre no grupo do QQ para desbloquear muito mais benefícios
 
 
@@ -149,7 +149,7 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 
 
 ### Requisitos de cadastro
@@ -185,7 +185,7 @@ Cadastre-se no Happy Code para receber $100 em créditos. Entre no grupo QQ 3677
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 - **Observações**: Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários
 
 
@@ -221,7 +221,7 @@ O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite che
 - **Cadastro**: $20
 - **Créditos diários**: Check-in diário disponível
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 - **Observações**: É necessário entrar no grupo do QQ 239561070
 
 
@@ -257,7 +257,7 @@ Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.
 - **Cadastro**: $10
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 
 
 ### Requisitos de cadastro
@@ -291,7 +291,7 @@ Gateway compatível com OpenAI e loja de apps com pontos internos, indicações 
 - **Créditos no primeiro dia / plano**: Não divulgado publicamente
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 
 
 ### Requisitos de cadastro
@@ -327,7 +327,7 @@ Entre no grupo QQ 1064350952 e vincule suas contas QQ e do site para receber 50 
 - **Receba após entrar no QQ e vincular a conta**: 50 unidades internas (não USD) + ¥2 crédito geral de teste
 - **Créditos diários**: Após recarregar CNY 10: CNY 0,1–1 aleatórios em saldo geral por check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 - **Observações**: Entre no grupo QQ 1064350952 e vincule o QQ para receber; as 50 unidades cobrem apenas o grupo GPT indicado por um mês, enquanto os créditos de teste/check-in são saldo geral
 
 
@@ -366,7 +366,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 
 
 ### Requisitos de cadastro
@@ -402,8 +402,8 @@ Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; 
 - **Créditos no primeiro dia / plano**: 15 pontos
 - **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-11-11 06:26 UTC
+- **Status**: Falha na verificação
+- **Dados atualizados em**: 2026-11-12 07:13 UTC
 
 
 ### Requisitos de cadastro
