@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T07:13:58.863Z",
+  "generatedAt": "2026-11-13T06:48:27.943Z",
   "sites": [
     {
       "id": "docode",
-      "checkedAt": "2026-11-12T07:13:47.377Z",
+      "checkedAt": "2026-11-13T06:48:17.020Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 1578,
+      "latencyMs": 1559,
       "error": null,
       "systemName": "DoCode",
       "version": "",
@@ -25,8 +25,8 @@
       "announcements": [
         {
           "id": 38,
-          "date": "2026-11-11",
-          "text": "双 11，11 点有活动"
+          "date": "2026-11-12",
+          "text": "gemini由于大面积深度杀号，导致上游疯狂涨价，现在按次由原额度 2/次 涨至额度 3/次。"
         },
         {
           "id": 37,
@@ -58,7 +58,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 966,
+        "ms": 857,
         "attempts": 1,
         "url": "https://docode.cc/register?aff=zMRe"
       },
@@ -76,9 +76,9 @@
     },
     {
       "id": "agentrouter",
-      "checkedAt": "2026-11-12T07:13:52.750Z",
+      "checkedAt": "2026-11-13T06:48:21.824Z",
       "online": true,
-      "latencyMs": 326,
+      "latencyMs": 281,
       "error": "invalid json",
       "systemName": "Agent Router",
       "version": "init-20260918-cbda758f",
@@ -206,7 +206,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 2056,
+        "ms": 1302,
         "attempts": 1,
         "url": "https://agentrouter.org/register?aff=szt3"
       },
@@ -237,10 +237,10 @@
     },
     {
       "id": "anyrouter",
-      "checkedAt": "2026-11-12T07:13:53.380Z",
+      "checkedAt": "2026-11-13T06:48:22.031Z",
       "apiOk": false,
       "pricingOk": false,
-      "latencyMs": 200,
+      "latencyMs": 178,
       "error": "invalid json",
       "systemName": null,
       "version": null,
@@ -264,7 +264,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 2864,
+        "ms": 1847,
         "attempts": 1,
         "url": "https://anyrouter.top/register?aff=Z24N"
       },
@@ -277,10 +277,10 @@
     },
     {
       "id": "happycode",
-      "checkedAt": "2026-11-12T07:13:48.343Z",
+      "checkedAt": "2026-11-13T06:48:17.230Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 2539,
+      "latencyMs": 1679,
       "error": null,
       "systemName": "Happy Code",
       "version": "0.0.128",
@@ -307,7 +307,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 2530,
+        "ms": 1599,
         "attempts": 1,
         "url": "https://happycodeai.com/register?aff=5KUZBJEE7FYT"
       },
@@ -320,10 +320,10 @@
     },
     {
       "id": "primerelay",
-      "checkedAt": "2026-11-12T07:13:48.104Z",
+      "checkedAt": "2026-11-13T06:48:17.115Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 2477,
+      "latencyMs": 1788,
       "error": null,
       "systemName": null,
       "version": null,
@@ -347,7 +347,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 2666,
+        "ms": 1786,
         "attempts": 1,
         "url": "https://www.primerelay.online/register?aff=2FXZ7SBATLN2"
       },
@@ -360,10 +360,10 @@
     },
     {
       "id": "codex-relay",
-      "checkedAt": "2026-11-12T07:13:48.308Z",
+      "checkedAt": "2026-11-13T06:48:17.442Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 2679,
+      "latencyMs": 2114,
       "error": null,
       "systemName": null,
       "version": null,
@@ -387,7 +387,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 2672,
+        "ms": 2109,
         "attempts": 1,
         "url": "https://codex-relay.codes/register?aff=6jAq"
       },
@@ -400,10 +400,10 @@
     },
     {
       "id": "matrix",
-      "checkedAt": "2026-11-12T07:13:49.129Z",
+      "checkedAt": "2026-11-13T06:48:17.881Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 3500,
+      "latencyMs": 2551,
       "error": null,
       "systemName": null,
       "version": null,
@@ -427,7 +427,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 4565,
+        "ms": 2597,
         "attempts": 1,
         "url": "https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_"
       },
@@ -440,13 +440,13 @@
     },
     {
       "id": "wanjiadenghuo",
-      "checkedAt": "2026-11-12T07:13:48.479Z",
+      "checkedAt": "2026-11-13T06:48:17.679Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 2777,
+      "latencyMs": 2218,
       "error": null,
       "systemName": "万家灯火",
-      "version": "2.20.1",
+      "version": "2.21.0",
       "registerOpen": true,
       "passwordRegister": true,
       "checkinEnabled": null,
@@ -469,7 +469,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 2898,
+        "ms": 2213,
         "attempts": 1,
         "url": "https://wjapi.vip/register?aff=H6QJLZT5GQHW"
       },
@@ -482,10 +482,10 @@
     },
     {
       "id": "kktoken",
-      "checkedAt": "2026-11-12T07:13:49.084Z",
+      "checkedAt": "2026-11-13T06:48:18.089Z",
       "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 3452,
+      "latencyMs": 2755,
       "error": null,
       "systemName": "KKtoken AI",
       "version": "v1.0.0-rc.25",
@@ -512,7 +512,7 @@
       "signup": {
         "status": 200,
         "ok": true,
-        "ms": 3473,
+        "ms": 2716,
         "attempts": 1,
         "url": "https://kktoken.cc/sign-up?aff=MzG9"
       },
@@ -525,11 +525,11 @@
     },
     {
       "id": "nofx",
-      "checkedAt": "2026-11-12T07:13:53.086Z",
-      "apiOk": false,
+      "checkedAt": "2026-11-13T06:48:18.144Z",
+      "apiOk": true,
       "pricingOk": false,
-      "latencyMs": 14,
-      "error": "fetch failed (ENOTFOUND)",
+      "latencyMs": 2810,
+      "error": null,
       "systemName": null,
       "version": null,
       "registerOpen": null,
@@ -550,16 +550,15 @@
         "openai": null
       },
       "signup": {
-        "status": 0,
-        "ok": false,
-        "ms": 13,
-        "error": "fetch failed (ENOTFOUND)",
-        "attempts": 3,
+        "status": 200,
+        "ok": true,
+        "ms": 2322,
+        "attempts": 1,
         "url": "https://nofx.one/zh-CN/sign-in?ref=J369GHY4"
       },
       "mirrors": [],
       "probeBlocked": false,
-      "online": false,
+      "online": true,
       "dataStale": false,
       "staleFrom": null,
       "staleFields": []
