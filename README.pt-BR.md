@@ -22,25 +22,22 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-11-15 06:36 UTC
+**Dados atualizados em:** 2026-11-16 06:33 UTC
 
 ## Visão geral
 
 | Serviço | Status | Créditos no primeiro dia / plano | Créditos diários | Cadastro | Observações |
 | --- | --- | --- | --- | --- | --- |
 | **DoCode** | Acessível | **300 unidades internas (não USD)** | Sorteio grátis + cupons de desconto para recarga | [Abrir serviço / cadastrar](https://docode.cc/register?aff=suPH) | Entre no grupo do QQ para desbloquear muito mais benefícios |
-| **星驰管家** | Acessível | **$1000** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://t.me/xingchi66bot?start=inv_8111640723) | Multiplicador de 0.25, GPT6a e créditos generosos; use este link de indicação para receber o bônus de cadastro |
-| **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=NVN4) | — |
-| **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) | — |
+| **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=NVN4) | O cadastro exige uma conta GitHub com pelo menos 1 ano |
+| **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=LEGK) | O cadastro exige uma conta LinuxDO de nível 2 |
 | **Happy Code** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://happycodeai.com/register) | Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários |
 | **Prime Relay** | Acessível | **$20** | Check-in diário disponível | [Abrir serviço / cadastrar](https://www.primerelay.online/register?aff=5W2YYP5PTEBM) | É necessário entrar no grupo do QQ 239561070 |
 | **Codex Relay** | Acessível | **$10** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://codex-relay.codes/register?aff=UjvP) | — |
 | **Matrix** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth) | — |
 | **万家灯火** | Acessível | **50 unidades internas (não USD) + ¥2 crédito geral de teste** | Após recarregar CNY 10: CNY 0,1–1 aleatórios em saldo geral por check-in diário | [Abrir serviço / cadastrar](https://wjapi.vip/register?aff=EV6E3UJZ4J3V) | Entre no grupo QQ 1064350952 e vincule o QQ para receber; as 50 unidades cobrem apenas o grupo GPT indicado por um mês, enquanto os créditos de teste/check-in são saldo geral |
-| **KKtoken AI** | Acessível | **$120** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=CT8p) | — |
-| **NOFX** | Acessível | **15 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) | — |
 
-**Créditos indicativos em USD no primeiro dia: $1575 em 7 serviços que aceitam novos usuários.**
+**Créditos indicativos em USD no primeiro dia: $455 em 5 serviços que aceitam novos usuários.**
 
 Crédito no primeiro dia = cadastro + indicação + primeiro check-in (ou uma cota diária). São saldos separados em cada serviço, não dinheiro. Pontos, unidades internas, planos pagos, serviços arquivados e cadastros fechados ficam fora do total em USD. Condições e créditos recebidos podem variar.
 
@@ -64,7 +61,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sorteio grátis + cupons de desconto para recarga
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
 - **Observações**: Entre no grupo do QQ para desbloquear muito mais benefícios
 
 
@@ -93,41 +90,6 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 Não divulgado publicamente
 
 [Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/docode/)
-## 星驰管家
-
-Cadastro por indicação no Telegram com créditos generosos, multiplicador de 0.25 e acesso ao GPT6a.
-
-[Abrir serviço / cadastrar](https://t.me/xingchi66bot?start=inv_8111640723) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/xingchi/)
-
-
-- **Créditos no primeiro dia / plano**: $1000
-- **Cadastre-se por este link de indicação**: $1000
-- **Créditos diários**: Não divulgado publicamente
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
-- **Observações**: Multiplicador de 0.25, GPT6a e créditos generosos; use este link de indicação para receber o bônus de cadastro
-
-
-### Requisitos de cadastro
-
-Nenhum código de indicação foi configurado aqui. Os links de cadastro não contêm indicação e os bônus de indicação não entram no total; as condições abaixo são apenas informativas. Abra o link completo de indicação no Telegram, mantenha start=inv_8111640723 e inicie @xingchi66bot tocando em Start. Siga as instruções do bot para concluir o cadastro e conferir o saldo recebido.
-
-### Recompensas, limites e cuidados importantes
-
-As informações sobre o bônus de cadastro, o multiplicador e o modelo foram fornecidas pelo mantenedor. Confira no bot o saldo efetivo, os preços atuais, a chave de API, o endpoint e o identificador exato do modelo.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/xingchi/)
 ## AgentRouter
 
 Gateway comunitário com créditos de cadastro, indicação e check-in diário; endpoints Anthropic e compatíveis com OpenAI.
@@ -142,11 +104,12 @@ Gateway comunitário com créditos de cadastro, indicação e check-in diário; 
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
 - **Dados atualizados em**: 2026-09-23 14:55 UTC
+- **Observações**: O cadastro exige uma conta GitHub com pelo menos 1 ano
 
 
 ### Requisitos de cadastro
 
-Use o link de indicação com GitHub ou LinuxDO. Saia e entre novamente se os créditos não aparecerem.
+Use o link de indicação com GitHub ou LinuxDO. Contas GitHub devem ter pelo menos 1 ano. Saia e entre novamente se os créditos não aparecerem.
 
 ### Recompensas, limites e cuidados importantes
 
@@ -185,12 +148,13 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
+- **Observações**: O cadastro exige uma conta LinuxDO de nível 2
 
 
 ### Requisitos de cadastro
 
-Use a URL de indicação. Contas GitHub devem ter pelo menos cinco anos; LinuxDO é uma alternativa sem essa exigência de idade. Saia e entre novamente após o check-in para atualizar o saldo.
+Use a URL de indicação. Contas GitHub devem ter pelo menos cinco anos; como alternativa, use uma conta LinuxDO de nível 2. Saia e entre novamente após o check-in para atualizar o saldo.
 
 ### Recompensas, limites e cuidados importantes
 
@@ -221,7 +185,7 @@ Cadastre-se no Happy Code para receber $100 em créditos. Entre no grupo QQ 3677
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
 - **Observações**: Entre no grupo QQ 367746547 e peça ao dono do grupo o pacote de teste para novos usuários
 
 
@@ -257,7 +221,7 @@ O Prime Relay oferece $20 em créditos no primeiro dia de cadastro e permite che
 - **Cadastro**: $20
 - **Créditos diários**: Check-in diário disponível
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
 - **Observações**: É necessário entrar no grupo do QQ 239561070
 
 
@@ -293,7 +257,7 @@ Cadastre-se no Codex Relay para receber US$ 10 em créditos de API.
 - **Cadastro**: $10
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
 
 
 ### Requisitos de cadastro
@@ -327,7 +291,7 @@ Gateway compatível com OpenAI e loja de apps com pontos internos, indicações 
 - **Créditos no primeiro dia / plano**: Não divulgado publicamente
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
 
 
 ### Requisitos de cadastro
@@ -363,7 +327,7 @@ Entre no grupo QQ 1064350952 e vincule suas contas QQ e do site para receber 50 
 - **Receba após entrar no QQ e vincular a conta**: 50 unidades internas (não USD) + ¥2 crédito geral de teste
 - **Créditos diários**: Após recarregar CNY 10: CNY 0,1–1 aleatórios em saldo geral por check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
+- **Dados atualizados em**: 2026-11-16 06:33 UTC
 - **Observações**: Entre no grupo QQ 1064350952 e vincule o QQ para receber; as 50 unidades cobrem apenas o grupo GPT indicado por um mês, enquanto os créditos de teste/check-in são saldo geral
 
 
@@ -389,85 +353,14 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 Não divulgado publicamente
 
 [Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/wanjiadenghuo/)
-## KKtoken AI
-
-Gateway New API com créditos de indicação, check-ins diários e cobrança por token.
-
-[Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=CT8p) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/kktoken/)
-
-
-- **Créditos no primeiro dia / plano**: $120
-- **Cadastro**: $75
-- **Bônus de indicação**: $25
-- **Créditos diários**: $20/dia · Check-in diário
-- **Status**: Acessível
-- **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
-
-
-### Requisitos de cadastro
-
-Somente GitHub OAuth, conta com pelo menos 365 dias e Cloudflare Turnstile. Use o link de indicação no cadastro; o bônus não pode ser aplicado depois.
-
-### Recompensas, limites e cuidados importantes
-
-Créditos e preço anunciado de $1 por milhão de tokens de entrada/saída vêm de comunicados, não de preços públicos verificados de forma independente. Modelos e preços reais exigem login. Faça check-in no painel. O relay é pago após os créditos gratuitos; bloqueio antibot da verificação não significa necessariamente indisponibilidade.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- Anthropic Base URL: `https://kktoken.cc`
-- OpenAI Base URL: `https://kktoken.cc/v1`
-- [Documentação do provedor (pode estar em chinês)](https://kktoken.cc/dashboard/overview)
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/kktoken/)
-## NOFX
-
-Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; pontos não são USD.
-
-[Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=3W8MHBZG) · [Detalhes](https://wangpanying.github.io/ai-coding-welfare/pt-BR/sites/nofx/)
-
-
-- **Créditos no primeiro dia / plano**: 15 pontos
-- **Bônus de indicação**: 10 pontos
-- **Créditos diários**: 5 pontos/dia · Check-in diário
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-11-15 06:36 UTC
-
-
-### Requisitos de cadastro
-
-Preserve a URL completa. Entre por magic link de e-mail ou GitHub. Participe do Discord e selecione /verify e /checkin no menu de comandos; essas recompensas exigem Discord. Obtenha a chave e a URL base real no painel autenticado.
-
-### Recompensas, limites e cuidados importantes
-
-Pontos expiram em 30 dias; uso real da API reinicia esse prazo. Check-ins pausam acima de 50 pontos. Verificação Discord dá 5 pontos uma vez (código válido por 30 minutos), indicação dá 5 por amigo e publicação aprovada no X dá 20 uma vez. A página anuncia 20 pontos no cadastro, mas a regra de indicação registrada dá 10: confira o crédito real. Não há conversão pública para USD. O robots permite apenas páginas públicas; modelos e preços exigem login.
-
-### Configuração do cliente
-
-Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
-
-- [Painel](https://nofx.one/zh-CN/tasks)
-
-### Dados públicos dos modelos
-
-Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
-
-Não divulgado publicamente
-
-[Notas completas da fonte (chinês)](https://wangpanying.github.io/ai-coding-welfare/sites/nofx/)
 
 ## Serviços arquivados
 
 Não são mais recomendados para cadastro, incluídos nos totais ou verificados automaticamente. Os motivos originais e o histórico permanecem na edição chinesa.
 
+- [xingchi](https://wangpanying.github.io/ai-coding-welfare/sites/xingchi/) · 2026-11-16
+- [kktoken](https://wangpanying.github.io/ai-coding-welfare/sites/kktoken/) · 2026-11-15
+- [nofx](https://wangpanying.github.io/ai-coding-welfare/sites/nofx/) · 2026-11-15
 - [justdowork](https://wangpanying.github.io/ai-coding-welfare/sites/justdowork/) · 2026-11-03
 - [flushapi](https://wangpanying.github.io/ai-coding-welfare/sites/flushapi/) · 2026-10-30
 - [cheapcodex](https://wangpanying.github.io/ai-coding-welfare/sites/cheapcodex/) · 2026-10-28
